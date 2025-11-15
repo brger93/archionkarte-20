@@ -30,7 +30,7 @@ The following steps must be executed to update the uMap:
 
 <!-- Change Log -->
 ## Change Log
-Changes and relases shall be documented in CHANGELOG.
+Changes shall be documented in CHANGELOG.
 
 
 <!-- Archive -->
