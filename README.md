@@ -24,3 +24,7 @@ Ongoing projects can be found on web page of [WikiTree Stammtisch](https://www.w
 * Choose the corresponding layer (aka archive) from dropdown menu.
 * Check the box *replace layer content*.
 * Upload the data
+
+<!-- Archive -->
+## Archive
+GeoJSONs under folder *geojson* should not be uploaded to uMap. Those are archived versions which were published by user **Basil** in January 2025 on legacy uMap [Archionkarte](https://umap.openstreetmap.de/de/map/archionkarte_46875).
