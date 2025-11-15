@@ -16598,6 +16598,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.836209,
+          53.704278
+        ]
+      },
+      "properties": {
+        "name": "Altwigshagen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/altwigshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.684752,
+          53.85591
+        ]
+      },
+      "properties": {
+        "name": "Anklam St. Marien",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.689534,
+          53.856477
+        ]
+      },
+      "properties": {
+        "name": "Anklam St. Nikolai",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.688091,
+          53.856053
+        ]
+      },
+      "properties": {
+        "name": "Anklam Garnisongemeinde",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-garnisongemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.688091,
+          53.856053
+        ]
+      },
+      "properties": {
+        "name": "Anklam K\u00f6nigliche-Strafanstalt",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-koenigliche-strafanstalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.688091,
+          53.856053
+        ]
+      },
+      "properties": {
+        "name": "Anklam Milit\u00e4rkirchenbuch",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-militaerkirchenbuch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.796607,
           53.983181
         ]
@@ -16607,6 +16703,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/bauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.724549,
+          54.369058
+        ]
+      },
+      "properties": {
+        "name": "Barth",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/barth"
       }
     },
     {
@@ -16646,6 +16758,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.072919,
+          53.94045
+        ]
+      },
+      "properties": {
+        "name": "Benz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/benz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.616568,
           53.826194
         ]
@@ -16671,6 +16799,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/blumberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.627689,
+          54.374408
+        ]
+      },
+      "properties": {
+        "name": "Bodstedt",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/bodstedt"
       }
     },
     {
@@ -16726,6 +16870,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.473044,
+          54.254395
+        ]
+      },
+      "properties": {
+        "name": "Damgarten",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/damgarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.935631,
           53.537803
         ]
@@ -16751,6 +16911,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/dennin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29381,
+          54.047518
+        ]
+      },
+      "properties": {
+        "name": "Dersekow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/dersekow"
       }
     },
     {
@@ -16790,6 +16966,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.784847,
+          53.764667
+        ]
+      },
+      "properties": {
+        "name": "Ducherow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/ducherow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.077945,
           53.682091
         ]
@@ -16799,6 +16991,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/eggesin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7167,
+          54.1667
+        ]
+      },
+      "properties": {
+        "name": "Eixen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/eixen"
       }
     },
     {
@@ -16838,6 +17046,166 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.798192,
+          54.3325661
+        ]
+      },
+      "properties": {
+        "name": "Flemendorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/flemendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.878125,
+          54.187193
+        ]
+      },
+      "properties": {
+        "name": "Franzburg Stadt-Land",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/franzburg-stadt-land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.391435,
+          53.208577
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.347877,
+          53.157836
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Friedrichsthal",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-friedrichsthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3833,
+          53.25
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Geesow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-geesow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.433521,
+          53.250978
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Mescherin",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-mescherin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.406106,
+          53.280622
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Neurochlitz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-neurochlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.353172,
+          53.300868
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Radekow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-radekow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.387114,
+          53.30431
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Rosow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-rosow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43162,
+          53.269565
+        ]
+      },
+      "properties": {
+        "name": "Gartz an der Oder Staffelde",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-staffelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.170592,
           53.88118
         ]
@@ -16854,6 +17222,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.821645,
+          54.044964
+        ]
+      },
+      "properties": {
+        "name": "Glewitz-Deyelsdorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/glewitz-deyelsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.965025,
+          53.985531
+        ]
+      },
+      "properties": {
+        "name": "Glewitz-Medrow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/glewitz-Medrow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.835958,
+          53.997792
+        ]
+      },
+      "properties": {
+        "name": "Glewitz-Nehringen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/glewitz-nehringen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.270296,
+          53.990927
+        ]
+      },
+      "properties": {
+        "name": "G\u00f6rmin",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/goermin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.387225,
           53.853937
         ]
@@ -16863,6 +17295,38 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gramzow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.373382,
+          54.095324
+        ]
+      },
+      "properties": {
+        "name": "Greifswald St. Jakobi",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/greifswald-st-jakobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384135,
+          54.096955
+        ]
+      },
+      "properties": {
+        "name": "Greifswald St. Marien",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/greifswald-st-marien"
       }
     },
     {
@@ -16927,6 +17391,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gristow-riems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.209178,
+          54.057622
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00df Bisdorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gross-bisdorf"
       }
     },
     {
@@ -17007,6 +17487,198 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hanshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.711012,
+          53.435605
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.760849,
+          53.468782
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-G\u00fcterberg",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-gueterberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.946414,
+          53.496229
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Papendorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-papendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.689567,
+          53.422826
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Schlepkow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-schlepkow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.849629,
+          53.442431
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Trebenow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-trebenow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.869823,
+          53.455126
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Werbelow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-werbelow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.863799,
+          53.482653
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Wilsikow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-wilsikow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.649723,
+          53.438896
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Wolfshagen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-wolfshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.804611,
+          53.450047
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-L\u00fcbbenow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-luebbenow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.829103,
+          53.47471
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Milow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-milow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.889362,
+          53.445287
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Nechlin",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-nechlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.904081,
+          53.47703
+        ]
+      },
+      "properties": {
+        "name": "Hetzdorf-Brietzig",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-brietzig"
       }
     },
     {
@@ -17126,6 +17798,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.735254,
+          53.795795
+        ]
+      },
+      "properties": {
+        "name": "Kagendorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/kagendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.415169,
           53.900424
         ]
@@ -17238,6 +17926,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.218257,
+          54.086957
+        ]
+      },
+      "properties": {
+        "name": "Kreutzmannshagen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/kreutzmannshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.448855,
           53.829631
         ]
@@ -17318,6 +18022,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.895891,
+          53.773897
+        ]
+      },
+      "properties": {
+        "name": "Leopoldshagen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/leopoldshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.271824,
+          54.088143
+        ]
+      },
+      "properties": {
+        "name": "Levenhagen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/levenhagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.938092,
           53.96549
         ]
@@ -17359,6 +18095,38 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/liepgarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.208262,
+          53.453611
+        ]
+      },
+      "properties": {
+        "name": "Löcknitz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/loecknitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.133232,
+          53.974868
+        ]
+      },
+      "properties": {
+        "name": "Loitz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/loitz"
       }
     },
     {
@@ -17423,6 +18191,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/moenchow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.967209,
+          53.76735
+        ]
+      },
+      "properties": {
+        "name": "M\u00f6nkebude",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/moenkebude"
       }
     },
     {
@@ -17558,6 +18342,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.241313,
+          53.297763
+        ]
+      },
+      "properties": {
+        "name": "Penkun Land",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/penkun-land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.241313,
+          53.297763
+        ]
+      },
+      "properties": {
+        "name": "Penkun Stadt",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/penkun-stadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.25162,
           53.245308
         ]
@@ -17606,6 +18422,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.566021,
+          54.445906
+        ]
+      },
+      "properties": {
+        "name": "Prerow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/prerow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.024415,
           54.36902
         ]
@@ -17631,6 +18463,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/ranzin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.784311,
+          53.741289
+        ]
+      },
+      "properties": {
+        "name": "Rathebur",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/rathebur"
       }
     },
     {
@@ -17679,6 +18527,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/retzin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.885702,
+          54.200731
+        ]
+      },
+      "properties": {
+        "name": "Richtenberg",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/richtenberg"
       }
     },
     {
@@ -17798,6 +18662,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.496047,
+          54.309351
+        ]
+      },
+      "properties": {
+        "name": "Saal",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/saal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.556133,
+          54.526223
+        ]
+      },
+      "properties": {
+        "name": "Sagard",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sagard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.644119,
+          54.516728
+        ]
+      },
+      "properties": {
+        "name": "Sassnitz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sassnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.58212,
           53.920746
         ]
@@ -17878,6 +18790,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.655876,
+          54.181334
+        ]
+      },
+      "properties": {
+        "name": "Semlow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/semlow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.17978,
+          53.28467
+        ]
+      },
+      "properties": {
+        "name": "Sommersdorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sommersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.171631,
+          53.955302
+        ]
+      },
+      "properties": {
+        "name": "Sophiendorf",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sophiendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.525582,
           53.783331
         ]
@@ -17887,6 +18847,38 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/spantekow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.751307,
+          54.275160
+        ]
+      },
+      "properties": {
+        "name": "Starkow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/starkow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983508,
+          54.224366
+        ]
+      },
+      "properties": {
+        "name": "Steinhagen",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/steinhagen"
       }
     },
     {
@@ -18118,6 +19110,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.810058,
+          54.272382
+        ]
+      },
+      "properties": {
+        "name": "Velgast",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/velgast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.090956,
           54.270592
         ]
@@ -18326,6 +19334,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.682137,
+          54.43873
+        ]
+      },
+      "properties": {
+        "name": "Zingst",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/zingst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.898479,
           54.06785
         ]
@@ -18399,822 +19423,6 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/zuessow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.684752,
-          53.85591
-        ]
-      },
-      "properties": {
-        "name": "Anklam St. Marien",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-st-marien"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.689534,
-          53.856477
-        ]
-      },
-      "properties": {
-        "name": "Anklam St. Nikolai",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-st-nikolai"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.688091,
-          53.856053
-        ]
-      },
-      "properties": {
-        "name": "Anklam Garnisongemeinde",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-garnisongemeinde"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.688091,
-          53.856053
-        ]
-      },
-      "properties": {
-        "name": "Anklam K\u00f6nigliche-Strafanstalt",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-koenigliche-strafanstalt"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.688091,
-          53.856053
-        ]
-      },
-      "properties": {
-        "name": "Anklam Milit\u00e4rkirchenbuch",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/anklam-militaerkirchenbuch"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.735254,
-          53.795795
-        ]
-      },
-      "properties": {
-        "name": "Kagendorf",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/kagendorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.271824,
-          54.088143
-        ]
-      },
-      "properties": {
-        "name": "Levenhagen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/levenhagen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.784311,
-          53.741289
-        ]
-      },
-      "properties": {
-        "name": "Rathebur",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/rathebur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.270296,
-          53.990927
-        ]
-      },
-      "properties": {
-        "name": "G\u00f6rmin",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/goermin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.373382,
-          54.095324
-        ]
-      },
-      "properties": {
-        "name": "Greifswald St. Jakobi",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/greifswald-st-jakobi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.384135,
-          54.096955
-        ]
-      },
-      "properties": {
-        "name": "Greifswald St. Marien",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/greifswald-st-marien"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.072919,
-          53.94045
-        ]
-      },
-      "properties": {
-        "name": "Benz",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/benz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.29381,
-          54.047518
-        ]
-      },
-      "properties": {
-        "name": "Dersekow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/dersekow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.784847,
-          53.764667
-        ]
-      },
-      "properties": {
-        "name": "Ducherow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/ducherow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.209178,
-          54.057622
-        ]
-      },
-      "properties": {
-        "name": "Gro\u00df Bisdorf",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gross-bisdorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.218257,
-          54.086957
-        ]
-      },
-      "properties": {
-        "name": "Kreutzmannshagen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/kreutzmannshagen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.895891,
-          53.773897
-        ]
-      },
-      "properties": {
-        "name": "Leopoldshagen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/leopoldshagen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.967209,
-          53.76735
-        ]
-      },
-      "properties": {
-        "name": "M\u00f6nkebude",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/moenkebude"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.566021,
-          54.445906
-        ]
-      },
-      "properties": {
-        "name": "Prerow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/prerow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.655876,
-          54.181334
-        ]
-      },
-      "properties": {
-        "name": "Semlow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/semlow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.682137,
-          54.43873
-        ]
-      },
-      "properties": {
-        "name": "Zingst",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/zingst"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.391435,
-          53.208577
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.711012,
-          53.435605
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.946414,
-          53.496229
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Papendorf",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-papendorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.849629,
-          53.442431
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Trebenow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-trebenow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.869823,
-          53.455126
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Werbelow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-werbelow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.863799,
-          53.482653
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Wilsikow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-wilsikow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.649723,
-          53.438896
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Wolfshagen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-wolfshagen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.7167,
-          54.1667
-        ]
-      },
-      "properties": {
-        "name": "Eixen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/eixen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.347877,
-          53.157836
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Friedrichsthal",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-friedrichsthal"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.3833,
-          53.25
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Geesow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-geesow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.433521,
-          53.250978
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Mescherin",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-mescherin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.406106,
-          53.280622
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Neurochlitz",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-neurochlitz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.353172,
-          53.300868
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Radekow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-radekow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.387114,
-          53.30431
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Rosow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-rosow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.43162,
-          53.269565
-        ]
-      },
-      "properties": {
-        "name": "Gartz an der Oder Staffelde",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/gartz-an-der-oder-staffelde"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.760849,
-          53.468782
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-G\u00fcterberg",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-gueterberg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.804611,
-          53.450047
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-L\u00fcbbenow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-luebbenow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.829103,
-          53.47471
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Milow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-milow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.889362,
-          53.445287
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Nechlin",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-nechlin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.836209,
-          53.704278
-        ]
-      },
-      "properties": {
-        "name": "Altwigshagen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/altwigshagen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.904081,
-          53.47703
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Brietzig",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-brietzig"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.644119,
-          54.516728
-        ]
-      },
-      "properties": {
-        "name": "Sassnitz",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sassnitz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.17978,
-          53.28467
-        ]
-      },
-      "properties": {
-        "name": "Sommersdorf",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sommersdorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.983508,
-          54.224366
-        ]
-      },
-      "properties": {
-        "name": "Steinhagen",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/steinhagen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.556133,
-          54.526223
-        ]
-      },
-      "properties": {
-        "name": "Sagard",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sagard"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.885702,
-          54.200731
-        ]
-      },
-      "properties": {
-        "name": "Richtenberg",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/richtenberg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.878125,
-          54.187193
-        ]
-      },
-      "properties": {
-        "name": "Franzburg Stadt-Land",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/franzburg-stadt-land"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.689567,
-          53.422826
-        ]
-      },
-      "properties": {
-        "name": "Hetzdorf-Schlepkow",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/hetzdorf-schlepkow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.241313,
-          53.297763
-        ]
-      },
-      "properties": {
-        "name": "Penkun Land",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/penkun-land"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.241313,
-          53.297763
-        ]
-      },
-      "properties": {
-        "name": "Penkun Stadt",
-        "district": "Kirchenkreis Pommern",
-        "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/penkun-stadt"
       }
     },
     {
