@@ -18,6 +18,7 @@ There are no requirements set for pushes to *main* at the moment.
 
 <!-- RELEASE PROCESS -->
 ## Release Process
+The following steps must be executed to update the uMap:
 * Copy GitHub's raw content URL of updated GeoJSON (sorted).
 * Open [Archionkarte 2.0 Edit](https://umap.openstreetmap.de/de/map/anonymous-edit/113993:ienKfbLQGKj4f7-ECaz57MoGGDLw_VjWkT2Q0LFKPME).
 * Select on the right side **Import data**.
