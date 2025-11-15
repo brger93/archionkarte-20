@@ -2758,15 +2758,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.987211,
-          53.456222
+          10.256424,
+          53.728163
         ]
       },
       "properties": {
-        "name": "Harburg",
+        "name": "Bargteheide",
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/harburg"
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/bargteheide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.256423,
+          53.728163
+        ]
+      },
+      "properties": {
+        "name": "Bergstedt",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/bergstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.256424,
+          53.728163
+        ]
+      },
+      "properties": {
+        "name": "Eichede",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/eichede"
       }
     },
     {
@@ -2795,10 +2827,10 @@
         ]
       },
       "properties": {
-        "name": "Harburg Garnisonsgemeinde",
+        "name": "Harburg",
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
-        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/harburg-garnisonsgemeinde"
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/harburg"
       }
     },
     {
@@ -2822,6 +2854,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.987211,
+          53.456222
+        ]
+      },
+      "properties": {
+        "name": "Harburg Garnisonsgemeinde",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/harburg-garnisonsgemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.981221,
           53.457836
         ]
@@ -2831,6 +2879,150 @@
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/harburg-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25642,
+          53.728163
+        ]
+      },
+      "properties": {
+        "name": "Hischenfeld Emmaus",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hinschenfeld-emmaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016055,
+          53.487241
+        ]
+      },
+      "properties": {
+        "name": "Kirchdorf",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/kirchdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.856013,
+          53.471674
+        ]
+      },
+      "properties": {
+        "name": "Neugraben",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/neugraben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.150659,
+          53.596726
+        ]
+      },
+      "properties": {
+        "name": "Rahlstedt",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/rahlstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.106306,
+          53.537566
+        ]
+      },
+      "properties": {
+        "name": "Schiffbek Kreuzkirche",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/schiffbek-kreuzkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.297451,
+          53.634129
+        ]
+      },
+      "properties": {
+        "name": "Siek",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/siek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974824,
+          53.424430
+        ]
+      },
+      "properties": {
+        "name": "Sinstorf",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/sinstorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.127849,
+          53.530538
+        ]
+      },
+      "properties": {
+        "name": "Steinbek",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/steinbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.404675,
+          53.612024
+        ]
+      },
+      "properties": {
+        "name": "Trittau",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/trittau"
       }
     },
     {
