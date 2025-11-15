@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.312055,
-          51.784203
+          11.250514,
+          51.727081
         ]
       },
       "properties": {
-        "name": "Hoym",
+        "name": "Ballenstedt Jüdische Gemeinde",
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/hoym"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/ballenstedt-juedische-gemeinde"
       }
     },
     {
@@ -22,15 +22,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.290631,
-          51.739001
+          11.218328,
+          51.718787
         ]
       },
       "properties": {
-        "name": "Radisleben",
+        "name": "Ballenstedt Schloskirche",
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/radisleben"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/ballenstedt-schlosskirche"
       }
     },
     {
@@ -70,6 +70,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.312055,
+          51.784203
+        ]
+      },
+      "properties": {
+        "name": "Hoym",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/hoym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.130181,
           51.669361
         ]
@@ -95,6 +111,54 @@
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/neudorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.254806,
+          51.717377
+        ]
+      },
+      "properties": {
+        "name": "Opperode",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/opperode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.290631,
+          51.739001
+        ]
+      },
+      "properties": {
+        "name": "Radisleben",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/radisleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.222620,
+          51.617776
+        ]
+      },
+      "properties": {
+        "name": "Schielo",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/schielo"
       }
     },
     {
