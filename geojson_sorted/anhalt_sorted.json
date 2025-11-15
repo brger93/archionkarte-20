@@ -214,15 +214,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.601169,
+          51.780441
+        ]
+      },
+      "properties": {
+        "name": "Amesdorf",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/amesdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.739161,
           51.793079
         ]
       },
       "properties": {
-        "name": "Bernburg",
+        "name": "Bernburg Jüdische Gemeinde",
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/bernburg"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/bernburg-juedische-gemeinde"
       }
     },
     {
@@ -358,6 +374,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.562016,
+          51.765383
+        ]
+      },
+      "properties": {
+        "name": "Giersleben",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/giersleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.857445,
           51.826439
         ]
@@ -367,6 +399,38 @@
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/gramsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.607864,
+          51.794776
+        ]
+      },
+      "properties": {
+        "name": "G\u00fcsten",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/guesten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.534595,
+          51.848521
+        ]
+      },
+      "properties": {
+        "name": "Hecklingen",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/hecklingen"
       }
     },
     {
@@ -390,6 +454,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.547210,
+          51.754704
+        ]
+      },
+      "properties": {
+        "name": "Kleinschierstedt",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/kleinschierstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.800486,
           51.809915
         ]
@@ -406,6 +486,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.608186,
+          51.846011
+        ]
+      },
+      "properties": {
+        "name": "Leopoldshall",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/leopoldshall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.515121,
           51.728034
         ]
@@ -415,6 +511,22 @@
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/mehringen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570752,
+          51.819754
+        ]
+      },
+      "properties": {
+        "name": "Neundorf",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/neundorf"
       }
     },
     {
@@ -447,6 +559,38 @@
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/nienburg-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626212,
+          51.791995
+        ]
+      },
+      "properties": {
+        "name": "Osmarsleben",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/osmarsleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.686213,
+          51.745366
+        ]
+      },
+      "properties": {
+        "name": "Plötzkau",
+        "district": "Kirchenkreis Bernburg",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/ploetzkau"
       }
     },
     {
@@ -527,102 +671,6 @@
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/wedlitz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.601169,
-          51.780441
-        ]
-      },
-      "properties": {
-        "name": "Amesdorf",
-        "district": "Kirchenkreis Bernburg",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/amesdorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.607864,
-          51.794776
-        ]
-      },
-      "properties": {
-        "name": "G\u00fcsten",
-        "district": "Kirchenkreis Bernburg",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/guesten"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.534595,
-          51.848521
-        ]
-      },
-      "properties": {
-        "name": "Hecklingen",
-        "district": "Kirchenkreis Bernburg",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/hecklingen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.608186,
-          51.846011
-        ]
-      },
-      "properties": {
-        "name": "Leopoldshall",
-        "district": "Kirchenkreis Bernburg",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/leopoldshall"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.570752,
-          51.819754
-        ]
-      },
-      "properties": {
-        "name": "Neundorf",
-        "district": "Kirchenkreis Bernburg",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/neundorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.626212,
-          51.791995
-        ]
-      },
-      "properties": {
-        "name": "Osmarsleben",
-        "district": "Kirchenkreis Bernburg",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/osmarsleben"
       }
     },
     {
