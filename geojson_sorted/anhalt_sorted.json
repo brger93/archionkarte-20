@@ -22,12 +22,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.242640,
+          51.721179
+        ]
+      },
+      "properties": {
+        "name": "Ballenstedt St. Nikolai",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/ballenstedt-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.218328,
           51.718787
         ]
       },
       "properties": {
-        "name": "Ballenstedt Schloskirche",
+        "name": "Ballenstedt Schlosskirche",
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/ballenstedt-schlosskirche"
