@@ -25,6 +25,11 @@ Ongoing projects can be found on web page of [WikiTree Stammtisch](https://www.w
 * Check the box *replace layer content*.
 * Upload the data
 
+<!-- Change Log -->
+## Change Log
+Changes and relases shall be documented in CHANGELOG.
+
+
 <!-- Archive -->
 ## Archive
 GeoJSONs under folder *geojson* should not be uploaded to uMap. Those are archived versions which were published by user **Basil** in January 2025 on legacy uMap [Archionkarte](https://umap.openstreetmap.de/de/map/archionkarte_46875).
