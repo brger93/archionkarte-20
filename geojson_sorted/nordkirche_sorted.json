@@ -2902,8 +2902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.016055,
-          53.487241
+          10.010454,
+          53.500874
         ]
       },
       "properties": {
@@ -3023,6 +3023,134 @@
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/trittau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.071158,
+          53.572607
+        ]
+      },
+      "properties": {
+        "name": "Wandsbek",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wandsbek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0867795,
+          53.5794487
+        ]
+      },
+      "properties": {
+        "name": "Wandsbek Kreuzkirche",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wandsbek-kreuzkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.080771,
+          53.565305
+        ]
+      },
+      "properties": {
+        "name": "Wandsbek Marienthal",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wandsbek-marienthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.074784,
+          53.571001
+        ]
+      },
+      "properties": {
+        "name": "Wandsbek Militärgemeinde",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wandsbek-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016055,
+          53.487241
+        ]
+      },
+      "properties": {
+        "name": "Wilhelmsburg",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/Wilhelmsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9912929,
+          53.5039886
+        ]
+      },
+      "properties": {
+        "name": "Wilhelmsburg Paul-Gerhardt-Gemeinde",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wilhelmsburg-paul-gerhardt-gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990102,
+          53.514178
+        ]
+      },
+      "properties": {
+        "name": "Wilhelmsburg Reiherstieggemeinde",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wilhelmsburg-reiherstieggemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987312,
+          53.446155
+        ]
+      },
+      "properties": {
+        "name": "Wilstorf",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/wilstorf"
       }
     },
     {
