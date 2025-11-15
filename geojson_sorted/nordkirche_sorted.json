@@ -2742,6 +2742,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.917690,
+          53.506124
+        ]
+      },
+      "properties": {
+        "name": "Altenwerder St. Gertrud",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/altenwerder-st-gertrud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.987211,
           53.456222
         ]
