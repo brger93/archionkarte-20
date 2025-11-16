@@ -11958,6 +11958,134 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.053182,
+          51.570655
+        ]
+      },
+      "properties": {
+        "name": "Brachstedt (St.Michael)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/brachstedt-st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.871586,
+          51.536619
+        ]
+      },
+      "properties": {
+        "name": "Brachwitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/brachwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.059426,
+          51.521842
+        ]
+      },
+      "properties": {
+        "name": "Braschwitz (St.Nicolai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/braschwitz-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.038805,
+          51.394653
+        ]
+      },
+      "properties": {
+        "name": "Burgliebenau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/burgliebenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.841899,
+          51.646073
+        ]
+      },
+      "properties": {
+        "name": "Dalena",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/dalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.129464,
+          51.576749
+        ]
+      },
+      "properties": {
+        "name": "Dammendorf",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/dammendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.038698,
+          51.435043
+        ]
+      },
+      "properties": {
+        "name": "Dieskau (St.Annen)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/dieskau-st-annen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.766078,
+          51.613939
+        ]
+      },
+      "properties": {
+        "name": "Dobis (St.Johannis)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/dobis-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.64063,
           52.14157
         ]
