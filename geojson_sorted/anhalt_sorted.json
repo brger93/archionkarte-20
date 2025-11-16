@@ -1691,10 +1691,10 @@
         ]
       },
       "properties": {
-        "name": "Coswig",
+        "name": "Coswig, Jüdische Gemeinde",
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/coswig"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/coswig-juedische-gemeinde"
       }
     },
     {
@@ -1878,6 +1878,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.082595,
+          52.006159
+        ]
+      },
+      "properties": {
+        "name": "Strinum",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/strinum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.379429,
           51.978829
         ]
@@ -1919,22 +1935,6 @@
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zieko"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.082595,
-          52.006159
-        ]
-      },
-      "properties": {
-        "name": "Strinum",
-        "district": "Kirchenkreis Zerbst",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/strinum"
       }
     }
   ],
