@@ -1174,6 +1174,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.850054,
+          51.751211
+        ]
+      },
+      "properties": {
+        "name": "Biendorf",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/biendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.841365,
+          51.726539
+        ]
+      },
+      "properties": {
+        "name": "C\u00f6rmigk",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/coermigk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.939672,
           51.864931
         ]
@@ -1183,6 +1215,22 @@
         "district": "Kirchenkreis K\u00f6then",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/diebzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.874372,
+          51.724377
+        ]
+      },
+      "properties": {
+        "name": "Dohndorf",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/dohndorf"
       }
     },
     {
@@ -1302,6 +1350,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.880491,
+          51.783719
+        ]
+      },
+      "properties": {
+        "name": "Kleinpaschleben",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/kleinpaschleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922828,
+          51.734569
+        ]
+      },
+      "properties": {
+        "name": "Kleinw\u00fclknitz",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/kleinwuelknitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.005642,
           51.7521
         ]
@@ -1382,6 +1462,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.884556,
+          51.737082
+        ]
+      },
+      "properties": {
+        "name": "L\u00f6bnitz an der Linde",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/loebnitz-an-der-linde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.934437,
           51.795369
         ]
@@ -1414,6 +1510,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.029417,
+          51.793211
+        ]
+      },
+      "properties": {
+        "name": "Osternienburg",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/osternienburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.009263,
           51.793188
         ]
@@ -1430,6 +1542,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.811976,
+          51.733179
+        ]
+      },
+      "properties": {
+        "name": "Preu\u00dflitz",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/preusslitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.054652,
           51.698163
         ]
@@ -1439,6 +1567,22 @@
         "district": "Kirchenkreis K\u00f6then",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/prosigk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.093265,
+          51.655258
+        ]
+      },
+      "properties": {
+        "name": "Radegast",
+        "district": "Kirchenkreis K\u00f6then",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/radegast"
       }
     },
     {
@@ -1478,95 +1622,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.931578,
-          51.819278
+          12.067837,
+          51.670020
         ]
       },
       "properties": {
-        "name": "Wulfen",
+        "name": "Weißandt-Gölzau",
         "district": "Kirchenkreis K\u00f6then",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/wulfen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.850054,
-          51.751211
-        ]
-      },
-      "properties": {
-        "name": "Biendorf",
-        "district": "Kirchenkreis K\u00f6then",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/biendorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.841365,
-          51.726539
-        ]
-      },
-      "properties": {
-        "name": "C\u00f6rmigk",
-        "district": "Kirchenkreis K\u00f6then",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/coermigk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.874372,
-          51.724377
-        ]
-      },
-      "properties": {
-        "name": "Dohndorf",
-        "district": "Kirchenkreis K\u00f6then",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/dohndorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.029417,
-          51.793211
-        ]
-      },
-      "properties": {
-        "name": "Osternienburg",
-        "district": "Kirchenkreis K\u00f6then",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/osternienburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.811976,
-          51.733179
-        ]
-      },
-      "properties": {
-        "name": "Preu\u00dflitz",
-        "district": "Kirchenkreis K\u00f6then",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/preusslitz"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/weissandt-goelzau"
       }
     },
     {
@@ -1590,31 +1654,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.922828,
-          51.734569
+          11.931578,
+          51.819278
         ]
       },
       "properties": {
-        "name": "Kleinw\u00fclknitz",
+        "name": "Wulfen",
         "district": "Kirchenkreis K\u00f6then",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/kleinwuelknitz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.884556,
-          51.737082
-        ]
-      },
-      "properties": {
-        "name": "L\u00f6bnitz an der Linde",
-        "district": "Kirchenkreis K\u00f6then",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/loebnitz-an-der-linde"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/wulfen"
       }
     },
     {
