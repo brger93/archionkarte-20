@@ -710,6 +710,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.196141,
+          51.820707
+        ]
+      },
+      "properties": {
+        "name": "Dessau-Alten",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-alten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.220509,
+          51.839503
+        ]
+      },
+      "properties": {
+        "name": "Dessau-Auferstehungsgemeinde",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-auferstehungsgemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.180898,
+          51.853474
+        ]
+      },
+      "properties": {
+        "name": "Dessau-Großkühnau",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-grosskuehnau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2896,
+          51.824582
+        ]
+      },
+      "properties": {
+        "name": "Dessau-Mildensee",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-mildensee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.153566,
+          51.806775
+        ]
+      },
+      "properties": {
+        "name": "Dessau-Mosigkau",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-mosigkau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.244281,
           51.830958
         ]
@@ -822,31 +902,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.196141,
-          51.820707
+          12.260656,
+          51.792413
         ]
       },
       "properties": {
-        "name": "Dessau-Alten",
+        "name": "Dessau-Törten",
         "district": "Kirchenkreis Dessau",
         "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-alten"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2896,
-          51.824582
-        ]
-      },
-      "properties": {
-        "name": "Dessau-Mildensee",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-mildensee"
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-toerten"
       }
     },
     {
@@ -863,6 +927,38 @@
         "district": "Kirchenkreis Dessau",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-waldersee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.436089,
+          51.818144
+        ]
+      },
+      "properties": {
+        "name": "Horstdorf",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/horstdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.300219,
+          51.683301
+        ]
+      },
+      "properties": {
+        "name": "Je\u00dfnitz",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/jessnitz"
       }
     },
     {
@@ -902,6 +998,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.404533,
+          51.797973
+        ]
+      },
+      "properties": {
+        "name": "Oranienbaum",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/oranienbaum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.284902,
           51.73196
         ]
@@ -918,6 +1030,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.127213,
+          51.749811
+        ]
+      },
+      "properties": {
+        "name": "Quellendorf",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/quellendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.290654,
           51.710479
         ]
@@ -927,6 +1055,22 @@
         "district": "Kirchenkreis Dessau",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/raguhn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.492911,
+          51.827015
+        ]
+      },
+      "properties": {
+        "name": "Rehsen",
+        "district": "Kirchenkreis Dessau",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/rehsen"
       }
     },
     {
@@ -1007,102 +1151,6 @@
         "district": "Kirchenkreis Dessau",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/wolfen-nord"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.153566,
-          51.806775
-        ]
-      },
-      "properties": {
-        "name": "Dessau-Mosigkau",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/dessau-mosigkau"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.300219,
-          51.683301
-        ]
-      },
-      "properties": {
-        "name": "Je\u00dfnitz",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/jessnitz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.404533,
-          51.797973
-        ]
-      },
-      "properties": {
-        "name": "Oranienbaum",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/oranienbaum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.436089,
-          51.818144
-        ]
-      },
-      "properties": {
-        "name": "Horstdorf",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/horstdorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.127213,
-          51.749811
-        ]
-      },
-      "properties": {
-        "name": "Quellendorf",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/quellendorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.492911,
-          51.827015
-        ]
-      },
-      "properties": {
-        "name": "Rehsen",
-        "district": "Kirchenkreis Dessau",
-        "archive": "Ev. Landeskirche Anhalts",
-        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/rehsen"
       }
     },
     {
