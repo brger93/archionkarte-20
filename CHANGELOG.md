@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.1.2] - 2025-11-17  
 ### Added
-* *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (Döblitz-Drobitz)
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (Döblitz-Gütz)
 
 ## [1.1.1] - 2025-11-16  
 ### Added
