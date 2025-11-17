@@ -12406,6 +12406,326 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.839791,
+          51.661339
+        ]
+      },
+      "properties": {
+        "name": "Hohenedlau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/hohenedlau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.096612,
+          51.522349
+        ]
+      },
+      "properties": {
+        "name": "Hohenthurm (Martin Luther)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/hohenthurm-martin-luther"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.736403,
+          51.502411
+        ]
+      },
+      "properties": {
+        "name": "Höhnstedt (St.Lucia und Ottilia)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/hoehnstedt-st-lucia-und-ottilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.902667,
+          51.437684
+        ]
+      },
+      "properties": {
+        "name": "Holleben",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/holleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.822565,
+          51.677086
+        ]
+      },
+      "properties": {
+        "name": "Kirchedlau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/kirchedlau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.120763,
+          51.485151
+        ]
+      },
+      "properties": {
+        "name": "Klepzig",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/klepzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.803178,
+          51.474073
+        ]
+      },
+      "properties": {
+        "name": "Köchstedt (Zum Heiligen Kreuz)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/koechstedt-zum-heiligen-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.814293,
+          51.497403
+        ]
+      },
+      "properties": {
+        "name": "Köllme (St.Marien)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/koellme-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.774382,
+          51.668709
+        ]
+      },
+      "properties": {
+        "name": "Könnern",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/koennern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.771657,
+          51.669361
+        ]
+      },
+      "properties": {
+        "name": "Könnern (St.Wenzeslaus)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/koennern-st-wenzeslaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.980365,
+          51.640287
+        ]
+      },
+      "properties": {
+        "name": "Kösseln",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/koesseln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.937181,
+          51.608449
+        ]
+      },
+      "properties": {
+        "name": "Krosigk",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/krosigk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.001844,
+          51.588636
+        ]
+      },
+      "properties": {
+        "name": "Kütten",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/kuetten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.160127,
+          51.525566
+        ]
+      },
+      "properties": {
+        "name": "Landsberg (St.Nicolai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/landsberg-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.775262,
+          51.483935
+        ]
+      },
+      "properties": {
+        "name": "Langenbogen (St.Magdalenen)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/langenbogen-st-magdalenen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.789296,
+          51.717158
+        ]
+      },
+      "properties": {
+        "name": "Lebendorf (St.Marien)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/lebendorf-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.860213,
+          51.582296
+        ]
+      },
+      "properties": {
+        "name": "Lettewitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/lettewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.861736,
+          51.504294
+        ]
+      },
+      "properties": {
+        "name": "Lieskau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/lieskau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.903418,
+          51.636278
+        ]
+      },
+      "properties": {
+        "name": "Löbejün (St.Petri)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/loebejuen-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.050693,
+          51.397090
+        ]
+      },
+      "properties": {
+        "name": "Lochau (St.Annen)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/lochau-st-annen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.64063,
           52.14157
         ]
