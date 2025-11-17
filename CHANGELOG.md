@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.1.2] - 2025-11-17  
+### Added
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (Döblitz-Drobitz)
+
 ## [1.1.1] - 2025-11-16  
 ### Added
 * *anhalt_sorted.json* was extended by missing church books of *Kirchenkreis Dessau* and *Kirchenkreis Köthen*
