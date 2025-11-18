@@ -12726,6 +12726,230 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.033119,
+          51.531176
+        ]
+      },
+      "properties": {
+        "name": "Maschwitz (St.Nikolai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/maschwitz-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.887389,
+          51.615578
+        ]
+      },
+      "properties": {
+        "name": "Merbitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/merbitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.941516,
+          51.574782
+        ]
+      },
+      "properties": {
+        "name": "Merkewitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/merkewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.831181,
+          51.673100
+        ]
+      },
+      "properties": {
+        "name": "Mitteledlau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/mitteledlau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922912,
+          51.553620
+        ]
+      },
+      "properties": {
+        "name": "Morl (St.Georg)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/morl-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.025673,
+          51.638582
+        ]
+      },
+      "properties": {
+        "name": "Mösthinsdorf",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/moesthinsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.805603,
+          51.301696
+        ]
+      },
+      "properties": {
+        "name": "Mücheln",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/muecheln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.789467,
+          51.511173
+        ]
+      },
+      "properties": {
+        "name": "Müllerdorf (St.Petrus)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/muellerdorf-st-petrus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.886713,
+          51.600320
+        ]
+      },
+      "properties": {
+        "name": "Nauendorf (St.Wenzeslai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/nauendorf-st-wenzeslai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.741337,
+          51.664317
+        ]
+      },
+      "properties": {
+        "name": "Nelben (St.Nicolai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/nelben-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.934735,
+          51.422801
+        ]
+      },
+      "properties": {
+        "name": "Neukirchen",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/neukirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.839464,
+          51.606665
+        ]
+      },
+      "properties": {
+        "name": "Neutz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/neutz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.089467,
+          51.549551
+        ]
+      },
+      "properties": {
+        "name": "Niemberg (St. Ursula)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/niemberg-st-ursula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.901369,
+          51.483681
+        ]
+      },
+      "properties": {
+        "name": "Nietleben",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/nietleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.64063,
           52.14157
         ]
