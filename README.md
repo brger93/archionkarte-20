@@ -10,14 +10,14 @@ This GitHub repository helps to maintain the underlying GeoJSONs so that they co
 
 <!-- CONTRIBUTION -->
 ## Contribution
+### Data
 As soon as new church records are uploaded to [ARCHION](https://www.archion.de/de/archion-entdecken/alle-news/neue-digitalisate), all help is welcome. Just dial into public biweekly [WikiTree Stammtisch Zoom](https://www.wikitree.com/wiki/Space:Stammtisch) and you will be made a collaborator of the GitHub repository.
 
 Ongoing projects can be found on web page of [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch). Please announce your project either in biweekly [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch) or on the *Work in Progress* list on the web page under chapter 4 *Archionkarte 2.0*.
 
 There are no requirements set for pushes to *main* at the moment for project collaborators.
 
-<!-- SUGGESTION AND IMPROVEMENTS -->
-## Suggestion and Improvements
+### uMap
 If you have ideas how to improve UI experience on uMap, we are happy to implement them. Feel free to dial into public biweekly [WikiTree Stammtisch Zoom](https://www.wikitree.com/wiki/Space:Stammtisch) and share those with us.
 
 <!-- RELEASE PROCESS -->
