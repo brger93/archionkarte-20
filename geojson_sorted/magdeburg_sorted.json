@@ -12950,6 +12950,182 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.792482,
+          51.444973
+        ]
+      },
+      "properties": {
+        "name": "Oberteutschenthal (St.Laurentius)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/oberteutschenthal-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.057495,
+          51.501931
+        ]
+      },
+      "properties": {
+        "name": "Obner-Peißen (St.Wenceslai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/obner-peissen-st-wenceslai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.033505,
+          51.551979
+        ]
+      },
+      "properties": {
+        "name": "Oppin (St.Georg und St. Elisabeth)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/oppin-st-georg-und-st-elisabeth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.115881,
+          51.446592
+        ]
+      },
+      "properties": {
+        "name": "Osmünde (St.Petri)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/osmuende-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.929553,
+          51.472188
+        ]
+      },
+      "properties": {
+        "name": "Passendorf",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/passendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.057629,
+          51.501884
+        ]
+      },
+      "properties": {
+        "name": "Peissen bei Halle (St.Trinitatis)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/peissen-bei-halle-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.953436,
+          51.596501
+        ]
+      },
+      "properties": {
+        "name": "Petersberg (St.Peter)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/petersberg-st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.061164,
+          51.534357
+        ]
+      },
+      "properties": {
+        "name": "Plößnitz (St.Katharinen)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/ploessnitz-st-katharinen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.899695,
+          51.599120
+        ]
+      },
+      "properties": {
+        "name": "Priester bei Könnern",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/priester-bei-koennern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.130472,
+          51.398937
+        ]
+      },
+      "properties": {
+        "name": "Röglitz (St.Marien)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/roeglitz-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.758139,
+          51.646053
+        ]
+      },
+      "properties": {
+        "name": "Rothenburg (St.Marien)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/rothenburg-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.64063,
           52.14157
         ]
