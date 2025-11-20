@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.4.0] - 2025-11-18  
+### Added
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (Oberteutschenthal-Rothenburg)
+
 ## [1.3.0] - 2025-11-18  
 ### Added
 * *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (Maschwitz-Nietleben)
