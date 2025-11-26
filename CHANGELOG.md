@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2025-11-26  
+### Added
+* *bayern_sorted.json* was extended by all uploads until 2025-11-25
+* geojson sorting.py for alphabetical sorting of GeoJSONs by *district* and *name* property
+
 ## [1.5.0] - 2025-11-22  
 ### Added
 * *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (Alsleben-Asendorf und Halle Paket 1)
