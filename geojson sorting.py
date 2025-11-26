@@ -10,7 +10,7 @@ with open(input_file, "r", encoding="utf-8") as file:
     geojson = json.load(file)
 
 # Sort features by "district" property
-geojson["features"].sort(key=lambda feature: feature["properties"].get("district", "name"))
+geojson["features"].sort(key=lambda feature: (feature["properties"].get("district"), feature["properties"].get("name")))
 
 # Define Output GeoJSON (Windows)
 output_file = input("Enter path to output file:") 
@@ -18,4 +18,4 @@ path = WindowsPath(output_file.replace('"', ''))
 
 # Save sorted GeoJSON
 with open(output_file, "w", encoding="utf-8") as file:
-    json.dump(geojson, file, indent=2)
+    json.dump(geojson, file, indent=2, ensure_ascii=False)
