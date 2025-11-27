@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 ## [1.7.0] - 2025-11-27  
 ### Added
 * *trier_sorted.json* was added to reflect *Bistumsarchiv Trier* church book uploads
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Halle-Saalkreis* (S-Z)
 
 ## [1.6.0] - 2025-11-26  
 ### Added
