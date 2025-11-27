@@ -5382,8 +5382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.53119,
-          50.23321
+          11.14331,
+          49.6824
         ]
       },
       "properties": {
@@ -17414,4 +17414,5 @@
     "archive": "Ev.-Luth. Kirche in Bayern",
     "created": "2024-12-08"
   }
+
 }
