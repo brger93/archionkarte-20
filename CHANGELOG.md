@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.7.0] - 2025-11-27  
+### Added
+* trier_sorted.json* was added to reflect *Bistumsarchiv Trier* church book uploads
+
 ## [1.6.0] - 2025-11-26  
 ### Added
 * *bayern_sorted.json* was extended by all uploads until 2025-11-25
