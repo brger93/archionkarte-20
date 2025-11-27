@@ -13238,6 +13238,422 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.846094,
+          51.527188
+        ]
+      },
+      "properties": {
+        "name": "Schiepzig (St.Helena)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/schiepzig-st-helena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.880877,
+          51.653881
+        ]
+      },
+      "properties": {
+        "name": "Schlettau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/schlettau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.880878,
+          51.653882
+        ]
+      },
+      "properties": {
+        "name": "Schlettau (St.Marien)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/schlettau-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.752345,
+          51.530159
+        ]
+      },
+      "properties": {
+        "name": "Schochwitz (St.Benedictus)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/schochwitz-st-benedictus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135493,
+          51.564106
+        ]
+      },
+      "properties": {
+        "name": "Schwerz (St.Marien)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/schwerz-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.951258,
+          51.542625
+        ]
+      },
+      "properties": {
+        "name": "Sennewitz (St.Nikolaus)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/sennewitz-st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.839581,
+          51.654114
+        ]
+      },
+      "properties": {
+        "name": "Sieglitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/sieglitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.176767,
+          51.489420
+        ]
+      },
+      "properties": {
+        "name": "Sietzsch",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/sietzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.133605,
+          51.549711
+        ]
+      },
+      "properties": {
+        "name": "Spickendorf (St.Nikolaus)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/spickendorf-st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.769758,
+          51.421035
+        ]
+      },
+      "properties": {
+        "name": "Steuden (St.Mauritius)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/steuden-st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.695075,
+          51.671703
+        ]
+      },
+      "properties": {
+        "name": "Strenznaundorf (St.Nicolai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/strenznaundorf-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.919113,
+          51.577462
+        ]
+      },
+      "properties": {
+        "name": "Sylbitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/sylbitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.953468,
+          51.559303
+        ]
+      },
+      "properties": {
+        "name": "Teicha (St.Mauritius)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/teicha-st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.721296,
+          51.686232
+        ]
+      },
+      "properties": {
+        "name": "Trebnitz (St.Dionysii)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/trebnitz-st-dionysii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.759877,
+          51.740649
+        ]
+      },
+      "properties": {
+        "name": "Unter-Peißen",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/unter-peissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.813778,
+          51.453686
+        ]
+      },
+      "properties": {
+        "name": "Unterteutschenthal (St.Viti)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/unterteutschenthal-st-viti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.932010,
+          51.578149
+        ]
+      },
+      "properties": {
+        "name": "Wallwitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/wallwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.999130,
+          51.625010
+        ]
+      },
+      "properties": {
+        "name": "Werderthau",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/werderthau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.108821,
+          51.392498
+        ]
+      },
+      "properties": {
+        "name": "Weßmar (St.Michael)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/wessmar-st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.807931,
+          51.584789
+        ]
+      },
+      "properties": {
+        "name": "Wettin",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/wettin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.811257,
+          51.582849
+        ]
+      },
+      "properties": {
+        "name": "Wettin (Reformierte Burggemeinde)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/wettin-reformierte-burggemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.805968,
+          51.586043
+        ]
+      },
+      "properties": {
+        "name": "Wettin (St.Nikolai)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/wettin-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.807974,
+          51.575609
+        ]
+      },
+      "properties": {
+        "name": "Zaschwitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/zaschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.725480,
+          51.646252
+        ]
+      },
+      "properties": {
+        "name": "Zellewitz (St.Andreas)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/zellewitz-st-andreas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.870963,
+          51.468405
+        ]
+      },
+      "properties": {
+        "name": "Zscherben (St.Cyriacus)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/zscherben-st-cyriacus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.095732,
+          51.500187
+        ]
+      },
+      "properties": {
+        "name": "Zwebendorf",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/zwebendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.64063,
           52.14157
         ]
