@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2025-12-06  
+### Added
+* *archion_scraping.py* was added as a first step to automate the GEOJSON update process
+
 ## [1.7.0] - 2025-11-27  
 ### Added
 * *trier_sorted.json* was added to reflect *Bistumsarchiv Trier* church book uploads
