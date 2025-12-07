@@ -56,7 +56,7 @@ def SaveGeoJSON(geojson_archion, output_json):
 
 def main(): 
     # Define Output File Path
-    output_file = input("Enter path to output file:") 
+    output_file = input("Enter path to save Excel output file:") 
     
     # Example URL: https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg
     url = input("Enter URL to Archion archive overview page:")
@@ -79,7 +79,7 @@ def main():
     geojson_archion = df_to_geojson(data, cols)
 
     # Define Output GeoJSON File Path
-    output_json = input("Enter path for gejosn output file:") 
+    output_json = input("Enter path to save gejson output file:") 
 
     # Saving GeoJSON
     SaveGeoJSON(output_json, geojson_archion)
