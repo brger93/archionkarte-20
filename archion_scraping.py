@@ -69,7 +69,7 @@ def main():
     SaveExcel(output_file, archive_list, link_list)
 
     # Define Input File Path
-    input_file = input("Enter path to input Excel file:") 
+    input_file = input("Enter path to read-in Excel file:") 
     
     # Read-in Archion Data
     data = pd.read_excel(input_file)
@@ -79,7 +79,7 @@ def main():
     geojson_archion = df_to_geojson(data, cols)
 
     # Define Output GeoJSON File Path
-    output_json = input("Enter path to save gejson output file:") 
+    output_json = input("Enter path to save GeoJSON output file:") 
 
     # Saving GeoJSON
     SaveGeoJSON(output_json, geojson_archion)
