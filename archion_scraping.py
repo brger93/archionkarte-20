@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+import json
  
 def ContentScraping(url): 
     """
@@ -48,6 +49,11 @@ def df_to_geojson(data, properties, lat='latitude', lon='longitude'):
         geojson["features"].append(feature)
     return geojson
     
+def SaveGeoJSON(geojson_archion, output_json):
+    with open(output_json, "wb") as file:
+        file.write(json.dumps(geojson_archion).encode("utf-8"))
+    return file
+
 def main(): 
     # Define Output File Path
     output_file = input("Enter path to output file:") 
@@ -59,7 +65,7 @@ def main():
     # Web Scraping
     archive_list, link_list = ContentScraping(url)
     
-    # Saving
+    # Saving Excel
     SaveExcel(output_file, archive_list, link_list)
 
     # Define Input File Path
@@ -71,6 +77,12 @@ def main():
 
     # Create GeoJSON
     geojson_archion = df_to_geojson(data, cols)
+
+    # Define Output GeoJSON File Path
+    output_json = input("Enter path for gejosn output file:") 
+
+    # Saving GeoJSON
+    SaveGeoJSON(output_json, geojson_archion)
 
 if __name__ == "__main__":
     main()
