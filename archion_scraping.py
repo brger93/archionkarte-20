@@ -62,5 +62,15 @@ def main():
     # Saving
     SaveExcel(output_file, archive_list, link_list)
 
+    # Define Input File Path
+    input_file = input("Enter path to input Excel file:") 
+    
+    # Read-in Archion Data
+    data = pd.read_excel(input_file)
+    cols = ["name", "district", "archive", "path", "latitude", "longitude"]
+
+    # Create GeoJSON
+    geojson_archion = df_to_geojson(data, cols)
+
 if __name__ == "__main__":
     main()
