@@ -33,6 +33,20 @@ def SaveExcel(output_file, archive_list, link_list):
     df['Link'] = pd.Series(link_list, index=df.index)
     file = df.to_excel(output_file, index=False, header=False)
     return file
+
+def df_to_geojson(data, properties, lat='latitude', lon='longitude'):
+    geojson = {"type": "FeatureCollection", "features":{}}
+
+    for _, row in data.iterrows():
+        feature = {"type": "Feature",
+                   "geometry": {"type": "Point",
+                   "coordinates":{}},
+                   "properties":{},}
+        feature["geometry"]["coordinates"] = [row[lon], row[lat]]
+        for prop in properties:
+            feature["properties"][prop] = row[prop]
+        geojson["features"].append(feature)
+    return geojson
     
 def main(): 
     # Define Output File Path
