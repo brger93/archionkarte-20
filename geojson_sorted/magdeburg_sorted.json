@@ -14358,8 +14358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.7474611,
+          51.2029038
         ]
       },
       "properties": {
@@ -14395,7 +14395,7 @@
         ]
       },
       "properties": {
-        "name": "Bruchstedt (St. Johannis)\n                                                Keine verfügbaren Digitalisate",
+        "name": "Bruchstedt (St. Johannis)",
         "district": "Kirchenkreis Mühlhausen",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bruchstedt-st-johannis"
@@ -14406,8 +14406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.3673046239525,
+          51.2378582201219
         ]
       },
       "properties": {
@@ -14422,8 +14422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.2684491893408,
+          51.1160339253076
         ]
       },
       "properties": {
@@ -14454,8 +14454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.8966373378086,
+          51.1563617380957
         ]
       },
       "properties": {
@@ -14470,8 +14470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.171946431,
+          51.1373472
         ]
       },
       "properties": {
@@ -14534,8 +14534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.6364397775,
+          51.16847270
         ]
       },
       "properties": {
@@ -14566,8 +14566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.490401713,
+          51.21236320
         ]
       },
       "properties": {
@@ -14598,8 +14598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.63716674,
+          51.06904721
         ]
       },
       "properties": {
@@ -14667,7 +14667,7 @@
         ]
       },
       "properties": {
-        "name": "Kirchheiligen (St.Bonifatius, Wipertii)\n                                                Keine verfügbaren Digitalisate",
+        "name": "Kirchheiligen (St.Bonifatius, Wipertii)",
         "district": "Kirchenkreis Mühlhausen",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/kirchheiligen-stbonifatius-wipertii"
@@ -14678,8 +14678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.88006786,
+          51.15474730
         ]
       },
       "properties": {
@@ -14694,8 +14694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.8050680,
+          51.12832185
         ]
       },
       "properties": {
@@ -14731,7 +14731,7 @@
         ]
       },
       "properties": {
-        "name": "Klettstedt (St. Caeciliae)\n                                                Keine verfügbaren Digitalisate",
+        "name": "Klettstedt (St. Caeciliae)",
         "district": "Kirchenkreis Mühlhausen",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/klettstedt-st-caeciliae"
@@ -14966,8 +14966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.709295,
+          51.109878
         ]
       },
       "properties": {
@@ -14998,8 +14998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.39873025,
+          51.21075566
         ]
       },
       "properties": {
@@ -15014,12 +15014,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.5280034,
+          51.264087615
         ]
       },
       "properties": {
-        "name": "Saalfeld\n                                                Keine verfügbaren Digitalisate",
+        "name": "Saalfeld",
         "district": "Kirchenkreis Mühlhausen",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/saalfeld"
@@ -15030,8 +15030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.21830944,
+          51.10483273
         ]
       },
       "properties": {
@@ -15062,8 +15062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.533888888889,
-          51.415555555556
+          10.4869648,
+          51.3095842
         ]
       },
       "properties": {
@@ -15078,8 +15078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.637149,
+          51.138847
         ]
       },
       "properties": {
@@ -15094,8 +15094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          NaN,
-          NaN
+          10.62661080,
+          51.10028758
         ]
       },
       "properties": {
@@ -15104,7 +15104,7 @@
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/ufhoven"
       }
-    }
+    },
     {
       "type": "Feature",
       "geometry": {
