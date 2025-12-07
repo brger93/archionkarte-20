@@ -14257,6 +14257,854 @@
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-magdeburg/wallonisch-reformierte-kirche-magdeburg"
       }
     },
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.580864,
+          51.16413
+        ]
+      },
+      "properties": {
+        "name": "Altengottern (St. Trinitatis)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/altengottern-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.580864,
+          51.16413
+        ]
+      },
+      "properties": {
+        "name": "Altengottern (St. Wigberti)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/altengottern-st-wigberti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.646666666667,
+          51.108055555556
+        ]
+      },
+      "properties": {
+        "name": "Bad Langensalza (Bergkirche St. Stephani)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bad-langensalza-bergkirche-st-stephani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.646666666667,
+          51.108055555556
+        ]
+      },
+      "properties": {
+        "name": "Bad Langensalza (St. Bonifacii)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bad-langensalza-st-bonifacii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.837222222222,
+          51.153888888889
+        ]
+      },
+      "properties": {
+        "name": "Bad Tennstedt (Trinitatis und Nikolaikirche)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bad-tennstedt-trinitatis-und-nikolaikirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.746834,
+          51.202645
+        ]
+      },
+      "properties": {
+        "name": "Blankenburg (St. Bonifacius)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/blankenburg-st-bonifacius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Bollstedt (St. Bonifatius)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bollstedt-st-bonifatius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.623361,
+          51.187292
+        ]
+      },
+      "properties": {
+        "name": "Bothenheiligen (St. Christinae)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bothenheiligen-st-christinae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.784493,
+          51.183231
+        ]
+      },
+      "properties": {
+        "name": "Bruchstedt (St. Johannis)\n                                                Keine verfügbaren Digitalisate",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/bruchstedt-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Dörna",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/doerna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Falken",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/falken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.478216,
+          51.126776
+        ]
+      },
+      "properties": {
+        "name": "Flarchheim (St. Andreas)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/flarchheim-st-andreas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Großballhausen (St. Viti)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grossballhausen-st-viti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Großburschla (St. Bonifacii, St. Nicolai)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grossburschla-st-bonifacii-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56653,
+          51.148011
+        ]
+      },
+      "properties": {
+        "name": "Großengottern (St. Martini)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grossengottern-st-martini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56653,
+          51.148011
+        ]
+      },
+      "properties": {
+        "name": "Großengottern (St. Walpurgis)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grossengottern-st-walpurgis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.783055555556,
+          51.116666666667
+        ]
+      },
+      "properties": {
+        "name": "Großvargula (St. Jakobi)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grossvargula-st-jakobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Großwelsbach (St. Blasii)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grosswelsbach-st-blasii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5561111111111,
+          49.656944444444
+        ]
+      },
+      "properties": {
+        "name": "Grumbach (St. Vincentius)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/grumbach-st-vincentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Görmar (St. Martini)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/goermar-st-martini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.134444444444,
+          51.3775
+        ]
+      },
+      "properties": {
+        "name": "Heiligenstadt (St. Martini)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/heiligenstadt-st-martini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Henningsleben (Beatae Mariae Virginis)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/henningsleben-beatae-mariae-virginis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.066666666667,
+          48.483333333333
+        ]
+      },
+      "properties": {
+        "name": "Hollenbach (St. Maria Magdalena)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/hollenbach-st-maria-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3083333333333,
+          52.080555555556
+        ]
+      },
+      "properties": {
+        "name": "Horsmar (St. Pankratius)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/horsmar-st-pankratius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.648501,
+          51.204945
+        ]
+      },
+      "properties": {
+        "name": "Isserheiligen (St. Johannes)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/isserheiligen-st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707972,
+          51.183186
+        ]
+      },
+      "properties": {
+        "name": "Kirchheiligen (St.Bonifatius, Wipertii)\n                                                Keine verfügbaren Digitalisate",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/kirchheiligen-stbonifatius-wipertii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Kleinballhausen",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/kleinballhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Kleinvargula (St. Julianae)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/kleinvargula-st-julianae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.667287,
+          51.174392
+        ]
+      },
+      "properties": {
+        "name": "Kleinwelsbach (St. Mauritii)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/kleinwelsbach-st-mauritii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7433997222222,
+          51.1433
+        ]
+      },
+      "properties": {
+        "name": "Klettstedt (St. Caeciliae)\n                                                Keine verfügbaren Digitalisate",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/klettstedt-st-caeciliae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867708,
+          51.194798
+        ]
+      },
+      "properties": {
+        "name": "Kutzleben (St. Petri)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/kutzleben-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3911,
+          51.2547
+        ]
+      },
+      "properties": {
+        "name": "Lengefeld (St. Johannes)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/lengefeld-st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.766666666667,
+          52.783333333333
+        ]
+      },
+      "properties": {
+        "name": "Merxleben",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/merxleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (Allerheiligen)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-allerheiligen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (Divi Blasii)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-divi-blasii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (Militär)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-militaer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Georgii)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-georgii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Jacobi)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-jacobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Kilian)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-kilian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Marien)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Martini)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-martini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Nicolai)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Mühlhausen (St. Petri)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/muehlhausen-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677229,
+          51.193051
+        ]
+      },
+      "properties": {
+        "name": "Neunheiligen (St. Peter und Paul)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/neunheiligen-st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Nägelstedt (St. Georg und St. Michael)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/naegelstedt-st-georg-und-st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.44628,
+          51.139738
+        ]
+      },
+      "properties": {
+        "name": "Oppershausen (St. Marien)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/oppershausen-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Pfafferode (Landesheilanstalt)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/pfafferode-landesheilanstalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Saalfeld\n                                                Keine verfügbaren Digitalisate",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/saalfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Schnellmannshausen",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/schnellmannshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1761111111111,
+          48.576666666667
+        ]
+      },
+      "properties": {
+        "name": "Seebach (St. Johannis)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/seebach-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533888888889,
+          51.415555555556
+        ]
+      },
+      "properties": {
+        "name": "Sollstedt (St. Marien)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/sollstedt-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Thamsbrück (St. Georg)",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/thamsbrueck-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "name": "Ufhoven",
+        "district": "Kirchenkreis Mühlhausen",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-muehlhausen/ufhoven"
+      }
+    }
     {
       "type": "Feature",
       "geometry": {
