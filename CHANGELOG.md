@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2025-12-07  
+### Added
+* *archion_scraping.py* was extended by df_to_geojson function to automate the GEOJSON update process
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Mühlhausen*
+
 ## [1.8.0] - 2025-12-06  
 ### Added
 * *archion_scraping.py* was added as a first step to automate the GEOJSON update process
