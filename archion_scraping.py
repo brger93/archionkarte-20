@@ -31,8 +31,9 @@ def SaveExcel(output_file, archive_list, link_list):
     to xlxs.
     """
     df = pd.DataFrame(archive_list)
-    df['Link'] = pd.Series(link_list, index=df.index)
-    file = df.to_excel(output_file, index=False, header=False)
+    df['path'] = pd.Series(link_list, index=df.index)
+    df.columns = ['name', 'path']
+    file = df.to_excel(output_file, index=False)
     return file
 
 def df_to_geojson(data, properties, lat='latitude', lon='longitude'):
