@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import json
  
-def ContentScraping(url): 
+def scrape_archion_content(url): 
     """
     This function extracts a list of all digitised church
     books for a single archive on www.archion.de and the
@@ -25,19 +25,23 @@ def ContentScraping(url):
         
     return archive_list, link_list
 
-def SaveExcel(output_file, archive_list, link_list):
+def save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name):
     """
-    This function saves a DataFrame(Parish Name, Parish URL)
+    This function saves a DataFrame(parish name, district name, archive name, parish URL)
     to xlxs.
     """
     df = pd.DataFrame(archive_list)
+    df['district'] = district_name
+    df['archive'] = archive_name
     df['path'] = pd.Series(link_list, index=df.index)
-    df.columns = ['name', 'path']
-    file = df.to_excel(output_file, index=False)
+    df['latitude'] = 51.3300
+    df['longitude'] = 12.1700
+    df.columns = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
+    file = df.to_excel(output_excel_path, index=False)
     return file
 
-def df_to_geojson(data, properties, lat='latitude', lon='longitude'):
-    geojson = {"type": "FeatureCollection", "features":{}}
+def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
+    geojson = {"type": "FeatureCollection", "features":[]}
 
     for _, row in data.iterrows():
         feature = {"type": "Feature",
@@ -50,24 +54,30 @@ def df_to_geojson(data, properties, lat='latitude', lon='longitude'):
         geojson["features"].append(feature)
     return geojson
     
-def SaveGeoJSON(geojson_archion, output_json):
-    with open(output_json, "wb") as file:
-        file.write(json.dumps(geojson_archion).encode("utf-8"))
+def save_geojson(geojson_archion, output_json_path):
+    with open(output_json_path, "wb") as file:
+        file.write(json.dumps(geojson_archion, indent=2).encode("utf-8"))
     return file
 
 def main(): 
     # Define Output File Path
-    output_file = input("Enter path to save Excel output file:") 
+    output_excel_path = input("Enter path to save Excel output file:") 
     
-    # Example URL: https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg
+    # Define URL (e.g. https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg)
     url = input("Enter URL to Archion archive overview page:")
     url = f"{url}"
 
     # Web Scraping
-    archive_list, link_list = ContentScraping(url)
+    archive_list, link_list = scrape_archion_content(url)
+
+    # Define Archive Name (e.g. Bistumsarchiv Speyer)
+    archive_name = input("Enter name of archive:") 
+   
+    # Define District Name (e.g. Kirchenkreis Hamburg-Ost)
+    district_name = input("Enter name of district:") 
     
-    # Saving Excel
-    SaveExcel(output_file, archive_list, link_list)
+    # Save to Excel
+    save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name)
 
     # Define Input File Path
     input_file = input("Enter path to read-in Excel file:") 
@@ -77,13 +87,13 @@ def main():
     cols = ["name", "district", "archive", "path", "latitude", "longitude"]
 
     # Create GeoJSON
-    geojson_archion = df_to_geojson(data, cols)
+    geojson_archion = write_df_to_geojson(data, cols)
 
     # Define Output GeoJSON File Path
-    output_json = input("Enter path to save GeoJSON output file:") 
+    output_json_path = input("Enter path to save GeoJSON output file:")
 
-    # Saving GeoJSON
-    SaveGeoJSON(output_json, geojson_archion)
+    # Save to GeoJSON
+    save_geojson(output_json_path, geojson_archion)
 
 if __name__ == "__main__":
     main()
