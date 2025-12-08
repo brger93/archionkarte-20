@@ -49,7 +49,7 @@ def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
                    "coordinates":{}},
                    "properties":{},}
         feature["geometry"]["coordinates"] = [row[lon], row[lat]]
-        for prop in properties:
+        for prop in ['name', 'district', 'archive', 'path']:
             feature["properties"][prop] = row[prop]
         geojson["features"].append(feature)
     return geojson
