@@ -56,7 +56,7 @@ def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
     
 def save_geojson(output_json_path, geojson_archion):
     with open(output_json_path, "wb") as file:
-        file.write(json.dumps(geojson_archion, indent=4).encode("utf-8"))
+        file.write(json.dumps(geojson_archion, indent=2).encode("utf-8"))
     return file
 
 def main(): 

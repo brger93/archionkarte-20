@@ -18,4 +18,4 @@ path = Path(output_file.replace('"', ''))
 
 # Save sorted GeoJSON
 with open(output_file, "w", encoding="utf-8") as file:
-    json.dump(geojson, file, indent=4, ensure_ascii=False)
+    json.dump(geojson, file, indent=2, ensure_ascii=False)
