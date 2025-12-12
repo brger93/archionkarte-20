@@ -3,28 +3,34 @@ GeoJSONs for uMap *Archionkarte 2.0*
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
-The genealogy platform [ARCHION](https://www.archion.de) provides access to digitised church records. To gain a better overview of the locations of the 175,000 church books that have already been digitised, a uMap has been set up:
-* [Archionkarte 2.0. Read-only](https://umap.openstreetmap.de/de/map/archionkarte-20_113993)
+The genealogy platform [ARCHION](https://www.archion.de) provides access to digitised church books.
 
-This GitHub repository helps to maintain the underlying GeoJSONs so that they correctly reflect the digitisation status on the map.
+To enable a graphical 
+
+The uMap [Archionkarte 2.0](https://umap.openstreetmap.de/de/map/archionkarte-20_113993) was created to provide a graphical overview of the digitisation status. The underlying GeoJSONs are maintened in this GitHub repository.
 
 <!-- CONTRIBUTION -->
 ## Contribution
-### Data
-As soon as new church records are uploaded to [ARCHION](https://www.archion.de/de/archion-entdecken/alle-news/neue-digitalisate), all help is welcome. Just dial into public biweekly [WikiTree Stammtisch Zoom](https://www.wikitree.com/wiki/Space:Stammtisch) and you will be made a collaborator of the GitHub repository.
+### First Contact
+Dial into public Zoom meeting of [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch) and you will be made a GitHub collaborator.
 
-Ongoing projects can be found on web page of [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch). Please announce your project either in biweekly [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch) or on the *Work in Progress* list on the web page under chapter 4 *Archionkarte 2.0*.
+### Alignment
+Ongoing projects are posted on [Archionkarte 2.0](https://www.wikitree.com/wiki/Space:Archionkarte_2.0) under the chapter *Work in Progress*. A WikiTree account is required to modify the free space page.
+
+### GeoData
+Please follow these steps to update geodata:
+* Extract list of digitised church books and the respective direct links via *archion_scraping.py*.
+* Update latitude and longitude manually in xlsx file.
+* Create GeoJSON (district) via *archion_scraping.py*.
+* If applicable, copy GEOJSON (district) into GeoJSON (archive) manually.
 
 There are no requirements set for pushes to *main* at the moment for project collaborators.
 
-### uMap
-If you have ideas how to improve UI experience on uMap, we are happy to implement them. Feel free to dial into public biweekly [WikiTree Stammtisch Zoom](https://www.wikitree.com/wiki/Space:Stammtisch) and share those with us.
-
 <!-- RELEASE PROCESS -->
 ## Release Process
-The following steps must be executed to update the uMap:
+Please follow these steps to update the uMap:
 * Copy GitHub's raw content URL of updated GeoJSON (sorted).
-* Open [Archionkarte 2.0 Edit](https://umap.openstreetmap.de/de/map/anonymous-edit/113993:ienKfbLQGKj4f7-ECaz57MoGGDLw_VjWkT2Q0LFKPME).
+* Open [Archionkarte 2.0](https://umap.openstreetmap.de/de/map/anonymous-edit/113993:ienKfbLQGKj4f7-ECaz57MoGGDLw_VjWkT2Q0LFKPME).
 * Select on the right side **Import data**.
 * Paste GitHub's raw content URL.
 * Choose data format *geojson* from dropdown menu.
