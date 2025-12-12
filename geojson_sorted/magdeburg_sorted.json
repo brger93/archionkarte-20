@@ -14257,7 +14257,2951 @@
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-magdeburg/wallonisch-reformierte-kirche-magdeburg"
       }
     },
- {
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.716666666667,
+          51.283333333333
+        ]
+      },
+      "properties": {
+        "name": "Albersroda (St. Magni)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/albersroda-st-magni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62484,
+          51.44619
+        ]
+      },
+      "properties": {
+        "name": "Alberstedt (St. Petri und Pauli)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/alberstedt-st-petri-und-pauli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.176388888889,
+          51.314444444444
+        ]
+      },
+      "properties": {
+        "name": "Altranstädt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/altranstaed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95744,
+          51.33736
+        ]
+      },
+      "properties": {
+        "name": "Atzendorf (St. Dionys)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/atzendorf-st-dionys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.06651,
+          51.29147
+        ]
+      },
+      "properties": {
+        "name": "Bad Dürrenberg Keuschberg (St. Laurentius)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/bad-duerrenberg-keuschberg-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86956,
+          51.38652
+        ]
+      },
+      "properties": {
+        "name": "Bad Lauchst\u00e4dt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/bad-lauchstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65,
+          51.35
+        ]
+      },
+      "properties": {
+        "name": "Barnst\u00e4dt (St. Wenzeslaus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/barnstaedt-st-wenzeslaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.28008,
+          11.88447
+        ]
+      },
+      "properties": {
+        "name": "Bedra",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/bedra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.483055555556,
+          51.566666666667
+        ]
+      },
+      "properties": {
+        "name": "Benndorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/benndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.483055555556,
+          51.566666666667
+        ]
+      },
+      "properties": {
+        "name": "Benndorf und Naundorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/benndorf-und-naundorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.92189,
+          51.33275
+        ]
+      },
+      "properties": {
+        "name": "Blösien",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/bloesien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10651,
+          51.24803
+        ]
+      },
+      "properties": {
+        "name": "Bothfeld",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/bothfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.81235,
+          51.26540
+        ]
+      },
+      "properties": {
+        "name": "Branderoda",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/branderoda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.916666666667,
+          50.733333333333
+        ]
+      },
+      "properties": {
+        "name": "Braunsdorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/braunsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91947,
+          51.37117
+        ]
+      },
+      "properties": {
+        "name": "Bündorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/buendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.983055555556,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Burgwerben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/burgwerben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03639,
+          51.31690
+        ]
+      },
+      "properties": {
+        "name": "Daspig",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/daspig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.023055555556,
+          51.230833333333
+        ]
+      },
+      "properties": {
+        "name": "Dehlitz (St. Marien)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/dehlitz-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          51.416666666667
+        ]
+      },
+      "properties": {
+        "name": "Delitz am Berge",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/delitz-am-berge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62415,
+          51.40371
+        ]
+      },
+      "properties": {
+        "name": "Döcklitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/doecklitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8521805555556,
+          52.6798611111111
+        ]
+      },
+      "properties": {
+        "name": "Eichstedt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/eichstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20357,
+          51.22479
+        ]
+      },
+      "properties": {
+        "name": "Eisdorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/eisdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.15964,
+          51.39084
+        ]
+      },
+      "properties": {
+        "name": "Ermlitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/ermlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.677777777778,
+          51.423888888889
+        ]
+      },
+      "properties": {
+        "name": "Esperstedt (St. Petri)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/esperstedt-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016666666667,
+          52.534722222222
+        ]
+      },
+      "properties": {
+        "name": "Fischbeck",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/fischbeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93933,
+          51.31007
+        ]
+      },
+      "properties": {
+        "name": "Frankleben (St. Martini) und Runst\u00e4dt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/frankleben-st-martini-und-runstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.064444444444,
+          51.351944444444
+        ]
+      },
+      "properties": {
+        "name": "Friedensdorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/friedensdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55298,
+          51.40239
+        ]
+      },
+      "properties": {
+        "name": "Gatterstädt (St. Georgii und St. Petri)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/gatterstaedt-st-georgii-und-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03480,
+          51.19125
+        ]
+      },
+      "properties": {
+        "name": "Gerstewitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/gerstewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.933055555556,
+          51.333055555556
+        ]
+      },
+      "properties": {
+        "name": "Geusa",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/geusa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03463,
+          51.32343
+        ]
+      },
+      "properties": {
+        "name": "Göhlitzsch (Annenkirche)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/goehlitzsch-annenkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6597222222222,
+          51.3627777777778
+        ]
+      },
+      "properties": {
+        "name": "Göhrendorf (St. Nikolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/goehrendorf-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62930,
+          51.34264
+        ]
+      },
+      "properties": {
+        "name": "Göhritz (St. Kilian)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/goehritz-st-kilian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.92448,
+          51.13468
+        ]
+      },
+      "properties": {
+        "name": "Gröbitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/groebitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57917,
+          51.32782
+        ]
+      },
+      "properties": {
+        "name": "Grockstädt (St. Michael)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grockstaedt-st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.07510,
+          51.22601
+        ]
+      },
+      "properties": {
+        "name": "Großgöhren",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grossgoehren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.183055555556,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Großgörschen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grossgoerschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.81649,
+          51.39488
+        ]
+      },
+      "properties": {
+        "name": "Großgräfendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grossgraefendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93701,
+          51.29020
+        ]
+      },
+      "properties": {
+        "name": "Großkayna (St. Petrus-St. Anna)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grosskayna-st-petrus-st-anna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.031111111111,
+          51.26
+        ]
+      },
+      "properties": {
+        "name": "Großkorbetha (St. Martinus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grosskorbetha-st-martinus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.221111111111,
+          51.301666666667
+        ]
+      },
+      "properties": {
+        "name": "Großlehna",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grosslehna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          51.45
+        ]
+      },
+      "properties": {
+        "name": "Großosterhausen (St. Wigberti)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/grossosterhausen-st-wigberti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.84558,
+          51.26053
+        ]
+      },
+      "properties": {
+        "name": "Gröst",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/groest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22053,
+          51.21773
+        ]
+      },
+      "properties": {
+        "name": "Hohenlohe (St. Nicolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/hohenlohe-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589722222222,
+          51.453333333333
+        ]
+      },
+      "properties": {
+        "name": "Horburg (St. Marien)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/horburg-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59048,
+          51.45270
+        ]
+      },
+      "properties": {
+        "name": "Hornburg (St. Ulrich)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/hornburg-st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.69047,
+          51.31281
+        ]
+      },
+      "properties": {
+        "name": "Jüdendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/juedendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.67395,
+          51.30240
+        ]
+      },
+      "properties": {
+        "name": "Kalzendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kalzendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.84214,
+          51.02418
+        ]
+      },
+      "properties": {
+        "name": "Kämmeritz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kaemmeritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.06733,
+          51.29191
+        ]
+      },
+      "properties": {
+        "name": "Keuschberg (St. Laurentius)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/keuschberg-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.05276,
+          51.29003
+        ]
+      },
+      "properties": {
+        "name": "Kirchdorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kirchdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55098,
+          51.32591
+        ]
+      },
+      "properties": {
+        "name": "Kleineichstädt (St. Nicolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kleineichstaedt-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.18546,
+          51.22258
+        ]
+      },
+      "properties": {
+        "name": "Kleingörschen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kleingoerschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93564,
+          51.29954
+        ]
+      },
+      "properties": {
+        "name": "Kleinkayna",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kleinkayna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04657,
+          51.25564
+        ]
+      },
+      "properties": {
+        "name": "Kleinkorbetha",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kleinkorbetha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88373,
+          51.38369
+        ]
+      },
+      "properties": {
+        "name": "Kleinlauchstädt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kleinlauchstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51943,
+          51.444750
+        ]
+      },
+      "properties": {
+        "name": "Kleinosterhausen (St. Stephanus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kleinosterhausen-st-stephanus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00587,
+          51.39429
+        ]
+      },
+      "properties": {
+        "name": "Kollenbey (Schkopau Ost)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kollenbey-schkopau-ost"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96185,
+          51.40601
+        ]
+      },
+      "properties": {
+        "name": "Korbetha",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/korbetha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.97482,
+          51.17015
+        ]
+      },
+      "properties": {
+        "name": "Kößlitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/koesslitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13034,
+          51.31238
+        ]
+      },
+      "properties": {
+        "name": "Kötzschau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/koetzschau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98501,
+          51.31826
+        ]
+      },
+      "properties": {
+        "name": "Kötzschen (Merseburg Süd)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/koetzschen-merseburg-sued"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85925,
+          51.36447
+        ]
+      },
+      "properties": {
+        "name": "Krakau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/krakau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04422,
+          51.32888
+        ]
+      },
+      "properties": {
+        "name": "Kreypau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kreypau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01158,
+          51.23423
+        ]
+      },
+      "properties": {
+        "name": "Kriechau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kriechau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87814,
+          51.36820
+        ]
+      },
+      "properties": {
+        "name": "Kriegstädt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kriegstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04686,
+          51.30484
+        ]
+      },
+      "properties": {
+        "name": "Kröllwitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kroellwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85153,
+          51.29316
+        ]
+      },
+      "properties": {
+        "name": "Krumpa",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/krumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65475,
+          51.41056
+        ]
+      },
+      "properties": {
+        "name": "Kuckenburg",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/kuckenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.183055555556
+        ]
+      },
+      "properties": {
+        "name": "Langendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/langendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87482,
+          51.26373
+        ]
+      },
+      "properties": {
+        "name": "Leiha",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/leiha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54908,
+          51.36017
+        ]
+      },
+      "properties": {
+        "name": "Leimbach (St. Matthäus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/leimbach-st-matthaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9,
+          51.183055555556
+        ]
+      },
+      "properties": {
+        "name": "Leißling",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/leissling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016666666667,
+          51.316666666667
+        ]
+      },
+      "properties": {
+        "name": "Leuna (Ockendorf)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/leuna-ockendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58016,
+          51.30844
+        ]
+      },
+      "properties": {
+        "name": "Liederstädt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/liederstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90611,
+          51.19422
+        ]
+      },
+      "properties": {
+        "name": "Lobitzsch",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/lobitzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.53525,
+          51.37834
+        ]
+      },
+      "properties": {
+        "name": "Lodersleben (St. Pankratius)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/lodersleben-st-pankratius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03897,
+          51.37275
+        ]
+      },
+      "properties": {
+        "name": "Lössen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/loessen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90860,
+          51.26066
+        ]
+      },
+      "properties": {
+        "name": "Lunstädt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/lunstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13887,
+          51.25744
+        ]
+      },
+      "properties": {
+        "name": "Lützen (Stadtkirche St. Viti)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/luetzen-stadtkirche-st-viti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8,
+          51.583055555556
+        ]
+      },
+      "properties": {
+        "name": "Lützkendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/luetzkendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.933055555556,
+          51.216666666667
+        ]
+      },
+      "properties": {
+        "name": "Markwerben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/markwerben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98970,
+          51.35429
+        ]
+      },
+      "properties": {
+        "name": "Merseburg (Militärgemeinde)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/merseburg-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98970,
+          51.35429
+        ]
+      },
+      "properties": {
+        "name": "Merseburg (Neumarktkirche St. Thomae)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/merseburg-neumarktkirche-st-thomae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98970,
+          51.35429
+        ]
+      },
+      "properties": {
+        "name": "Merseburg (Schloss- und Domkirche St. Laurentii et Johannis baptistae)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/merseburg-schloss-und-domkirche-st-laurentii-et-johannis-baptistae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98970,
+          51.35429
+        ]
+      },
+      "properties": {
+        "name": "Merseburg (Stadtkirche St. Maximi)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/merseburg-stadtkirche-st-maximi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98970,
+          51.35429
+        ]
+      },
+      "properties": {
+        "name": "Merseburg (St.Viti, Stadtteil Altenburg)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/merseburg-stviti-stadtteil-altenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.17654,
+          51.24881
+        ]
+      },
+      "properties": {
+        "name": "Meuchen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/meuchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01041,
+          51.36521
+        ]
+      },
+      "properties": {
+        "name": "Meuschau (St. Georg)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/meuschau-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86766,
+          51.30516
+        ]
+      },
+      "properties": {
+        "name": "Möckerling",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/moeckerling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8,
+          51.3
+        ]
+      },
+      "properties": {
+        "name": "Mücheln (St. Jakobi)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/muecheln-st-jakobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8,
+          51.3
+        ]
+      },
+      "properties": {
+        "name": "Mücheln (St. Micheln)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/muecheln-st-micheln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79791,
+          51.30244
+        ]
+      },
+      "properties": {
+        "name": "Mücheln (St. Ulrich)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/muecheln-st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91086,
+          51.26024
+        ]
+      },
+      "properties": {
+        "name": "Nahlendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/nahlendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0,
+          51.7
+        ]
+      },
+      "properties": {
+        "name": "Naundorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/naundorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04830,
+          51.20475
+        ]
+      },
+      "properties": {
+        "name": "Nellschütz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/nellschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66051,
+          51.36029
+        ]
+      },
+      "properties": {
+        "name": "Nemsdorf (St. Georg)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/nemsdorf-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.83048,
+          51.30107
+        ]
+      },
+      "properties": {
+        "name": "Neubiendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/neubiendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00645,
+          51.35755
+        ]
+      },
+      "properties": {
+        "name": "Neumark",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/neumark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95671,
+          51.32333
+        ]
+      },
+      "properties": {
+        "name": "Niederbeuna",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/niederbeuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74671,
+          51.34401
+        ]
+      },
+      "properties": {
+        "name": "Niedereichstädt (St. Wenzel)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/niedereichstaedt-st-wenzel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85196,
+          51.35637
+        ]
+      },
+      "properties": {
+        "name": "Niederklobikau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/niederklobikau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56218,
+          51.34553
+        ]
+      },
+      "properties": {
+        "name": "Niederschmon (St. Markus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/niederschmon-st-markus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80098,
+          51.35009
+        ]
+      },
+      "properties": {
+        "name": "Nierderwünsch (St. Nikolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/nierderwuensch-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.97181,
+          51.32678
+        ]
+      },
+      "properties": {
+        "name": "Oberbeuna",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oberbeuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73403,
+          51.34203
+        ]
+      },
+      "properties": {
+        "name": "Obereichstädt (St. Nikolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obereichstaedt-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56712,
+          51.42898
+        ]
+      },
+      "properties": {
+        "name": "Oberfarnstädt (St. Johannis und Pauli)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oberfarnstaedt-st-johannis-und-pauli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95519,
+          51.17634
+        ]
+      },
+      "properties": {
+        "name": "Obergreißlau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obergreisslau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.83237,
+          51.34999
+        ]
+      },
+      "properties": {
+        "name": "Oberklobikau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oberklobikau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00404,
+          51.14388
+        ]
+      },
+      "properties": {
+        "name": "Obernessa",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obernessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54190,
+          51.34449
+        ]
+      },
+      "properties": {
+        "name": "Oberschmon (St. Peter und Paul)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oberschmon-st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14356,
+          51.38534
+        ]
+      },
+      "properties": {
+        "name": "Oberthau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oberthau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95346,
+          51.32080
+        ]
+      },
+      "properties": {
+        "name": "Ober- und Niederbeuna",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/ober-und-niederbeuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.77864,
+          51.35162
+        ]
+      },
+      "properties": {
+        "name": "Oberwünsch (St. Johannis)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oberwuensch-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65101,
+          51.39225
+        ]
+      },
+      "properties": {
+        "name": "Obhausen (St. Johannis)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obhausen-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.666666666667,
+          51.399722222222
+        ]
+      },
+      "properties": {
+        "name": "Obhausen (St. Nikolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obhausen-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65590,
+          51.39545
+        ]
+      },
+      "properties": {
+        "name": "Obhausen (St. Petri)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obhausen-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90836,
+          51.22951
+        ]
+      },
+      "properties": {
+        "name": "Obschütz (St. Laurentius)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/obschuetz-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.76381,
+          51.32402
+        ]
+      },
+      "properties": {
+        "name": "Oechlitz (St. Gotthardt)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oechlitz-st-gotthardt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14668,
+          51.27555
+        ]
+      },
+      "properties": {
+        "name": "Ötzsch",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/oetzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.15171,
+          51.32368
+        ]
+      },
+      "properties": {
+        "name": "Pissen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/pissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91837,
+          51.15333
+        ]
+      },
+      "properties": {
+        "name": "Plennschütz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/plennschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10905,
+          51.20227
+        ]
+      },
+      "properties": {
+        "name": "Pobles",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/pobles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.066666666667,
+          51.233055555556
+        ]
+      },
+      "properties": {
+        "name": "Pörsten",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/poersten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.083055555556,
+          51.213055555556
+        ]
+      },
+      "properties": {
+        "name": "Poserna (St. Rupertus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/poserna-st-rupertus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.933055555556,
+          51.149722222222
+        ]
+      },
+      "properties": {
+        "name": "Prittitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/prittitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6,
+          51.383333333333
+        ]
+      },
+      "properties": {
+        "name": "Querfurt (Schlosskirche St. Crucis)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/querfurt-schlosskirche-st-crucis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6,
+          51.383333333333
+        ]
+      },
+      "properties": {
+        "name": "Querfurt (Stadtkirche St. Lampertus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/querfurt-stadtkirche-st-lampertus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.84274,
+          51.35344
+        ]
+      },
+      "properties": {
+        "name": "Raschwitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/raschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949722222222,
+          51.25
+        ]
+      },
+      "properties": {
+        "name": "Reichardtswerben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/reichardtswerben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599722222222,
+          51.299722222222
+        ]
+      },
+      "properties": {
+        "name": "Reinsdorf (St. Johannis Baptistae)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/reinsdorf-st-johannis-baptistae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93937,
+          51.31924
+        ]
+      },
+      "properties": {
+        "name": "Reipisch",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/reipisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.116111111111,
+          51.240833333333
+        ]
+      },
+      "properties": {
+        "name": "Röcken",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/roecken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89577,
+          51.25960
+        ]
+      },
+      "properties": {
+        "name": "Roßbach",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/rossbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01970,
+          51.33138
+        ]
+      },
+      "properties": {
+        "name": "Rössen (St. Nikolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/roessen-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54671,
+          51.45541
+        ]
+      },
+      "properties": {
+        "name": "Rothenschirmbach (St. Pancratius)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/rothenschirmbach-st-pancratius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93847,
+          51.30117
+        ]
+      },
+      "properties": {
+        "name": "Runstädt",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/runstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.776111111111,
+          51.381944444444
+        ]
+      },
+      "properties": {
+        "name": "Schafstädt (St. Johannes)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schafstaedt-st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22577,
+          51.25320
+        ]
+      },
+      "properties": {
+        "name": "Schkeitbar",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schkeitbar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.383333333333
+        ]
+      },
+      "properties": {
+        "name": "Schkopau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schkopau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.015833333333,
+          51.243055555556
+        ]
+      },
+      "properties": {
+        "name": "Schkortleben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schkortleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11147,
+          51.31920
+        ]
+      },
+      "properties": {
+        "name": "Schladebach",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schladebach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.77626,
+          51.31450
+        ]
+      },
+      "properties": {
+        "name": "Schmirma",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schmirma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.71391,
+          51.29670
+        ]
+      },
+      "properties": {
+        "name": "Schnellroda (St. Mathaei)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schnellroda-st-mathaei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87342,
+          51.27415
+        ]
+      },
+      "properties": {
+        "name": "Schortau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schortau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.84213,
+          51.38955
+        ]
+      },
+      "properties": {
+        "name": "Schotterey",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schotterey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.665,
+          51.436388888889
+        ]
+      },
+      "properties": {
+        "name": "Schraplau (St. Johannis Baptistae)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/schraplau-st-johannis-baptistae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.99243,
+          51.19911
+        ]
+      },
+      "properties": {
+        "name": "Selau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/selau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.033055555556,
+          51.299722222222
+        ]
+      },
+      "properties": {
+        "name": "Spergau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/spergau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58789,
+          51.31898
+        ]
+      },
+      "properties": {
+        "name": "Spielberg",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/spielberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140277777778,
+          51.2175
+        ]
+      },
+      "properties": {
+        "name": "Starsiedel",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/starsiedel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.666666666667,
+          51.299722222222
+        ]
+      },
+      "properties": {
+        "name": "Steigra",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/steigra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80432,
+          51.32530
+        ]
+      },
+      "properties": {
+        "name": "Stöbnitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/stoebnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.924444444444,
+          51.228333333333
+        ]
+      },
+      "properties": {
+        "name": "Storkau (St. Gangolf und St. Vincenz)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/storkau-st-gangolf-und-st-vincenz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949722222222,
+          51.233055555556
+        ]
+      },
+      "properties": {
+        "name": "Tagewerben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/tagewerben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.079166666667,
+          51.193333333333
+        ]
+      },
+      "properties": {
+        "name": "Taucha (St. Peter)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/taucha-st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10396,
+          51.28056
+        ]
+      },
+      "properties": {
+        "name": "Teuditz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/teuditz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12914,
+          51.29528
+        ]
+      },
+      "properties": {
+        "name": "Thalschütz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/thalschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20881,
+          51.27467
+        ]
+      },
+      "properties": {
+        "name": "Thronitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/thronitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.066944444444,
+          51.095
+        ]
+      },
+      "properties": {
+        "name": "Trebnitz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/trebnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.923611111111,
+          51.207222222222
+        ]
+      },
+      "properties": {
+        "name": "Uichteritz",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/uichteritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58838,
+          51.42832
+        ]
+      },
+      "properties": {
+        "name": "Unterfarnstädt (St. Silvester)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/unterfarnstaedt-st-silvester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95978,
+          51.17719
+        ]
+      },
+      "properties": {
+        "name": "Untergreißlau (St. Georg)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/untergreisslau-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01884,
+          51.14870
+        ]
+      },
+      "properties": {
+        "name": "Unternessa",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/unternessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.05876,
+          51.27386
+        ]
+      },
+      "properties": {
+        "name": "Vesta",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/vesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56917,
+          51.30228
+        ]
+      },
+      "properties": {
+        "name": "Vitzenburg (St. Johannis Baptistae)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/vitzenburg-st-johannis-baptistae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.079722222222,
+          51.358611111111
+        ]
+      },
+      "properties": {
+        "name": "Wallendorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/wallendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Weißenfels (Garnison)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/weissenfels-garnison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Weißenfels (Klosterkirche)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/weissenfels-klosterkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Weißfenfels (Neustadt St. Laurentius)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/weissenfels-neustadt-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Weißenfels (Schlosskirche)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/weissenfels-schlosskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966666666667,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Weißenfels (St. Marien)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/weissenfels-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54594,
+          51.31279
+        ]
+      },
+      "properties": {
+        "name": "Weißenschirmbach (St. Nikolai)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/weissenschirmbach-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.040277777778,
+          51.282222222222
+        ]
+      },
+      "properties": {
+        "name": "Wengelsdorf",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/wengelsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22884,
+          51.19690
+        ]
+      },
+      "properties": {
+        "name": "Werben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/werben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.06097,
+          51.31500
+        ]
+      },
+      "properties": {
+        "name": "Wölkau",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/woelkau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.47171,
+          51.33153
+        ]
+      },
+      "properties": {
+        "name": "Ziegelroda (St. Markus)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/ziegelroda-st-markus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.26688,
+          51.21886
+        ]
+      },
+      "properties": {
+        "name": "Zitzschen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zitzschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11938,
+          51.27189
+        ]
+      },
+      "properties": {
+        "name": "Zöllschen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zoellschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016666666667,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Zorbau (St. Georg)",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zorbau-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.83570,
+          51.30797
+        ]
+      },
+      "properties": {
+        "name": "Zörbigker",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zoerbigker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.116111111111,
+          51.358055555556
+        ]
+      },
+      "properties": {
+        "name": "Zöschen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zoeschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96983,
+          51.33532
+        ]
+      },
+      "properties": {
+        "name": "Zscherben",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zscherben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.15,
+          51.366666666667
+        ]
+      },
+      "properties": {
+        "name": "Zweimen",
+        "district": "Kirchenkreis Merseburg",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-merseburg/zweimen"
+      }
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
