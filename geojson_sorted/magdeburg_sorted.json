@@ -14374,8 +14374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.28008,
-          11.88447
+          11.88447,          
+          51.28008
         ]
       },
       "properties": {
@@ -15030,8 +15030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.84214,
-          51.02418
+          11.87813,
+          51.30840
         ]
       },
       "properties": {
@@ -16806,8 +16806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.066944444444,
-          51.095
+          12.02534,
+          51.34756
         ]
       },
       "properties": {
