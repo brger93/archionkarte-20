@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
-import requests
-import pandas as pd
 import json
+import pandas as pd
+import requests
  
 def scrape_archion_content(url): 
     """
