@@ -3,54 +3,57 @@ from geopy.geocoders import Nominatim
 import json
 import pandas as pd
 import requests
- 
-def scrape_archion_content(url): 
+
+
+def scrape_archion_content(url):
     """
     This function extracts a list of all digitised church
     books for a single archive on www.archion.de and the
     respective direct links.
-    """ 
-    soup = BeautifulSoup(requests.get(url).content, "html.parser")
-    
-    archion = soup.find("div", id="archive-nav")
+    """
+    soup = BeautifulSoup(requests.get(url).content, 'html.parser')
+
+    archion = soup.find('div', id='archive-nav')
 
     # Extract titles
     archive_list = []
-    for i in archion.find_all("a"):
+    for i in archion.find_all('a'):
         archive_list.append(i.text.strip())
-    
+
     # Extract links
-    link_list =[]
-    for i in archion.find_all("a"):
-        link_list.append(i.get("href"))
+    link_list = []
+    for i in archion.find_all('a'):
+        link_list.append(i.get('href'))
     return archive_list, link_list
+
 
 def get_long_and_lat(archive_list):
     """
     This function requests latitudes and longitudes.
-    """   
+    """
     # Initalize
-    archive_names = [] 
+    archive_names = []
     lat = []
     long = []
-    i = 0  
 
     # Create list with only archive names
-    for a in archive_list:
-            archive_names.append(archive_list[i].split()[0])
-            i += 1
-    
+    for i in range(len(archive_list)):
+        archive_names.append(archive_list[i].split()[0])
+
     # Get lat and long
-    geolocator = Nominatim (user_agent = "archionkarte")
+    geolocator = Nominatim(user_agent='archionkarte')
 
     for a in archive_names:
         location = geolocator.geocode(a)
-        
+
         lat.append(location.latitude)
         long.append(location.longitude)
     return lat, long
-        
-def save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name, lat, long):
+
+
+def save_df_to_excel(
+    output_excel_path, archive_list, link_list, archive_name, district_name, lat, long
+):
     """
     This function saves a DataFrame(parish name, district name, archive name, parish URL)
     to xlxs.
@@ -65,60 +68,73 @@ def save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, d
     file = df.to_excel(output_excel_path, index=False)
     return file
 
+
 def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
-    geojson = {"type": "FeatureCollection", "features":[]}
+    geojson = {'type': 'FeatureCollection', 'features': []}
 
     for _, row in data.iterrows():
-        feature = {"type": "Feature",
-                   "geometry": {"type": "Point",
-                   "coordinates":{}},
-                   "properties":{},}
-        feature["geometry"]["coordinates"] = [row[lon], row[lat]]
+        feature = {
+            'type': 'Feature',
+            'geometry': {'type': 'Point', 'coordinates': {}},
+            'properties': {},
+        }
+        feature['geometry']['coordinates'] = [row[lon], row[lat]]
         for prop in ['name', 'district', 'archive', 'path']:
-            feature["properties"][prop] = row[prop]
-        geojson["features"].append(feature)
+            feature['properties'][prop] = row[prop]
+        geojson['features'].append(feature)
     return geojson
-    
+
+
 def save_geojson(output_json_path, geojson_archion):
-    with open(output_json_path, "wb") as file:
-        file.write(json.dumps(geojson_archion, indent=2).encode("utf-8"))
+    with open(output_json_path, 'wb') as file:
+        file.write(json.dumps(geojson_archion, indent=2).encode('utf-8'))
     return file
 
-def main(): 
+
+def main():
     # Define Output File Path
-    output_excel_path = input("Enter path to save Excel output file:") 
-    
+    output_excel_path = input('Enter path to save Excel output file:')
+
     # Define URL (e.g. https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg)
-    url = input("Enter URL to Archion archive overview page:")
-    url = f"{url}"
+    url = input('Enter URL to Archion archive overview page:')
+    url = f'{url}'
 
     # Web Scraping
     archive_list, link_list = scrape_archion_content(url)
 
     # Define Archive Name (e.g. Bistumsarchiv Speyer)
-    archive_name = input("Enter name of archive:") 
-   
+    archive_name = input('Enter name of archive:')
+
     # Define District Name (e.g. Kirchenkreis Hamburg-Ost)
-    district_name = input("Enter name of district:") 
-    
+    district_name = input('Enter name of district:')
+
     # Get Latitude and Longitude
     lat, long = get_long_and_lat(archive_list)
 
     # Save to Excel
-    save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name, lat, long)
+    save_df_to_excel(
+        output_excel_path,
+        archive_list,
+        link_list,
+        archive_name,
+        district_name,
+        lat,
+        long,
+    )
 
     # Read-in Archion Data
     data = pd.read_excel(output_excel_path)
-    cols = ["name", "district", "archive", "path", "latitude", "longitude"]
+    cols = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
 
     # Create GeoJSON
     geojson_archion = write_df_to_geojson(data, cols)
 
     # Define Output GeoJSON File Path
-    output_json_path = input("Enter path to save GeoJSON output file:")
+    output_json_path = input('Enter path to save GeoJSON output file:')
 
     # Save to GeoJSON
     save_geojson(output_json_path, geojson_archion)
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     main()
