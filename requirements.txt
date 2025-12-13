@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+geopy==2.4.1
+pandas==2.1.4
+pathlib==1.0.1
+requests==2.31.0 
