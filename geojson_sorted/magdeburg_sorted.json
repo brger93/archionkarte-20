@@ -8342,6 +8342,854 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.92892,
+          50.98642
+        ]
+      },
+      "properties": {
+        "name": "Alach (St. Ulrich)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/alach-st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.927777777778,
+          51.0825
+        ]
+      },
+      "properties": {
+        "name": "Andisleben (St. Peter und Paul)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/andisleben-st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06517,
+          50.90489
+        ]
+      },
+      "properties": {
+        "name": "Bechstedt Wagd (St. Trinitatis)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/bechstedt-wagd-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94765,
+          50.97307
+        ]
+      },
+      "properties": {
+        "name": "Bindersleben (St. Lucas )",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/bindersleben-st-lucas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.11397,
+          50.96150
+        ]
+      },
+      "properties": {
+        "name": "Büßleben (St. Petri)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/buessleben-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.854422,
+          51.07931
+        ]
+      },
+      "properties": {
+        "name": "Dachwig (St. Petri)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/dachwig-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05508,
+          50.91860
+        ]
+      },
+      "properties": {
+        "name": "Egstedt (St. Michaelis)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/egstedt-st-michaelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.947222222222,
+          51.045555555556
+        ]
+      },
+      "properties": {
+        "name": "Elxleben (St. Michaelis)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/elxleben-st-michaelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02993,
+          50.98142
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Augustinergemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-augustinergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03010,
+          50.97549
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Barfüßer-Gemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-barfuesser-gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98728,
+          50.93538
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Bischleben",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-bischleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05162,
+          50.96761
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Daberstedt",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-daberstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99375,
+          51.01680
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Gispersleben (St. Kiliani)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-gispersleben-st-kiliani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99070,
+          51.02205
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Gispersleben (St. Viti)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-gispersleben-st-viti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99993,
+          50.95608
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Hochheim",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-hochheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03682,
+          50.98137
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Hospitalgemeinde Zum Heiligen Geist)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-hospitalgemeinde-zum-heiligen-geist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02333,
+          51.00014
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Ilversgehofen (St. Martini)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-ilversgehofen-st-martini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05402,
+          50.98661
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Kaufmannskirche)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-kaufmannskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02679,
+          50.99095
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Luthergemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-luthergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07310,
+          50.95237
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Melchendorf-Dittelstedt",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-melchendorf-dittelstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0288888888889,
+          50.9780555555556
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Militärgemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99165,
+          50.92668
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Möbisburg (St. Dionysii)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-moebisburg-st-dionysii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02856,
+          50.97647
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Predigerkirche St. Cyriaci)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-predigerkirche-st-cyriaci"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03713,
+          50.97498
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (Reglergemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-reglergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97188,
+          50.95323
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Schmira (St. Nicolai)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-schmira-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02144,
+          50.98111
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (St. Andreas)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-st-andreas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98162,
+          50.92813
+        ]
+      },
+      "properties": {
+        "name": "Erfurt-Stedten",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-stedten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02820,
+          50.97929
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (St. Michaelis)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-st-michaelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02761,
+          50.96745
+        ]
+      },
+      "properties": {
+        "name": "Erfurt (St. Thomas)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/erfurt-st-thomas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88530,
+          50.96867
+        ]
+      },
+      "properties": {
+        "name": "Ermstedt (St. Andreas )",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/ermstedt-st-andreas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.91289,
+          50.95619
+        ]
+      },
+      "properties": {
+        "name": "Frienstedt (St. Laurentius )",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/frienstedt-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.934722222222,
+          51.113888888889
+        ]
+      },
+      "properties": {
+        "name": "Gebesee",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/gebesee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.91038,
+          50.96917
+        ]
+      },
+      "properties": {
+        "name": "Gottstedt (St. Georg )",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/gottstedt-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02134,
+          50.88332
+        ]
+      },
+      "properties": {
+        "name": "Kirchheim (St. Laurentius)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/kirchheim-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88510,
+          50.93373
+        ]
+      },
+      "properties": {
+        "name": "Kleinrettbach (St. Severi)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/kleinrettbach-st-severi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97222,
+          51.03412
+        ]
+      },
+      "properties": {
+        "name": "Kühnhausen (Porta Coeli)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/kuehnhausen-porta-coeli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.646666666667,
+          51.108055555556
+        ]
+      },
+      "properties": {
+        "name": "Langensalza (Militärgemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/langensalza-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97925,
+          50.99293
+        ]
+      },
+      "properties": {
+        "name": "Marbach (St. Gotthart)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/marbach-st-gotthart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12093,
+          50.92928
+        ]
+      },
+      "properties": {
+        "name": "Niedernissa",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/niedernissa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.78978,
+          51.50076
+        ]
+      },
+      "properties": {
+        "name": "Nordhausen (Militärgemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/nordhausen-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.844444444444,
+          50.965277777778
+        ]
+      },
+      "properties": {
+        "name": "Nottleben (St. Peter und Paul)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/nottleben-st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.01675,
+          50.93112
+        ]
+      },
+      "properties": {
+        "name": "Rhoda (Zum guten Hirten)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/rhoda-zum-guten-hirten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95412,
+          51.10490
+        ]
+      },
+      "properties": {
+        "name": "Ringleben (St. Bartholomäus)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/ringleben-st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97880,
+          50.99294
+        ]
+      },
+      "properties": {
+        "name": "Salomonsborn (St. Gotthart)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/salomonsborn-st-gotthart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3,
+          51.466666666667
+        ]
+      },
+      "properties": {
+        "name": "Sangerhausen (Militärgemeinde)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/sangerhausen-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94775,
+          51.02306
+        ]
+      },
+      "properties": {
+        "name": "Tiefthal (Peter und Paul )",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/tiefthal-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09616,
+          50.95971
+        ]
+      },
+      "properties": {
+        "name": "Urbich (St. Ulrich)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/urbich-st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.936111111111,
+          51.066388888889
+        ]
+      },
+      "properties": {
+        "name": "Walschleben (Heilig Kreuz)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/walschleben-heilig-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02340,
+          50.91637
+        ]
+      },
+      "properties": {
+        "name": "Waltersleben (St. Nicolai)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/waltersleben-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06148,
+          50.88799
+        ]
+      },
+      "properties": {
+        "name": "Werningsleben (St. Georg)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/werningsleben-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09187,
+          50.94714
+        ]
+      },
+      "properties": {
+        "name": "Windischholzhausen (St. Michaelis)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/windischholzhausen-st-michaelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.889224,
+          51.036049
+        ]
+      },
+      "properties": {
+        "name": "Witterda",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/witterda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.869542,
+          50.990289
+        ]
+      },
+      "properties": {
+        "name": "Zimmernsupra (St. Jakobi)",
+        "district": "Kirchenkreis Erfurt",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-erfurt/zimmernsupra-st-jakobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.626672,
           51.929835
         ]
