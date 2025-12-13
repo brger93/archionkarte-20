@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from geopy.geocoders import Nominatim
 import requests
 import pandas as pd
 import json
@@ -22,10 +23,34 @@ def scrape_archion_content(url):
     link_list =[]
     for i in archion.find_all("a"):
         link_list.append(i.get("href"))
-        
     return archive_list, link_list
 
-def save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name):
+def get_long_and_lat(archive_list):
+    """
+    This function requests latitudes and longitudes.
+    """   
+    # Initalize
+    archive_names = [] 
+    lat = []
+    long = []
+    i = 0  
+
+    # Create list with only archive names
+    for a in archive_list:
+            archive_names.append(archive_list[i].split()[0])
+            i += 1
+    
+    # Get lat and long
+    geolocator = Nominatim (user_agent = "archionkarte")
+
+    for a in archive_names:
+        location = geolocator.geocode(a)
+        
+        lat.append(location.latitude)
+        long.append(location.longitude)
+    return lat, long
+        
+def save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name, lat, long):
     """
     This function saves a DataFrame(parish name, district name, archive name, parish URL)
     to xlxs.
@@ -34,8 +59,8 @@ def save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, d
     df['district'] = district_name
     df['archive'] = archive_name
     df['path'] = pd.Series(link_list, index=df.index)
-    df['latitude'] = 51.3300
-    df['longitude'] = 12.1700
+    df['latitude'] = pd.Series(lat, index=df.index)
+    df['longitude'] = pd.Series(long, index=df.index)
     df.columns = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
     file = df.to_excel(output_excel_path, index=False)
     return file
@@ -76,14 +101,14 @@ def main():
     # Define District Name (e.g. Kirchenkreis Hamburg-Ost)
     district_name = input("Enter name of district:") 
     
-    # Save to Excel
-    save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name)
+    # Get Latitude and Longitude
+    lat, long = get_long_and_lat(archive_list)
 
-    # Define Input File Path
-    input_file = input("Enter path to read-in Excel file:") 
-    
+    # Save to Excel
+    save_df_to_excel(output_excel_path, archive_list, link_list, archive_name, district_name, lat, long)
+
     # Read-in Archion Data
-    data = pd.read_excel(input_file)
+    data = pd.read_excel(output_excel_path)
     cols = ["name", "district", "archive", "path", "latitude", "longitude"]
 
     # Create GeoJSON
