@@ -19,8 +19,6 @@ Ongoing projects are posted on [Archionkarte 2.0](https://www.wikitree.com/wiki/
 
 ### GeoData
 Please follow these steps to update geodata:
-* Extract list of digitised church books and the respective direct linushks via *archion_scraping.py*.
-* Update latitude and longitude manually in xlsx file.
 * Create GeoJSON (district) via *archion_scraping.py*.
 * If applicable, copy GEOJSON (district) into GeoJSON (archive) manually.
 
