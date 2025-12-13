@@ -5,8 +5,6 @@ GeoJSONs for uMap *Archionkarte 2.0*
 ## About the Project
 The genealogy platform [ARCHION](https://www.archion.de) provides access to digitised church books.
 
-To enable a graphical 
-
 The uMap [Archionkarte 2.0](https://umap.openstreetmap.de/de/map/archionkarte-20_113993) was created to provide a graphical overview of the digitisation status. The underlying GeoJSONs are maintened in this GitHub repository.
 
 <!-- CONTRIBUTION -->
