@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.10.0] - 2025-12-12  
 ### Added
-* *magdeburg_sorted.json* was extended by *Kirchenkreis Merseburg*
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Merseburg* and "Kirchenkreis Erfurt"
 
 ## [1.9.0] - 2025-12-07  
 ### Added
