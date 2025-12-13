@@ -7,9 +7,8 @@ import requests
 
 def scrape_archion_content(url):
     """
-    This function extracts a list of all digitised church
-    books for a single archive on www.archion.de and the
-    respective direct links.
+    This function extracts a list of all digitised church books for a
+    single archive on www.archion.de and the respective direct links.
     """
     soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 
@@ -29,7 +28,7 @@ def scrape_archion_content(url):
 
 def get_long_and_lat(archive_list):
     """
-    This function requests latitudes and longitudes.
+    This function requests latitude and longitude for each parish.
     """
     # Initalize
     archive_names = []
@@ -55,8 +54,8 @@ def save_df_to_excel(
     output_excel_path, archive_list, link_list, archive_name, district_name, lat, long
 ):
     """
-    This function saves a DataFrame(parish name, district name, archive name, parish URL)
-    to xlxs.
+    This function saves a DataFrame with parish name, district name, archive name,
+    parish URL, parish latitude and parish longitude to xlxs.
     """
     df = pd.DataFrame(archive_list)
     df['district'] = district_name
@@ -70,6 +69,9 @@ def save_df_to_excel(
 
 
 def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
+    """
+    This function transforms the created DataFrame into GeoJSON format.
+    """
     geojson = {'type': 'FeatureCollection', 'features': []}
 
     for _, row in data.iterrows():
@@ -86,6 +88,9 @@ def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
 
 
 def save_geojson(output_json_path, geojson_archion):
+    """
+    This function saves the created GeoJSON into a json file.
+    """
     with open(output_json_path, 'wb') as file:
         file.write(json.dumps(geojson_archion, indent=2).encode('utf-8'))
     return file
