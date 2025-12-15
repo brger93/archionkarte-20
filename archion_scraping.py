@@ -1,8 +1,9 @@
-from bs4 import BeautifulSoup
-from geopy.geocoders import Nominatim
 import json
 import pandas as pd
 import requests
+
+from bs4 import BeautifulSoup
+from geopy.geocoders import Nominatim
 
 
 def scrape_archion_content(url):
@@ -129,10 +130,10 @@ def main():
 
     # Read-in Archion Data
     data = pd.read_excel(output_excel_path)
-    cols = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
+    properties = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
 
     # Create GeoJSON
-    geojson_archion = write_df_to_geojson(data, cols)
+    geojson_archion = write_df_to_geojson(data, properties)
 
     # Define Output GeoJSON File Path
     output_json_path = input('Enter path to save GeoJSON output file:')
