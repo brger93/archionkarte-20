@@ -7,6 +7,8 @@ import time
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
 
+logger = logging.getLogger('archionkarte_20')
+
 
 def scrape_archion_content(url):
     """
@@ -22,10 +24,14 @@ def scrape_archion_content(url):
     for i in archion.find_all('a'):
         archive_list.append(i.text.strip())
 
+    logger.info('Parish titles were processed.')
+
     # Extract links
     link_list = []
     for i in archion.find_all('a'):
         link_list.append(i.get('href'))
+
+    logger.info('Parish links were processed.')
     return archive_list, link_list
 
 
@@ -43,20 +49,26 @@ def get_long_and_lat(archive_list):
     for i in range(len(archive_list)):
         archive_names.append(archive_list[i].split()[0])
 
+    logger.info('Archive names were extracted.')
+
     # Get lat and long
     geolocator = Nominatim(user_agent='archionkarte')
 
     for a in archive_names:
         location = geolocator.geocode(a)
+        logger.info(f'Processing of: {a}')
 
         try:
             lat.append(location.latitude)
             long.append(location.longitude)
         except Exception:
+            logger.warning(f'Geodata could not be retrieved: {a}')
             lat.append(0)
             long.append(0)
         # apply sleep time to comply with Nominatim GTCs
         time.sleep(0.5)
+
+    logger.info('Geodata was processed.')
     return lat, long
 
 
@@ -75,6 +87,7 @@ def save_df_to_excel(
     df['longitude'] = pd.Series(long, index=df.index)
     df.columns = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
     file = df.to_excel(output_excel_path, index=False)
+    logger.info('DataFrame was created.')
     return file
 
 
@@ -94,6 +107,7 @@ def write_df_to_geojson(data):
         for prop in ['name', 'district', 'archive', 'path']:
             feature['properties'][prop] = row[prop]
         geojson['features'].append(feature)
+    logger.info('GeoJSON was created.')
     return geojson
 
 
@@ -103,10 +117,14 @@ def save_geojson(output_json_path, geojson_archion):
     """
     with open(output_json_path, 'wb') as file:
         file.write(json.dumps(geojson_archion, indent=2).encode('utf-8'))
+    logger.info('GeoJSON was saved.')
     return file
 
 
 def main():
+    # Logging Config
+    logging.basicConfig(level=logging.INFO)
+
     # Define Output File Path
     output_excel_path = input('Enter path to save Excel output file:')
 
