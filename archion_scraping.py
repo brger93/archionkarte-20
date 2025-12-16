@@ -74,8 +74,8 @@ def get_long_and_lat(archive_list):
 
 def get_df(archive_list, link_list, archive_name, district_name, lat, long):
     """
-    This function saves a DataFrame with parish name, district name, archive name,
-    parish URL, parish latitude and parish longitude to xlxs.
+    This function creates a DataFrame with parish name, district name, archive name,
+    parish URL, parish latitude and parish longitude.
     """
     df = pd.DataFrame(archive_list)
     df['district'] = district_name
@@ -139,7 +139,7 @@ def main():
     # Get Latitude and Longitude
     lat, long = get_long_and_lat(archive_list)
 
-    # Save to Excel
+    # Get DataFrame
     df = get_df(
         archive_list,
         link_list,
@@ -149,7 +149,7 @@ def main():
         long,
     )
 
-    # Read-in Archion Data
+    # Read Archion Data
     # data = pd.read_excel(output_excel_path)
 
     # Create GeoJSON
