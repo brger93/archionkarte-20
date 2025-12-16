@@ -1,12 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## [2.10.0] - 2025-12-12  
+## [3.0.0] - 2025-12-16  
+### Changed
+* Processing via Excel was removed in *archion_scraping.py*
+* Logging was introduced
+
+## [2.0.0] - 2025-12-13  
 ### Added
 * *magdeburg_sorted.json* was extended by *Kirchenkreis Erfurt*
 
 ### Changed
-* GeoJSON update process was fully automated
+* GeoJSON update process was fully automated in *archion_scraping.py*
 
 ## [1.10.0] - 2025-12-12  
 ### Added
