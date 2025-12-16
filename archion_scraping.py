@@ -123,9 +123,6 @@ def main():
     # Logging Config
     logging.basicConfig(level=logging.INFO)
 
-    # Define Output File Path
-    # output_excel_path = input('Enter path to save Excel output file:')
-
     # Define URL (e.g. https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg)
     url = input('Enter URL to Archion archive overview page:')
     url = f'{url}'
