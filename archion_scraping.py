@@ -72,9 +72,7 @@ def get_long_and_lat(archive_list):
     return lat, long
 
 
-def save_df_to_excel(
-    output_excel_path, archive_list, link_list, archive_name, district_name, lat, long
-):
+def get_df(archive_list, link_list, archive_name, district_name, lat, long):
     """
     This function saves a DataFrame with parish name, district name, archive name,
     parish URL, parish latitude and parish longitude to xlxs.
@@ -86,18 +84,18 @@ def save_df_to_excel(
     df['latitude'] = pd.Series(lat, index=df.index)
     df['longitude'] = pd.Series(long, index=df.index)
     df.columns = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
-    file = df.to_excel(output_excel_path, index=False)
+    df.reset_index(drop=True)
     logger.info('DataFrame was created.')
-    return file
+    return df
 
 
-def write_df_to_geojson(data):
+def write_df_to_geojson(df):
     """
     This function transforms the created DataFrame into GeoJSON format.
     """
     geojson = {'type': 'FeatureCollection', 'features': []}
 
-    for _, row in data.iterrows():
+    for _, row in df.iterrows():
         feature = {
             'type': 'Feature',
             'geometry': {'type': 'Point', 'coordinates': {}},
@@ -126,7 +124,7 @@ def main():
     logging.basicConfig(level=logging.INFO)
 
     # Define Output File Path
-    output_excel_path = input('Enter path to save Excel output file:')
+    # output_excel_path = input('Enter path to save Excel output file:')
 
     # Define URL (e.g. https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg)
     url = input('Enter URL to Archion archive overview page:')
@@ -145,8 +143,7 @@ def main():
     lat, long = get_long_and_lat(archive_list)
 
     # Save to Excel
-    save_df_to_excel(
-        output_excel_path,
+    df = get_df(
         archive_list,
         link_list,
         archive_name,
@@ -156,10 +153,10 @@ def main():
     )
 
     # Read-in Archion Data
-    data = pd.read_excel(output_excel_path)
+    # data = pd.read_excel(output_excel_path)
 
     # Create GeoJSON
-    geojson_archion = write_df_to_geojson(data)
+    geojson_archion = write_df_to_geojson(df)
 
     # Define Output GeoJSON File Path
     output_json_path = input('Enter path to save GeoJSON output file:')
