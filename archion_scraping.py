@@ -149,9 +149,6 @@ def main():
         long,
     )
 
-    # Read Archion Data
-    # data = pd.read_excel(output_excel_path)
-
     # Create GeoJSON
     geojson_archion = write_df_to_geojson(df)
 
