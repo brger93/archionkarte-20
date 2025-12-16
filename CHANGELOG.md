@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 
 ## [3.0.0] - 2025-12-16  
+### Added
+* *hannover_sorted.json* was extended by *Kirchenkreis Bockenem-Hoheneggelsen*
+* 
 ### Changed
 * Processing via Excel was removed in *archion_scraping.py*
 * Logging was introduced
