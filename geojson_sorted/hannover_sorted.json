@@ -662,6 +662,662 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.1061643,
+          52.2038548
+        ]
+      },
+      "properties": {
+        "name": "Ahstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem-hoheneggelsen/ahstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1725231,
+          52.1784368
+        ]
+      },
+      "properties": {
+        "name": "Bettrum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/bettrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1331159,
+          52.0111484
+        ]
+      },
+      "properties": {
+        "name": "Bockenem",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/bockenem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0086971,
+          52.0264732
+        ]
+      },
+      "properties": {
+        "name": "Bodenburg - Johannis",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/bodenburg-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0086971,
+          52.0264732
+        ]
+      },
+      "properties": {
+        "name": "Bodenburg - Laurentius",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/bodenburg-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1042636,
+          52.0176776
+        ]
+      },
+      "properties": {
+        "name": "B\u00f6nnien",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/boennien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0642531,
+          52.0240738
+        ]
+      },
+      "properties": {
+        "name": "B\u00fcltum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/bueltum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1473001,
+          52.2012164
+        ]
+      },
+      "properties": {
+        "name": "Feldbergen",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/feldbergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1119591,
+          52.2059514
+        ]
+      },
+      "properties": {
+        "name": "Garmissen",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/garmissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1638911,
+          52.1077344
+        ]
+      },
+      "properties": {
+        "name": "Grasdorf",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/grasdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20145,
+          52.18633
+        ]
+      },
+      "properties": {
+        "name": "Groß Himstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/gross-himstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04119,
+          52.00964
+        ]
+      },
+      "properties": {
+        "name": "Groß Ilde",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem-hoheneggelsen/gross-ilde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1064509,
+          52.0752238
+        ]
+      },
+      "properties": {
+        "name": "Hackenstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/hackenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09358,
+          52.00501
+        ]
+      },
+      "properties": {
+        "name": "Hary",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/hary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1047054,
+          52.107335
+        ]
+      },
+      "properties": {
+        "name": "Heersum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/heersum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0363388,
+          52.1032857
+        ]
+      },
+      "properties": {
+        "name": "Heinde",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/heinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.190724,
+          52.1833105
+        ]
+      },
+      "properties": {
+        "name": "Himstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/himstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1825987,
+          52.2100304
+        ]
+      },
+      "properties": {
+        "name": "Hoheneggelsen",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/hoheneggelsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1605747,
+          52.0872985
+        ]
+      },
+      "properties": {
+        "name": "Holle",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/holle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1304212,
+          51.860736
+        ]
+      },
+      "properties": {
+        "name": "Ilde",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/ilde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.07060,
+          52.17975
+        ]
+      },
+      "properties": {
+        "name": "Kemme",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/kemme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18961,
+          52.18413
+        ]
+      },
+      "properties": {
+        "name": "Klein Himstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/klein-himstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1144686,
+          51.9820967
+        ]
+      },
+      "properties": {
+        "name": "K\u00f6nigsdahlum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/koenigsdahlum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0269575,
+          52.1166314
+        ]
+      },
+      "properties": {
+        "name": "Lechstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/lechstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0682852,
+          52.1007026
+        ]
+      },
+      "properties": {
+        "name": "Listringen",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/listringen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1831718,
+          52.1264817
+        ]
+      },
+      "properties": {
+        "name": "Luttrum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/luttrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1602807,
+          52.2169172
+        ]
+      },
+      "properties": {
+        "name": "M\u00f6lme",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/moelme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08276,
+          52.03563
+        ]
+      },
+      "properties": {
+        "name": "Nette",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/nette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1581222,
+          52.1624463
+        ]
+      },
+      "properties": {
+        "name": "Nettlingen",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/nettlingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1263343,
+          52.2267639
+        ]
+      },
+      "properties": {
+        "name": "Oedelum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/oedelum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9997854,
+          52.0330543
+        ]
+      },
+      "properties": {
+        "name": "Östrum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/oestrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03689,
+          52.21981
+        ]
+      },
+      "properties": {
+        "name": "Rautenberg",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/rautenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0064728,
+          52.0595144
+        ]
+      },
+      "properties": {
+        "name": "Salzdetfurth",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/salzdetfurth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1024796,
+          52.1846299
+        ]
+      },
+      "properties": {
+        "name": "Schellerten",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/schellerten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.17364,
+          52.07075
+        ]
+      },
+      "properties": {
+        "name": "Sillium",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem-hoheneggelsen/silium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2331952,
+          52.1889589
+        ]
+      },
+      "properties": {
+        "name": "S\u00f6hlde",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/soehlde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14405,
+          52.07707
+        ]
+      },
+      "properties": {
+        "name": "Sottrum",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/sottrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08491,
+          52.00925
+        ]
+      },
+      "properties": {
+        "name": "Störy",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/stoery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0693764,
+          52.0343862
+        ]
+      },
+      "properties": {
+        "name": "Upstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/upstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0130321,
+          52.0440571
+        ]
+      },
+      "properties": {
+        "name": "Wehrstedt",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bockenem/wehrstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0662205,
+          52.132343
+        ]
+      },
+      "properties": {
+        "name": "Wendhausen",
+        "district": "Kirchenkreis Bockenem-Hoheneggelsen",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-hoheneggelsen/wendhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.98107,
           52.634829
         ]
