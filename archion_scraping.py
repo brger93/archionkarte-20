@@ -1,6 +1,8 @@
 import json
+import logging
 import pandas as pd
 import requests
+import time
 
 from bs4 import BeautifulSoup
 from geopy.geocoders import Nominatim
@@ -29,14 +31,15 @@ def scrape_archion_content(url):
 
 def get_long_and_lat(archive_list):
     """
-    This function requests latitude and longitude for each parish.
+    This function requests latitude and longitude for each parish
+    and writes the values into a list.
     """
     # Initalize
     archive_names = []
     lat = []
     long = []
 
-    # Create list with only archive names
+    # Create list with only archive names (Beware: Parish name with suffix)
     for i in range(len(archive_list)):
         archive_names.append(archive_list[i].split()[0])
 
@@ -46,8 +49,14 @@ def get_long_and_lat(archive_list):
     for a in archive_names:
         location = geolocator.geocode(a)
 
-        lat.append(location.latitude)
-        long.append(location.longitude)
+        try:
+            lat.append(location.latitude)
+            long.append(location.longitude)
+        except Exception:
+            lat.append(0)
+            long.append(0)
+        # apply sleep time to comply with Nominatim GTCs
+        time.sleep(0.5)
     return lat, long
 
 
@@ -69,7 +78,7 @@ def save_df_to_excel(
     return file
 
 
-def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
+def write_df_to_geojson(data):
     """
     This function transforms the created DataFrame into GeoJSON format.
     """
@@ -81,7 +90,7 @@ def write_df_to_geojson(data, properties, lat='latitude', lon='longitude'):
             'geometry': {'type': 'Point', 'coordinates': {}},
             'properties': {},
         }
-        feature['geometry']['coordinates'] = [row[lon], row[lat]]
+        feature['geometry']['coordinates'] = [row['longitude'], row['latitude']]
         for prop in ['name', 'district', 'archive', 'path']:
             feature['properties'][prop] = row[prop]
         geojson['features'].append(feature)
@@ -130,10 +139,9 @@ def main():
 
     # Read-in Archion Data
     data = pd.read_excel(output_excel_path)
-    properties = ['name', 'district', 'archive', 'path', 'latitude', 'longitude']
 
     # Create GeoJSON
-    geojson_archion = write_df_to_geojson(data, properties)
+    geojson_archion = write_df_to_geojson(data)
 
     # Define Output GeoJSON File Path
     output_json_path = input('Enter path to save GeoJSON output file:')
