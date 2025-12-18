@@ -10,7 +10,7 @@ from geopy.geocoders import Nominatim
 logger = logging.getLogger('archionkarte_20')
 
 
-def scrape_archion_content(url):
+def scrape_archion_content(url: str) -> tuple[list, list]:
     """
     This function extracts a list of all digitised church books for a
     single archive on www.archion.de and the respective direct links.
@@ -21,21 +21,21 @@ def scrape_archion_content(url):
 
     # Extract titles
     archive_list = []
-    for i in archion.find_all('a'):
-        archive_list.append(i.text.strip())
+    for anchor in archion.find_all('a'):
+        archive_list.append(anchor.text.strip())
 
     logger.info('Parish titles were processed.')
 
     # Extract links
     link_list = []
-    for i in archion.find_all('a'):
-        link_list.append(i.get('href'))
+    for anchor in archion.find_all('a'):
+        link_list.append(anchor.get('href'))
 
     logger.info('Parish links were processed.')
     return archive_list, link_list
 
 
-def get_long_and_lat(archive_list):
+def get_long_and_lat(archive_list: list) -> tuple[list, list]:
     """
     This function requests latitude and longitude for each parish
     and writes the values into a list.
@@ -54,15 +54,15 @@ def get_long_and_lat(archive_list):
     # Get lat and long
     geolocator = Nominatim(user_agent='archionkarte')
 
-    for a in archive_names:
-        location = geolocator.geocode(a)
-        logger.info(f'Processing of: {a}')
+    for name in archive_names:
+        location = geolocator.geocode(name)
+        logger.info(f'Processing of: {name}')
 
         try:
             lat.append(location.latitude)
             long.append(location.longitude)
         except Exception:
-            logger.warning(f'Geodata could not be retrieved: {a}')
+            logger.warning(f'Geodata could not be retrieved: {name}')
             lat.append(0)
             long.append(0)
         # apply sleep time to comply with Nominatim GTCs
@@ -72,7 +72,14 @@ def get_long_and_lat(archive_list):
     return lat, long
 
 
-def get_df(archive_list, link_list, archive_name, district_name, lat, long):
+def get_df(
+    archive_list: list,
+    link_list: list,
+    archive_name: str,
+    district_name: str,
+    lat: list,
+    long: list,
+) -> pd.DataFrame:
     """
     This function creates a DataFrame with parish name, district name, archive name,
     parish URL, parish latitude and parish longitude.
@@ -89,9 +96,9 @@ def get_df(archive_list, link_list, archive_name, district_name, lat, long):
     return df
 
 
-def write_df_to_geojson(df):
+def write_df_to_geojson(df: pd.DataFrame) -> dict:
     """
-    This function transforms the created DataFrame into GeoJSON format.
+    This function transforms a DataFrame into a dict with GeoJSON format.
     """
     geojson = {'type': 'FeatureCollection', 'features': []}
 
@@ -109,9 +116,9 @@ def write_df_to_geojson(df):
     return geojson
 
 
-def save_geojson(output_json_path, geojson_archion):
+def save_geojson(output_json_path: str, geojson_archion: dict):
     """
-    This function saves the created GeoJSON into a json file.
+    This function dumps the dict in GeoJSON format into a json file.
     """
     with open(output_json_path, 'wb') as file:
         file.write(json.dumps(geojson_archion, indent=2).encode('utf-8'))
