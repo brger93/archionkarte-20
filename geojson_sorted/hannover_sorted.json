@@ -1318,6 +1318,742 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.5139063,
+          51.9752481
+        ]
+      },
+      "properties": {
+        "name": "Bodenwerder",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/bodenwerder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.461576,
+          52.032498
+        ]
+      },
+      "properties": {
+        "name": "Börry",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/boerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5470454,
+          51.9455866
+        ]
+      },
+      "properties": {
+        "name": "Breitenkamp",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/breitenkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4302651,
+          51.9125045
+        ]
+      },
+      "properties": {
+        "name": "Brevörde",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/brevoerde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47108,
+          51.95752
+        ]
+      },
+      "properties": {
+        "name": "Brockeln",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/brockeln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4676879,
+          51.9886758
+        ]
+      },
+      "properties": {
+        "name": "Daspe",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/daspe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6063003,
+          51.9702417
+        ]
+      },
+      "properties": {
+        "name": "Dielmissen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/dielmissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.57314,
+          52.00800
+        ]
+      },
+      "properties": {
+        "name": "Dohnsen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/dohnsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4666771,
+          51.9287943
+        ]
+      },
+      "properties": {
+        "name": "Dölme",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/doelme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6383915,
+          51.9270363
+        ]
+      },
+      "properties": {
+        "name": "Eschershausen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/eschershausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5127173,
+          52.0266896
+        ]
+      },
+      "properties": {
+        "name": "Esperde",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/esperde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4463943,
+          52.0165053
+        ]
+      },
+      "properties": {
+        "name": "Frenke",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/frenke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3674445,
+          51.9377243
+        ]
+      },
+      "properties": {
+        "name": "Glesse",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/glesse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45850,
+          51.91347
+        ]
+      },
+      "properties": {
+        "name": "Grave",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/grave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.49756,
+          51.92704
+        ]
+      },
+      "properties": {
+        "name": "Grave-Pegestorf",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/grave-pegestorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4195248,
+          52.0187867
+        ]
+      },
+      "properties": {
+        "name": "Grohnde",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/grohnde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4369533,
+          52.0004629
+        ]
+      },
+      "properties": {
+        "name": "Hajen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/hajen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56258,
+          51.99050
+        ]
+      },
+      "properties": {
+        "name": "Halle",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/halle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4189617,
+          52.0764226
+        ]
+      },
+      "properties": {
+        "name": "Hastenbeck",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/hastenbeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4726811,
+          51.9841554
+        ]
+      },
+      "properties": {
+        "name": "Hehlen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/hehlen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5671356,
+          51.9439727
+        ]
+      },
+      "properties": {
+        "name": "Heinrichshagen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/heinrichshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4369089,
+          51.8836594
+        ]
+      },
+      "properties": {
+        "name": "Heinsen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/heinsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.505117,
+          52.0084368
+        ]
+      },
+      "properties": {
+        "name": "Heyen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/heyen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46656,
+          51.95218
+        ]
+      },
+      "properties": {
+        "name": "Hohe",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/hohe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6663388,
+          51.934009
+        ]
+      },
+      "properties": {
+        "name": "Holzen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/holzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5944376,
+          51.9853952
+        ]
+      },
+      "properties": {
+        "name": "Hunzen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/hunzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5106707,
+          51.9854525
+        ]
+      },
+      "properties": {
+        "name": "Kemnade",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/kemnade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5734101,
+          51.9645318
+        ]
+      },
+      "properties": {
+        "name": "Kirchbrak",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/kirchbrak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5334704,
+          51.9991778
+        ]
+      },
+      "properties": {
+        "name": "Kreipke",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/kreipke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.35419,
+          51.96846
+        ]
+      },
+      "properties": {
+        "name": "Lichtenhagen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/lichtenhagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.54146,
+          51.98349
+        ]
+      },
+      "properties": {
+        "name": "Linse",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/linse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6235515,
+          51.9506776
+        ]
+      },
+      "properties": {
+        "name": "Lüerdissen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/lueerdissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3730506,
+          51.98412
+        ]
+      },
+      "properties": {
+        "name": "Lüntorf",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/luentorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.457794,
+          52.0298786
+        ]
+      },
+      "properties": {
+        "name": "Niederbörry",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/niederboerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4615795,
+          52.0325432
+        ]
+      },
+      "properties": {
+        "name": "Oberbörry",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/oberboerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.61148,
+          51.94373
+        ]
+      },
+      "properties": {
+        "name": "Ölkassen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/oelkassen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4090059,
+          51.9466196
+        ]
+      },
+      "properties": {
+        "name": "Ottenstein",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/ottenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4972056,
+          51.92686
+        ]
+      },
+      "properties": {
+        "name": "Pegestorf",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/pegestorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4056679,
+          51.8995278
+        ]
+      },
+      "properties": {
+        "name": "Polle",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/polle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5110261,
+          51.9281108
+        ]
+      },
+      "properties": {
+        "name": "Rühle",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/ruehle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6331416,
+          51.9380696
+        ]
+      },
+      "properties": {
+        "name": "Scharfoldendorf",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/scharfoldendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5735677,
+          51.9796266
+        ]
+      },
+      "properties": {
+        "name": "Tuchtfeld",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/tuchtfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3771731,
+          52.0653513
+        ]
+      },
+      "properties": {
+        "name": "Tündern",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/tuendern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3412899,
+          51.921316
+        ]
+      },
+      "properties": {
+        "name": "Vahlbruch",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/vahlbruch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4453859,
+          52.0717939
+        ]
+      },
+      "properties": {
+        "name": "Voremberg",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/voremberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5506656,
+          52.0076355
+        ]
+      },
+      "properties": {
+        "name": "Wegensen",
+        "district": "Kirchenkreis Bodenwerder",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-bodenwerder/wegensen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.98107,
           52.634829
         ]
