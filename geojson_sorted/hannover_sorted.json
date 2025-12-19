@@ -13051,10 +13051,314 @@
         ]
       },
       "properties": {
-        "name": "Wolterdingen\n                                                Keine verf\u00fcgbaren Digitalisate",
+        "name": "Wolterdingen",
         "district": "Kirchenkreis Rotenburg",
         "archive": "Ev.-Luth. Landeskirche Hannovers",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/wolterdingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9679044,
+          52.2514068
+        ]
+      },
+      "properties": {
+        "name": "Algermissen",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/algermissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8183598,
+          52.2015976
+        ]
+      },
+      "properties": {
+        "name": "Barnten",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/barnten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.925342,
+          52.2697733
+        ]
+      },
+      "properties": {
+        "name": "Bledeln",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/bledeln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9445816,
+          52.2968113
+        ]
+      },
+      "properties": {
+        "name": "Bolzum",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/bolzum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8330136,
+          52.214218
+        ]
+      },
+      "properties": {
+        "name": "Giften",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/giften"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8397516,
+          52.2746747
+        ]
+      },
+      "properties": {
+        "name": "Gleidingen",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/gleidingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8987072,
+          52.2425568
+        ]
+      },
+      "properties": {
+        "name": "Gödringen",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/goedringen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01091,
+          52.26926
+        ]
+      },
+      "properties": {
+        "name": "Groß Lobke",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/gross-lobke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.849958,
+          52.2605752
+        ]
+      },
+      "properties": {
+        "name": "Heisede",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/heisede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9076186,
+          52.2533888
+        ]
+      },
+      "properties": {
+        "name": "Hotteln",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/hotteln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9480887,
+          52.2729558
+        ]
+      },
+      "properties": {
+        "name": "Lühnde",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/luehnde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9086354,
+          52.2940618
+        ]
+      },
+      "properties": {
+        "name": "Müllingen",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/muellingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8821582,
+          52.2833011
+        ]
+      },
+      "properties": {
+        "name": "Oesselse",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/oesselse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8135353,
+          52.1832233
+        ]
+      },
+      "properties": {
+        "name": "Rössing",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/roessing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8534254,
+          52.2340379
+        ]
+      },
+      "properties": {
+        "name": "Sarstedt - St. Nicolai",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/sarstedt-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8534254,
+          52.2340379
+        ]
+      },
+      "properties": {
+        "name": "Sarstedt - St. Paulus",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/sarstedt-st-paulus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9300259,
+          52.3185399
+        ]
+      },
+      "properties": {
+        "name": "Wassel",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/wassel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9352487,
+          52.2968431
+        ]
+      },
+      "properties": {
+        "name": "Wehmingen",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/wehmingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9166686,
+          52.2960223
+        ]
+      },
+      "properties": {
+        "name": "Wirringen",
+        "district": "Kirchenkreis Sarstedt",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-sarstedt/wirringen"
       }
     },
     {
