@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [3.1.0] - 2025-12-19  
 ### Added
-* *hannover_sorted.json* was extended by *Kirchenkreis Bodenwerder*
+* *hannover_sorted.json* was extended by *Kirchenkreis Bodenwerder*, *Kirchenkreis Rotenburg* and *Kirchenkreis Sarstedt*
 
 ## [3.0.0] - 2025-12-16  
 ### Added
