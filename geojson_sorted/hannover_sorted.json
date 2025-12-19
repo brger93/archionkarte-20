@@ -12886,6 +12886,182 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.3129845,
+          53.0622888
+        ]
+      },
+      "properties": {
+        "name": "Ahausen",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/ahausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5166616,
+          53.1000015
+        ]
+      },
+      "properties": {
+        "name": "Brockel",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/brockel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6655304,
+          53.1680225
+        ]
+      },
+      "properties": {
+        "name": "Fintel",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/fintel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3952433,
+          53.0195569
+        ]
+      },
+      "properties": {
+        "name": "Kirchwalsede",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/kirchwalsede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.70493,
+          53.03075
+        ]
+      },
+      "properties": {
+        "name": "Neuenkirchen",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/neuenkirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4049292,
+          53.1108906
+        ]
+      },
+      "properties": {
+        "name": "Rotenburg",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/rotenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4840648,
+          53.1667961
+        ]
+      },
+      "properties": {
+        "name": "Schee\u00dfel",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/scheessel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7873454,
+          53.1187799
+        ]
+      },
+      "properties": {
+        "name": "Schneverdingen",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/schneverdingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2354374,
+          53.1161752
+        ]
+      },
+      "properties": {
+        "name": "Sottrum",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/sottrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5777771,
+          52.9849747
+        ]
+      },
+      "properties": {
+        "name": "Visselh\u00f6vede",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/visselhoevede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8322637,
+          53.0310159
+        ]
+      },
+      "properties": {
+        "name": "Wolterdingen\n                                                Keine verf\u00fcgbaren Digitalisate",
+        "district": "Kirchenkreis Rotenburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-rotenburg/wolterdingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.517647,
           52.170096
         ]
