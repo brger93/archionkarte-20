@@ -11942,6 +11942,470 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.167455,
+          52.248112
+        ]
+      },
+      "properties": {
+        "name": "Adenstedt",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/adenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18827,
+          52.307912
+        ]
+      },
+      "properties": {
+        "name": "Berkum",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/berkum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11678,
+          52.243915
+        ]
+      },
+      "properties": {
+        "name": "Bierbergen",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/bierbergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025419,
+          52.250295
+        ]
+      },
+      "properties": {
+        "name": "Clauen",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/clauen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.115692,
+          52.291986
+        ]
+      },
+      "properties": {
+        "name": "Equord",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/equord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.219002,
+          52.244946
+        ]
+      },
+      "properties": {
+        "name": "Gadenstedt",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gadenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.190719,
+          52.262996
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00df B\u00fclten",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-buelten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.222822,
+          52.266407
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00df Ilsede",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-ilsede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.243708,
+          52.22615
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00df Lafferde",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-lafferde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.154083,
+          52.271242
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00df Solschen",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-solschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212032,
+          52.292512
+        ]
+      },
+      "properties": {
+        "name": "Handorf",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/handorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.050194,
+          52.268043
+        ]
+      },
+      "properties": {
+        "name": "Harber",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/harber"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.143363,
+          52.289798
+        ]
+      },
+      "properties": {
+        "name": "Hofschwicheldt",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/hofschwicheldt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066007,
+          52.257621
+        ]
+      },
+      "properties": {
+        "name": "Hohenhameln",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/hohenhameln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.197245,
+          52.280146
+        ]
+      },
+      "properties": {
+        "name": "Klein B\u00fclten",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/klein-buelten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.292739,
+          52.223406
+        ]
+      },
+      "properties": {
+        "name": "Klein Lafferde",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/klein-lafferde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14088,
+          52.269316
+        ]
+      },
+      "properties": {
+        "name": "Klein Solschen",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/klein-solschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.310364,
+          52.205671
+        ]
+      },
+      "properties": {
+        "name": "Lengede",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/lengede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.094577,
+          52.305366
+        ]
+      },
+      "properties": {
+        "name": "Mehrum",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/mehrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.272633,
+          52.257405
+        ]
+      },
+      "properties": {
+        "name": "M\u00fcnstedt",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/muenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.250404,
+          52.256199
+        ]
+      },
+      "properties": {
+        "name": "Oberg",
+        "district": "Kirchenkreis Ölsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/oberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.070737,
+          52.27269
+        ]
+      },
+      "properties": {
+        "name": "Ohlum",
+        "district": "Kirchenkreis Ölsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/ohlum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.206968,
+          52.264319
+        ]
+      },
+      "properties": {
+        "name": "\u00d6lsburg",
+        "district": "Kirchenkreis Ölsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/oelsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.169463,
+          52.301552
+        ]
+      },
+      "properties": {
+        "name": "Rosenthal",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/rosenthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.069359,
+          52.289434
+        ]
+      },
+      "properties": {
+        "name": "R\u00f6tzum",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/roetzum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.151497,
+          52.30981
+        ]
+      },
+      "properties": {
+        "name": "Schwicheldt",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/schwicheldt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.154083,
+          52.271242
+        ]
+      },
+      "properties": {
+        "name": "Solschen",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/solschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.060803,
+          52.242453
+        ]
+      },
+      "properties": {
+        "name": "So\u00dfmar",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/sossmar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.111392,
+          52.269782
+        ]
+      },
+      "properties": {
+        "name": "Stedum",
+        "district": "Kirchenkreis \u00d6lsburg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/stedum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.047635,
           52.27196
         ]
@@ -15183,470 +15647,6 @@
         "district": "Kirchenkreis Wunstorf",
         "archive": "Ev.-Luth. Landeskirche Hannovers",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-wunstorf/id-idensermoor"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.167455,
-          52.248112
-        ]
-      },
-      "properties": {
-        "name": "Adenstedt",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/adenstedt"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.18827,
-          52.307912
-        ]
-      },
-      "properties": {
-        "name": "Berkum",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/berkum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.11678,
-          52.243915
-        ]
-      },
-      "properties": {
-        "name": "Bierbergen",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/bierbergen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.025419,
-          52.250295
-        ]
-      },
-      "properties": {
-        "name": "Clauen",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/clauen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.115692,
-          52.291986
-        ]
-      },
-      "properties": {
-        "name": "Equord",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/equord"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.219002,
-          52.244946
-        ]
-      },
-      "properties": {
-        "name": "Gadenstedt",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gadenstedt"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.190719,
-          52.262996
-        ]
-      },
-      "properties": {
-        "name": "Gro\u00df B\u00fclten",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-buelten"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.222822,
-          52.266407
-        ]
-      },
-      "properties": {
-        "name": "Gro\u00df Ilsede",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-ilsede"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.243708,
-          52.22615
-        ]
-      },
-      "properties": {
-        "name": "Gro\u00df Lafferde",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-lafferde"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.154083,
-          52.271242
-        ]
-      },
-      "properties": {
-        "name": "Gro\u00df Solschen",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/gross-solschen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.212032,
-          52.292512
-        ]
-      },
-      "properties": {
-        "name": "Handorf",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/handorf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.050194,
-          52.268043
-        ]
-      },
-      "properties": {
-        "name": "Harber",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/harber"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.143363,
-          52.289798
-        ]
-      },
-      "properties": {
-        "name": "Hofschwicheldt",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/hofschwicheldt"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.066007,
-          52.257621
-        ]
-      },
-      "properties": {
-        "name": "Hohenhameln",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/hohenhameln"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.197245,
-          52.280146
-        ]
-      },
-      "properties": {
-        "name": "Klein B\u00fclten",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/klein-buelten"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.292739,
-          52.223406
-        ]
-      },
-      "properties": {
-        "name": "Klein Lafferde",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/klein-lafferde"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.14088,
-          52.269316
-        ]
-      },
-      "properties": {
-        "name": "Klein Solschen",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/klein-solschen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.310364,
-          52.205671
-        ]
-      },
-      "properties": {
-        "name": "Lengede",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/lengede"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.094577,
-          52.305366
-        ]
-      },
-      "properties": {
-        "name": "Mehrum",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/mehrum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.272633,
-          52.257405
-        ]
-      },
-      "properties": {
-        "name": "M\u00fcnstedt",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/muenstedt"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.250404,
-          52.256199
-        ]
-      },
-      "properties": {
-        "name": "Oberg",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/oberg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.070737,
-          52.27269
-        ]
-      },
-      "properties": {
-        "name": "Ohlum",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/ohlum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.206968,
-          52.264319
-        ]
-      },
-      "properties": {
-        "name": "\u00d6lsburg",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/oelsburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.169463,
-          52.301552
-        ]
-      },
-      "properties": {
-        "name": "Rosenthal",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/rosenthal"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.069359,
-          52.289434
-        ]
-      },
-      "properties": {
-        "name": "R\u00f6tzum",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/roetzum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.151497,
-          52.30981
-        ]
-      },
-      "properties": {
-        "name": "Schwicheldt",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/schwicheldt"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.154083,
-          52.271242
-        ]
-      },
-      "properties": {
-        "name": "Solschen",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/solschen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.060803,
-          52.242453
-        ]
-      },
-      "properties": {
-        "name": "So\u00dfmar",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/sossmar"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.111392,
-          52.269782
-        ]
-      },
-      "properties": {
-        "name": "Stedum",
-        "district": "Kirchenkreis \u00d6lsburg",
-        "archive": "Ev.-Luth. Landeskirche Hannovers",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-oelsburg/stedum"
       }
     }
   ],
