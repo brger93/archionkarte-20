@@ -6,42 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.533953,
-          52.051905
-        ]
-      },
-      "properties": {
-        "name": "(Werla-) Burgdorf mit Heiningen",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/werla-burgdorf-mit-heiningen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.533953,
-          52.051905
-        ]
-      },
-      "properties": {
-        "name": "(Werla-) Burgdorf mit Heiningen und Altenrode",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/werla-burgdorf-mit-heiningen-und-altenrode"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.725826,
-          52.25039
+          10.7258257,
+          52.2503903
         ]
       },
       "properties": {
         "name": "Abbenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/abbenrode"
       }
@@ -57,6 +28,7 @@
       },
       "properties": {
         "name": "Achim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/achim"
       }
@@ -66,12 +38,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.065803,
-          51.890053
+          10.0658033,
+          51.8900534
         ]
       },
       "properties": {
         "name": "Ackenhausen und Wolperode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ackenhausen-und-wolperode"
       }
@@ -81,12 +54,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.065803,
-          51.890053
+          10.0658033,
+          51.8900534
         ]
       },
       "properties": {
         "name": "Ackenhausen, z. T. mit Wolperode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ackenhausen-z-t-mit-wolperode"
       }
@@ -96,12 +70,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.460484,
-          52.143586
+          10.4669903,
+          52.144664
         ]
       },
       "properties": {
         "name": "Adersheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/adersheim"
       }
@@ -117,6 +92,7 @@
       },
       "properties": {
         "name": "Ahlum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ahlum"
       }
@@ -132,6 +108,7 @@
       },
       "properties": {
         "name": "Ahlum mit Wendessen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ahlum-mit-wendessen"
       }
@@ -141,12 +118,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.968127,
-          51.67781
+          10.9681272,
+          51.6778095
         ]
       },
       "properties": {
         "name": "Allrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/allrode"
       }
@@ -156,27 +134,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.302591,
-          52.020064
-        ]
-      },
-      "properties": {
-        "name": "Alt Wallmoden (mit Darmpfuhlm\u00fchle und Ziegelei K\u00f6nneckenrode)",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/alt-wallmoden-mit-darmpfuhlmuehle-und-ziegelei-koenneckenrode"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.931718,
-          51.727792
+          10.9341834,
+          51.7233306
         ]
       },
       "properties": {
         "name": "Altenbrak z. T. mit Ludwigsh\u00fctte",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/altenbrak-z-t-mit-ludwigshuette"
       }
@@ -186,12 +150,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.043135,
+          10.0431348,
           51.905754
         ]
       },
       "properties": {
         "name": "Altgandersheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/altgandersheim"
       }
@@ -207,6 +172,7 @@
       },
       "properties": {
         "name": "Altwallmoden",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/altwallmoden"
       }
@@ -216,12 +182,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.013451,
-          52.146499
+          10.302591,
+          52.020064
+        ]
+      },
+      "properties": {
+        "name": "Alt Wallmoden (mit Darmpfuhlm\u00fchle und Ziegelei K\u00f6nneckenrode)",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/alt-wallmoden-mit-darmpfuhlmuehle-und-ziegelei-koenneckenrode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0019998,
+          52.1495028
         ]
       },
       "properties": {
         "name": "Alversdorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/alversdorf"
       }
@@ -231,12 +214,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.383914,
-          52.215187
+          10.3839135,
+          52.2151865
         ]
       },
       "properties": {
         "name": "Alvesse",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/alvesse"
       }
@@ -246,12 +230,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.74697,
-          52.177442
+          10.7469698,
+          52.1774419
         ]
       },
       "properties": {
         "name": "Ampleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ampleben"
       }
@@ -261,12 +246,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.74697,
-          52.177442
+          10.7469698,
+          52.1774419
         ]
       },
       "properties": {
         "name": "Ampleben z. T. mit Eilum und Weferlingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ampleben-z-t-mit-eilum-und-weferlingen"
       }
@@ -276,12 +262,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.62018,
-          52.191642
+          10.6201804,
+          52.1916415
         ]
       },
       "properties": {
         "name": "Apelnstedt z. T. mit Volzum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/apelnstedt-z-t-mit-volzum"
       }
@@ -291,12 +278,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.379604,
+          10.3796037,
           51.926085
         ]
       },
       "properties": {
         "name": "Astfeld",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/astfeld"
       }
@@ -312,23 +300,9 @@
       },
       "properties": {
         "name": "Atzum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/atzum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.564361,
-          51.880322
-        ]
-      },
-      "properties": {
-        "name": "Bad Harzburg",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bad-harzburg"
       }
     },
     {
@@ -342,6 +316,7 @@
       },
       "properties": {
         "name": "Baddeckenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/baddeckenstedt"
       }
@@ -351,12 +326,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.000513,
-          52.384991
+          10.02350,
+          51.86954
+        ]
+      },
+      "properties": {
+        "name": "Bad Gandersheim, Stadt- und Stiftskirche",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bad-gandersheim-stadt-und-stiftskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.564361,
+          51.880322
+        ]
+      },
+      "properties": {
+        "name": "Bad Harzburg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bad-harzburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0005134,
+          52.3849905
         ]
       },
       "properties": {
         "name": "Bahrdorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bahrdorf"
       }
@@ -366,12 +374,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.743538,
-          52.151853
+          10.7435482,
+          52.1569019
         ]
       },
       "properties": {
         "name": "Bansleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bansleben"
       }
@@ -387,6 +396,7 @@
       },
       "properties": {
         "name": "Barnstorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/barnstorf"
       }
@@ -402,6 +412,7 @@
       },
       "properties": {
         "name": "Barum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/barum"
       }
@@ -411,12 +422,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.423921,
-          52.182906
+          10.4239213,
+          52.1829064
         ]
       },
       "properties": {
         "name": "Beddingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/beddingen"
       }
@@ -426,12 +438,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.838184,
-          52.292747
+          10.8381838,
+          52.2927466
         ]
       },
       "properties": {
         "name": "Beienrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/beienrode"
       }
@@ -441,12 +454,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.857323,
-          52.074949
+          10.8573231,
+          52.0749494
         ]
       },
       "properties": {
         "name": "Beierstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/beierstedt"
       }
@@ -462,6 +476,7 @@
       },
       "properties": {
         "name": "Beinum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/beinum"
       }
@@ -471,12 +486,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.308661,
-          52.419832
+          11.3156611,
+          52.4175898
         ]
       },
       "properties": {
         "name": "Berenbrock z. T. mit Elsebeck",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/berenbrock-z-t-mit-elsebeck"
       }
@@ -486,12 +502,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.735148,
-          52.122098
+          10.7351477,
+          52.1220976
         ]
       },
       "properties": {
         "name": "Berklingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/berklingen"
       }
@@ -501,12 +518,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.735148,
-          52.122098
+          10.7351477,
+          52.1220976
         ]
       },
       "properties": {
         "name": "Berklingen, z. T. mit Klein Vahlberg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/berklingen-z-t-mit-klein-vahlberg"
       }
@@ -516,12 +534,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.572448,
-          51.913435
+          10.5724476,
+          51.9134353
         ]
       },
       "properties": {
         "name": "Bettingerode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bettingerode"
       }
@@ -531,12 +550,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.326253,
-          52.25801
+          10.3262531,
+          52.2580099
         ]
       },
       "properties": {
         "name": "Bettmar z. T. mit Sier\u00dfe",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bettmar-z-t-mit-siersse"
       }
@@ -546,12 +566,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.520509,
-          51.985304
+          10.5205092,
+          51.9853035
         ]
       },
       "properties": {
         "name": "Beuchte mit Ohlhof",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/beuchte-mit-ohlhof"
       }
@@ -561,12 +582,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.576802,
-          52.340705
+          10.5768016,
+          52.3407047
         ]
       },
       "properties": {
         "name": "Bevenrode z. T. mit Waggum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bevenrode-z-t-mit-waggum"
       }
@@ -576,12 +598,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.528486,
-          52.31913
+          10.5284859,
+          52.3191304
         ]
       },
       "properties": {
         "name": "Bienrode mit Bechtsb\u00fcttel",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bienrode-mit-bechtsbuettel"
       }
@@ -591,12 +614,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.194464,
-          52.092565
+          10.1944643,
+          52.0925648
         ]
       },
       "properties": {
         "name": "Binder",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/binder"
       }
@@ -606,12 +630,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.960745,
-          51.79346
+          10.9551991,
+          51.7902676
         ]
       },
       "properties": {
         "name": "Blankenburg Luthergemeinde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/blankenburg-luthergemeinde"
       }
@@ -627,6 +652,7 @@
       },
       "properties": {
         "name": "Blankenburg, St. Bartholom\u00e4us",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/blankenburg-st-bartholomaeus"
       }
@@ -636,12 +662,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.407246,
-          52.177721
+          10.4072456,
+          52.1777212
         ]
       },
       "properties": {
         "name": "Bleckenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bleckenstedt"
       }
@@ -651,14 +678,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.335221,
+          10.3352205,
           52.228135
         ]
       },
       "properties": {
         "name": "Bodenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bodenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22434,
+          51.99740
+        ]
+      },
+      "properties": {
+        "name": "Bodenstein",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bodenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0052939,
+          51.8235224
+        ]
+      },
+      "properties": {
+        "name": "Börnecke",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/boernecke"
       }
     },
     {
@@ -671,9 +731,58 @@
         ]
       },
       "properties": {
-        "name": "Bornum bei B\u00f6r\u00dfum",
+        "name": "Bornum bei Börßum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bornum-bei-boerssum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75278,
+          52.25848
+        ]
+      },
+      "properties": {
+        "name": "Bornum bei Königslutter",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bornum-bei-koenigslutter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13863,
+          51.97472
+        ]
+      },
+      "properties": {
+        "name": "Bornum Harz bei Bockenem",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bornum-harz-bei-bockenem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.59169,
+          52.0694815
+        ]
+      },
+      "properties": {
+        "name": "Börßum z. T. mit Bornum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/boerssum-z-t-mit-bornum"
       }
     },
     {
@@ -687,23 +796,9 @@
       },
       "properties": {
         "name": "Braunschweig, (Alt) Lehndorf Kreuzkirche",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-alt-lehndorf-kreuzkirche"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.52346,
-          52.213637
-        ]
-      },
-      "properties": {
-        "name": "Braunschweig, (Klein) St\u00f6ckheim",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-klein-stoeckheim"
       }
     },
     {
@@ -717,6 +812,7 @@
       },
       "properties": {
         "name": "Braunschweig, Dom St. Blasius",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-dom-st-blasius"
       }
@@ -726,12 +822,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.523607,
-          52.264658
+          10.5236066,
+          52.2646577
         ]
       },
       "properties": {
         "name": "Braunschweig, Garnison",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-garnison"
       }
@@ -747,8 +844,41 @@
       },
       "properties": {
         "name": "Braunschweig, Gliesmarode Bugenhagen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-gliesmarode-bugenhagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5236066,
+          52.2646577
+        ]
+      },
+      "properties": {
+        "name": "Braunschweig, Kirchenverband",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-kirchenverband"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5236066,
+          52.2646577
+        ]
+      },
+      "properties": {
+        "name": "Braunschweig, (Klein) St\u00f6ckheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-klein-stoeckheim"
       }
     },
     {
@@ -762,6 +892,7 @@
       },
       "properties": {
         "name": "Braunschweig, Kreuzkloster",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-kreuzkloster"
       }
@@ -777,6 +908,7 @@
       },
       "properties": {
         "name": "Braunschweig, Lamme",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-lamme"
       }
@@ -792,6 +924,7 @@
       },
       "properties": {
         "name": "Braunschweig, Mascherode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-mascherode"
       }
@@ -807,8 +940,25 @@
       },
       "properties": {
         "name": "Braunschweig, Melverode - Dietrich Bonhoeffer",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-melverode-dietrich-bonhoeffer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.499132,
+          52.283965
+        ]
+      },
+      "properties": {
+        "name": "Braunschweig, \u00d6lper",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-oelper"
       }
     },
     {
@@ -822,6 +972,7 @@
       },
       "properties": {
         "name": "Braunschweig, Querum St. Lukas",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-querum-st-lukas"
       }
@@ -837,6 +988,7 @@
       },
       "properties": {
         "name": "Braunschweig, Riddagshausen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-riddagshausen"
       }
@@ -852,6 +1004,7 @@
       },
       "properties": {
         "name": "Braunschweig, R\u00fchme mit Veltenhof",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-ruehme-mit-veltenhof"
       }
@@ -867,6 +1020,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Andreas",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-andreas"
       }
@@ -882,6 +1036,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Jakobi",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-jakobi"
       }
@@ -897,6 +1052,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Johannis",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-johannis"
       }
@@ -912,6 +1068,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Katharinen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-katharinen"
       }
@@ -927,6 +1084,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Leonhard",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-leonhard"
       }
@@ -942,6 +1100,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Magni",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-magni"
       }
@@ -957,6 +1116,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Martini",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-martini"
       }
@@ -972,6 +1132,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Michaelis",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-michaelis"
       }
@@ -987,6 +1148,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Pauli",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-pauli"
       }
@@ -1002,6 +1164,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Petri",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-petri"
       }
@@ -1017,6 +1180,7 @@
       },
       "properties": {
         "name": "Braunschweig, St. Ulrici (Br\u00fcdern)",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-st-ulrici-bruedern"
       }
@@ -1032,6 +1196,7 @@
       },
       "properties": {
         "name": "Braunschweig, Thune",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-thune"
       }
@@ -1047,6 +1212,7 @@
       },
       "properties": {
         "name": "Braunschweig, Waggum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-waggum"
       }
@@ -1062,6 +1228,7 @@
       },
       "properties": {
         "name": "Braunschweig, Waggum (Bevenrode)",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-waggum-bevenrode"
       }
@@ -1077,6 +1244,7 @@
       },
       "properties": {
         "name": "Braunschweig, Wenden",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-wenden"
       }
@@ -1086,14 +1254,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.499132,
-          52.283965
+          10.8717204,
+          52.4799902
         ]
       },
       "properties": {
-        "name": "Braunschweig, \u00d6lper",
+        "name": "Brechtorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/braunschweig-oelper"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/brechtorf"
       }
     },
     {
@@ -1101,14 +1270,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.353264,
-          51.972594
+          10.35486,
+          51.97311
         ]
       },
       "properties": {
         "name": "Bredelem mit Upen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bredelem-mit-upen"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bredelem-zt-mit-upen"
       }
     },
     {
@@ -1116,14 +1286,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.030091,
-          51.820885
+          11.02012,
+          52.16882
         ]
       },
       "properties": {
-        "name": "B\u00f6rnecke",
+        "name": "Büddenstedt mit Wulfersdorf z.T. mit Alverdorf u. Teichm\u00fchle",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/boernecke"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/bueddenstedt-mit-wulfersdorf-zt-mit-alverdorf-u-teichmuehle"
       }
     },
     {
@@ -1131,14 +1302,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.578538,
-          52.069482
+          10.5480845,
+          51.8897434
         ]
       },
       "properties": {
-        "name": "B\u00f6r\u00dfum z. T. mit Bornum",
+        "name": "Bündheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/boerssum-z-t-mit-bornum"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/buendheim"
       }
     },
     {
@@ -1146,12 +1318,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.653726,
-          52.246766
+          10.21768,
+          52.14508
+        ]
+      },
+      "properties": {
+        "name": "Burgdorf - Assel",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/burgdorf-assel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3815846,
+          52.091092
+        ]
+      },
+      "properties": {
+        "name": "Calbecht",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/calbecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2969159,
+          52.3948728
+        ]
+      },
+      "properties": {
+        "name": "Calvörde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/calvoerde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2969159,
+          52.3948728
+        ]
+      },
+      "properties": {
+        "name": "Calvörde mit Hünerdorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/calvoerde-mit-huenerdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9430631,
+          51.7673983
+        ]
+      },
+      "properties": {
+        "name": "Cattenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/cattenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4454303,
+          52.1125645
+        ]
+      },
+      "properties": {
+        "name": "Cramme",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/cramme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6537261,
+          52.2467665
+        ]
+      },
+      "properties": {
+        "name": "Cremlingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/cremlingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67861,
+          52.23784
         ]
       },
       "properties": {
         "name": "Cremlingen mit Schulenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/cremlingen-mit-schulenrode"
       }
@@ -1161,12 +1446,93 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.903562,
-          52.102092
+          10.00779,
+          51.88419
+        ]
+      },
+      "properties": {
+        "name": "Dankelsheim mit Clus",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/dankelsheim-mit-clus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0090051,
+          51.9000515
+        ]
+      },
+      "properties": {
+        "name": "Dankelsheim mit Clus und Heckenbeck",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/dankelsheim-mit-clus-und-heckenbeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.903656,
+          52.4370389
+        ]
+      },
+      "properties": {
+        "name": "Danndorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/danndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6661346,
+          52.1717729
+        ]
+      },
+      "properties": {
+        "name": "Dettum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/dettum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.66755,
+          52.14790
+        ]
+      },
+      "properties": {
+        "name": "Dettum mit Mönchevahlberg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/dettum-mit-moenchevahlberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9035618,
+          52.1020916
         ]
       },
       "properties": {
         "name": "Dobbeln",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/dobbeln"
       }
@@ -1176,12 +1542,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.563799,
+          10.4003655,
+          51.9739186
+        ]
+      },
+      "properties": {
+        "name": "Dörnten",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/doernten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5637985,
           52.096736
         ]
       },
       "properties": {
         "name": "Dorstadt mit Heiningen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/dorstadt-mit-heiningen"
       }
@@ -1191,14 +1574,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.400365,
-          51.973919
+          10.2957834,
+          52.3441248
         ]
       },
       "properties": {
-        "name": "D\u00f6rnten",
+        "name": "Duttenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/doernten"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/duttenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7182767,
+          52.1603484
+        ]
+      },
+      "properties": {
+        "name": "Eilum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/eilum"
       }
     },
     {
@@ -1212,8 +1612,25 @@
       },
       "properties": {
         "name": "Eilum mit Weferlingen und Ampleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/eilum-mit-weferlingen-und-ampleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.842336,
+          52.4852246
+        ]
+      },
+      "properties": {
+        "name": "Eischott",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/eischott"
       }
     },
     {
@@ -1226,7 +1643,40 @@
         ]
       },
       "properties": {
-        "name": "Eitzum und K\u00fcblingen",
+        "name": "Eitzum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/eitzum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.816681,
+          52.155476
+        ]
+      },
+      "properties": {
+        "name": "Eitzum mit Küblingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/eitzum-mit-kueblingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.816681,
+          52.155476
+        ]
+      },
+      "properties": {
+        "name": "Eitzum und Küblingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/eitzum-und-kueblingen"
       }
@@ -1236,12 +1686,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.439316,
-          52.085961
+          11.3017724,
+          52.4285624
         ]
       },
       "properties": {
-        "name": "Flachst\u00f6ckheim",
+        "name": "Elsebeck",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/elsebeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3723607,
+          52.0878366
+        ]
+      },
+      "properties": {
+        "name": "Engerode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/engerode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7084491,
+          52.2037891
+        ]
+      },
+      "properties": {
+        "name": "Erkerode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/erkerode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6595001,
+          52.306091
+        ]
+      },
+      "properties": {
+        "name": "Essehof",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/essehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2691884,
+          52.3321031
+        ]
+      },
+      "properties": {
+        "name": "Essinghausen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/essinghausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7089033,
+          52.188673
+        ]
+      },
+      "properties": {
+        "name": "Evessen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/evessen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7089033,
+          52.188673
+        ]
+      },
+      "properties": {
+        "name": "Evessen mit Gilzum und Hachum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/evessen-mit-gilzum-und-hachum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.439316,
+          52.0859608
+        ]
+      },
+      "properties": {
+        "name": "Flachstöckheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/flachstoeckheim"
       }
@@ -1251,12 +1814,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.492755,
-          52.037901
+          10.7099166,
+          52.3531649
+        ]
+      },
+      "properties": {
+        "name": "Flechtorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/flechtorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9159208,
+          52.2040839
+        ]
+      },
+      "properties": {
+        "name": "Frellstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/frellstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33271,
+          52.300003
+        ]
+      },
+      "properties": {
+        "name": "Fürstenau mit Sophiental",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/fuerstenau-mit-sophiental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3556388,
+          52.107653
+        ]
+      },
+      "properties": {
+        "name": "Gebhardshagen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gebhardshagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0144292,
+          51.932824
+        ]
+      },
+      "properties": {
+        "name": "Gehrenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gehrenrode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4679031,
+          52.210472
+        ]
+      },
+      "properties": {
+        "name": "Geitelde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/geitelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.822274,
+          52.0754504
+        ]
+      },
+      "properties": {
+        "name": "Gevensleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gevensleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4927549,
+          52.0379009
+        ]
+      },
+      "properties": {
+        "name": "Gielde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gielde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4927549,
+          52.0379009
         ]
       },
       "properties": {
         "name": "Gielde mit Altenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gielde-mit-altenrode"
       }
@@ -1266,12 +1958,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.418276,
-          51.903131
+          10.6972864,
+          52.1827094
+        ]
+      },
+      "properties": {
+        "name": "Gilzum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gilzum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4266284,
+          51.9059936
         ]
       },
       "properties": {
         "name": "Goslar Frankenberg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/goslar-frankenberg"
       }
@@ -1281,12 +1990,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.427708,
-          51.90557
+          10.4266284,
+          51.9059936
+        ]
+      },
+      "properties": {
+        "name": "Goslar Garnison",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/goslar-garnison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4266284,
+          51.9059936
         ]
       },
       "properties": {
         "name": "Goslar Marktkirche",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/goslar-marktkirche"
       }
@@ -1296,12 +2022,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.426594,
-          51.908126
+          10.4266284,
+          51.9059936
         ]
       },
       "properties": {
         "name": "Goslar St. Jakobi",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/goslar-st-jakobi"
       }
@@ -1311,12 +2038,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.433462,
-          51.907678
+          10.4266284,
+          51.9059936
         ]
       },
       "properties": {
         "name": "Goslar St. Stephani",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/goslar-st-stephani"
       }
@@ -1326,12 +2054,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.42848,
-          51.903416
+          10.4266284,
+          51.9059936
         ]
       },
       "properties": {
         "name": "Goslar St. Thomas",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/goslar-st-thomas"
       }
@@ -1341,14 +2070,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.627368,
-          52.097901
+          10.9471591,
+          52.4445139
         ]
       },
       "properties": {
-        "name": "Gro\u00df Biewende",
+        "name": "Grafhorst",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/grafhorst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0565713,
+          51.9081821
+        ]
+      },
+      "properties": {
+        "name": "Gremsheim mit Brunshausen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gremsheim-mit-brunshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62722,
+          52.09929
+        ]
+      },
+      "properties": {
+        "name": "Groß Biewende",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-biewende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.66798,
+          52.35257
+        ]
+      },
+      "properties": {
+        "name": "Groß Brunsrode und Klein Brunsrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-brunsrode-und-klein-brunsrode"
       }
     },
     {
@@ -1361,7 +2139,8 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00df D\u00f6hren mit Klein D\u00f6hren",
+        "name": "Groß Döhren mit Klein Döhren",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-doehren-mit-klein-doehren"
       }
@@ -1376,7 +2155,8 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00df Elbe mit Klein Elbe",
+        "name": "Groß Elbe mit Klein Elbe",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-elbe-mit-klein-elbe"
       }
@@ -1391,7 +2171,8 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00df Fl\u00f6the",
+        "name": "Groß Flöthe",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-floethe"
       }
@@ -1406,7 +2187,8 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00df Heere mit Klein Heere",
+        "name": "Groß Heere mit Klein Heere",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-heere-mit-klein-heere"
       }
@@ -1421,9 +2203,138 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00df Mahner",
+        "name": "Groß Mahner",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-mahner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92343,
+          52.35801
+        ]
+      },
+      "properties": {
+        "name": "Groß Sisbeck",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-sisbeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.91081,
+          52.35329
+        ]
+      },
+      "properties": {
+        "name": "Groß Sisbeck und Klein Sisbeck mit Hagenholz",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-sisbeck-und-klein-sisbeck-mit-hagenholz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52169,
+          52.21523
+        ]
+      },
+      "properties": {
+        "name": "Groß Stöckheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-stoeckheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.50536,
+          52.20602
+        ]
+      },
+      "properties": {
+        "name": "Groß Stöckheim mit Leiferde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-stoeckheim-mit-leiferde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.89840,
+          52.37963
+        ]
+      },
+      "properties": {
+        "name": "Groß Twülpstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-twuelpstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69798,
+          52.13782
+        ]
+      },
+      "properties": {
+        "name": "Groß Vahlberg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-vahlberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74266,
+          52.15136
+        ]
+      },
+      "properties": {
+        "name": "Groß Vahlberg mit Bansleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-vahlberg-mit-bansleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.76667,
+          52.06735
+        ]
+      },
+      "properties": {
+        "name": "Groß Winnigstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gross-winnigstedt"
       }
     },
     {
@@ -1437,6 +2348,7 @@
       },
       "properties": {
         "name": "Gustedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/gustedt"
       }
@@ -1446,12 +2358,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.327911,
-          52.053776
+          10.6849484,
+          52.1809104
+        ]
+      },
+      "properties": {
+        "name": "Hachum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hachum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2184257,
+          51.9484034
+        ]
+      },
+      "properties": {
+        "name": "Hahausen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hahausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3775522,
+          52.1533277
+        ]
+      },
+      "properties": {
+        "name": "Hallendorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hallendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3279114,
+          52.0537762
         ]
       },
       "properties": {
         "name": "Haverlah",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/haverlah"
       }
@@ -1461,14 +2422,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.94625,
-          52.127288
+          10.6820583,
+          52.0656048
         ]
       },
       "properties": {
-        "name": "Hoiersdorf mit Westendorf",
+        "name": "Hedeper",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hoiersdorf-mit-westendorf"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hedeper"
       }
     },
     {
@@ -1476,12 +2438,189 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.606241,
-          52.031233
+          10.3880578,
+          52.1246408
+        ]
+      },
+      "properties": {
+        "name": "Heerte (Salzgitter-Heerte)",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/heerte-salzgitter-heerte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9020397,
+          51.8140575
+        ]
+      },
+      "properties": {
+        "name": "Heimburg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/heimburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0360935,
+          51.9246038
+        ]
+      },
+      "properties": {
+        "name": "Helmscherode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/helmscherode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0028882,
+          52.2089226
+        ]
+      },
+      "properties": {
+        "name": "Helmstedt, St. Marienberg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/helmstedt-st-marienberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0028882,
+          52.2089226
+        ]
+      },
+      "properties": {
+        "name": "Helmstedt, St. Marienberg mit Emmerstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/helmstedt-st-marienberg-mit-emmerstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0028882,
+          52.2089226
+        ]
+      },
+      "properties": {
+        "name": "Helmstedt, St. Stephani",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/helmstedt-st-stephani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2180736,
+          52.1363923
+        ]
+      },
+      "properties": {
+        "name": "Hohenassel",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hohenassel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0558676,
+          52.1617437
+        ]
+      },
+      "properties": {
+        "name": "Hohnsleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hohnsleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9462495,
+          52.1272882
+        ]
+      },
+      "properties": {
+        "name": "Hoiersdorf z.T. mit Westendorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hoiersdorf-zt-mit-westendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5991997,
+          52.315269
+        ]
+      },
+      "properties": {
+        "name": "Hondelage",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hondelage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.196539,
+          51.9961908
+        ]
+      },
+      "properties": {
+        "name": "Hordorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hordorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6062411,
+          52.0312325
         ]
       },
       "properties": {
         "name": "Hornburg mit Isingerode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hornburg-mit-isingerode"
       }
@@ -1491,12 +2630,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.485771,
-          51.959047
+          10.6062411,
+          52.0312325
         ]
       },
       "properties": {
-        "name": "Immenrode mit W\u00f6ltingerode",
+        "name": "Hornburg mit Isingerode, Tempelhof, Steinfelder M\u00fchle und Steinfelder Zoll",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hornburg-mit-isingerode-tempelhof-steinfelder-muehle-und-steinfelder-zoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6144229,
+          52.2215568
+        ]
+      },
+      "properties": {
+        "name": "Hötzum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/hoetzum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8822924,
+          51.773392
+        ]
+      },
+      "properties": {
+        "name": "Hüttenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/huettenrode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.441374,
+          52.1457008
+        ]
+      },
+      "properties": {
+        "name": "Immendorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/immendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4857711,
+          51.9590469
+        ]
+      },
+      "properties": {
+        "name": "Immenrode mit Wöltingerode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/immenrode-mit-woeltingerode"
       }
@@ -1506,12 +2710,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.872429,
+          10.8724293,
           52.106169
         ]
       },
       "properties": {
         "name": "Ingeleben",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ingeleben"
       }
@@ -1521,14 +2726,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.387813,
-          51.951793
+          10.3878126,
+          51.9517927
         ]
       },
       "properties": {
         "name": "Jerstedt mit Hahndorf, Riechenberg und Siechhof",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/jerstedt-mit-hahndorf-riechenberg-und-siechhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3878126,
+          51.9517927
+        ]
+      },
+      "properties": {
+        "name": "Jerstedt z.T. mit Hahndorf, Riechenberg und Siechhof",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/jerstedt-zt-mit-hahndorf-riechenberg-und-siechhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9001606,
+          52.0843177
+        ]
+      },
+      "properties": {
+        "name": "Jerxheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/jerxheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1642126,
+          51.9710005
+        ]
+      },
+      "properties": {
+        "name": "Jerze",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/jerze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3037596,
+          52.4448851
+        ]
+      },
+      "properties": {
+        "name": "Jeseritz mit Parleib",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/jeseritz-mit-parleib"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64615,
+          52.07937
+        ]
+      },
+      "properties": {
+        "name": "Kalme",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/kalme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5896312,
+          52.1106094
+        ]
+      },
+      "properties": {
+        "name": "Kissenbrück z.T. mit Hedwigsburg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/kissenbrueck-zt-mit-hedwigsburg"
       }
     },
     {
@@ -1542,6 +2844,7 @@
       },
       "properties": {
         "name": "Klein Biewende",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/klein-biewende"
       }
@@ -1556,7 +2859,8 @@
         ]
       },
       "properties": {
-        "name": "Klein Fl\u00f6the",
+        "name": "Klein Flöthe",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/klein-floethe"
       }
@@ -1572,6 +2876,7 @@
       },
       "properties": {
         "name": "Klein Mahner",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/klein-mahner"
       }
@@ -1581,12 +2886,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.786832,
-          52.144797
+          10.61382,
+          52.25368
         ]
       },
       "properties": {
-        "name": "K\u00fcblingen",
+        "name": "Kleinschöppenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/kleinschoeppenstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7616983,
+          52.1745681
+        ]
+      },
+      "properties": {
+        "name": "Kneitlingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/kneitlingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3708243,
+          52.2408282
+        ]
+      },
+      "properties": {
+        "name": "Köchingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/koechingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7865318,
+          52.1449535
+        ]
+      },
+      "properties": {
+        "name": "Küblingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/kueblingen"
       }
@@ -1596,12 +2950,93 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.445098,
-          52.135729
+          10.3296997,
+          51.9356917
+        ]
+      },
+      "properties": {
+        "name": "Langelsheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/langelsheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.78638,
+          52.26609
+        ]
+      },
+      "properties": {
+        "name": "Lauingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/lauingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6678432,
+          52.3286295
+        ]
+      },
+      "properties": {
+        "name": "Lehre",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/lehre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4373284,
+          52.4377658
+        ]
+      },
+      "properties": {
+        "name": "Leiferde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/leiferde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4450979,
+          52.1357288
+        ]
+      },
+      "properties": {
+        "name": "Leinde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/leinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4450979,
+          52.1357288
         ]
       },
       "properties": {
         "name": "Leinde und Salzgitter-Watenstedt",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/leinde-und-salzgitter-watenstedt"
       }
@@ -1611,14 +3046,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.552971,
-          51.981869
+          10.5529705,
+          51.9818694
         ]
       },
       "properties": {
         "name": "Lengde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/lengde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5529705,
+          51.9818694
+        ]
+      },
+      "properties": {
+        "name": "Lengde mit Vienenburg",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/lengde-mit-vienenburg"
       }
     },
     {
@@ -1632,6 +3084,7 @@
       },
       "properties": {
         "name": "Liebenburg mit Lewe",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/liebenburg-mit-lewe"
       }
@@ -1641,12 +3094,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.595701,
-          51.930666
+          10.5957009,
+          51.9306661
         ]
       },
       "properties": {
         "name": "Lochtum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/lochtum"
       }
@@ -1656,12 +3110,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.109037,
-          51.91787
+          10.1090374,
+          51.9178705
         ]
       },
       "properties": {
         "name": "Mechtshausen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/mechtshausen"
       }
@@ -1671,12 +3126,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.109037,
-          51.91787
+          10.1090374,
+          51.9178705
         ]
       },
       "properties": {
         "name": "Mechtshausen mit Bilderlahe",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/mechtshausen-mit-bilderlahe"
       }
@@ -1692,6 +3148,7 @@
       },
       "properties": {
         "name": "Neuenkirchen mit L\u00fcderode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/neuenkirchen-mit-luederode"
       }
@@ -1701,12 +3158,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.443875,
-          52.061569
+          10.4438753,
+          52.0615694
         ]
       },
       "properties": {
         "name": "Ohlendorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ohlendorf"
       }
@@ -1716,12 +3174,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.563624,
-          52.118045
+          10.5636241,
+          52.1180449
         ]
       },
       "properties": {
         "name": "Ohrum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ohrum"
       }
@@ -1731,12 +3190,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.390798,
-          52.008105
+          10.3908941,
+          52.0081354
         ]
       },
       "properties": {
         "name": "Othfresen mit Hei\u00dfum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/othfresen-mit-heissum"
       }
@@ -1746,12 +3206,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.309146,
-          52.036276
+          10.3091461,
+          52.0362758
         ]
       },
       "properties": {
         "name": "Ringelheim",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/ringelheim"
       }
@@ -1761,14 +3222,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.741818,
-          52.066981
+          10.7418179,
+          52.0669814
         ]
       },
       "properties": {
         "name": "Roklum",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/roklum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3506012,
+          52.0367068
+        ]
+      },
+      "properties": {
+        "name": "Salzgitter-Gitter mit Hohenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/salzgitter-gitter-mit-hohenrode"
       }
     },
     {
@@ -1782,6 +3260,7 @@
       },
       "properties": {
         "name": "Salzgitter St. Mariae Jakobi",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/salzgitter-st-mariae-jakobi"
       }
@@ -1797,6 +3276,7 @@
       },
       "properties": {
         "name": "Salzgitter St. Mariae Jakobi mit Gitter, Kniestedt, Hohenrode, Vorsalz, Salzgitter, Salzliebenhall",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/salzgitter-st-mariae-jakobi-mit-gitter-kniestedt-hohenrode-vorsalz-salzgitter-salzliebenhall"
       }
@@ -1812,6 +3292,7 @@
       },
       "properties": {
         "name": "Salzgitter St. Nikolai mit Gitter, Kniestedt, Hohenrode, Vorsalz, Salzgitter, Vo\u00dfpa\u00df",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/salzgitter-st-nikolai-mit-gitter-kniestedt-hohenrode-vorsalz-salzgitter-vosspass"
       }
@@ -1821,27 +3302,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.350991,
-          52.036428
-        ]
-      },
-      "properties": {
-        "name": "Salzgitter-Gitter mit Hohenrode",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/salzgitter-gitter-mit-hohenrode"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.541283,
-          52.021137
+          10.5412828,
+          52.0211368
         ]
       },
       "properties": {
         "name": "Schladen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schladen"
       }
@@ -1851,29 +3318,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.969085,
-          52.139108
+          10.5412828,
+          52.0211368
         ]
       },
       "properties": {
-        "name": "Sch\u00f6ningen St. Vincenz",
+        "name": "Schladen mit Beuchte, Gielde, Immenrode, Lengde, Vienenburg, Werlaburgdorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-st-vincenz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.969085,
-          52.139108
-        ]
-      },
-      "properties": {
-        "name": "Sch\u00f6ningen St. Vincenz mit Ostendorf",
-        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
-        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-st-vincenz-mit-ostendorf"
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schladen-mit-beuchte-gielde-immenrode-lengde-vienenburg-werlaburgdorf"
       }
     },
     {
@@ -1886,7 +3339,8 @@
         ]
       },
       "properties": {
-        "name": "Sch\u00f6ningen, Clus",
+        "name": "Schöningen, Clus",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-clus"
       }
@@ -1901,7 +3355,8 @@
         ]
       },
       "properties": {
-        "name": "Sch\u00f6ningen, St. Lorenz (Klosterkirche) mit Westendorf St. Stephani",
+        "name": "Schöningen, St. Lorenz (Klosterkirche) mit Westendorf St. Stephani",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-st-lorenz-klosterkirche-mit-westendorf-st-stephani"
       }
@@ -1916,7 +3371,8 @@
         ]
       },
       "properties": {
-        "name": "Sch\u00f6ningen, St. Lorenz und Westendorf",
+        "name": "Schöningen, St. Lorenz und Westendorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-st-lorenz-und-westendorf"
       }
@@ -1926,12 +3382,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.263882,
+          10.969085,
+          52.139108
+        ]
+      },
+      "properties": {
+        "name": "Schöningen St. Vincenz",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-st-vincenz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.969085,
+          52.139108
+        ]
+      },
+      "properties": {
+        "name": "Schöningen St. Vincenz mit Ostendorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/schoeningen-st-vincenz-mit-ostendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2638817,
           52.039418
         ]
       },
       "properties": {
         "name": "Sehlde",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/sehlde"
       }
@@ -1941,12 +3430,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.326784,
-          52.075981
+          10.3267838,
+          52.0759809
         ]
       },
       "properties": {
         "name": "Steinlah",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/steinlah"
       }
@@ -1957,11 +3447,12 @@
         "type": "Point",
         "coordinates": [
           10.551681,
-          51.563415
+          51.5634146
         ]
       },
       "properties": {
         "name": "Tettenborn",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/tettenborn"
       }
@@ -1971,12 +3462,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.561534,
+          10.5615342,
           51.95455
         ]
       },
       "properties": {
         "name": "Vienenburg mit Wiedelah, W\u00f6ltingerode, Lochtum, Wennerode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/vienenburg-mit-wiedelah-woeltingerode-lochtum-wennerode"
       }
@@ -1986,12 +3478,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.192167,
-          52.10547
+          10.1921672,
+          52.1054704
         ]
       },
       "properties": {
         "name": "Wartjenstedt mit Rhene",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/wartjenstedt-mit-rhene"
       }
@@ -2001,12 +3494,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.489439,
+          10.4894385,
           51.972536
         ]
       },
       "properties": {
         "name": "Weddingen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/weddingen"
       }
@@ -2022,6 +3516,7 @@
       },
       "properties": {
         "name": "Wehre",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/wehre"
       }
@@ -2031,12 +3526,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.534821,
-          52.162528
+          10.5082461,
+          52.048076
         ]
       },
       "properties": {
-        "name": "Wolfenb\u00fcttel Garnison",
+        "name": "(Werla-) Burgdorf",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/werla-burgdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533953,
+          52.051905
+        ]
+      },
+      "properties": {
+        "name": "(Werla-) Burgdorf mit Heiningen",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/werla-burgdorf-mit-heiningen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533953,
+          52.051905
+        ]
+      },
+      "properties": {
+        "name": "(Werla-) Burgdorf mit Heiningen und Altenrode",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
+        "archive": "Ev.-Luth. Landeskirche in Braunschweig",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/werla-burgdorf-mit-heiningen-und-altenrode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5348215,
+          52.1625283
+        ]
+      },
+      "properties": {
+        "name": "Wolfenbüttel Garnison",
+        "district": "Ev.-Luth. Landeskirche in Braunschweig",
         "archive": "Ev.-Luth. Landeskirche in Braunschweig",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-in-braunschweig/wolfenbuettel-garnison"
       }
