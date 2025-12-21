@@ -14,7 +14,7 @@ All notable changes to this project will be documented in this file.
 * *hannover_sorted.json* was extended by *Kirchenkreis Bockenem-Hoheneggelsen*
   
 ### Changed
-* Processing via Excel was removed in *archion_scraping.py*
+* Processing via Excel was removed
 * Logging was introduced
 
 ## [2.0.0] - 2025-12-13  
@@ -22,7 +22,7 @@ All notable changes to this project will be documented in this file.
 * *magdeburg_sorted.json* was extended by *Kirchenkreis Erfurt*
 
 ### Changed
-* GeoJSON update process was fully automated in *archion_scraping.py*
+* GeoJSON update process was fully automated
 
 ## [1.10.0] - 2025-12-12  
 ### Added
@@ -30,12 +30,12 @@ All notable changes to this project will be documented in this file.
 
 ## [1.9.0] - 2025-12-07  
 ### Added
-* *archion_scraping.py* was extended by df_to_geojson function to automate the GeoJSON update process
+* *output.py* was extended by write_df_to_geojson function
 * *magdeburg_sorted.json* was extended by *Kirchenkreis Mühlhausen*
 
 ## [1.8.0] - 2025-12-06  
 ### Added
-* *archion_scraping.py* was added as a first step to automate the GeoJSON update process
+* *main.py*, *input.py* and *output.py* were added
 
 ## [1.7.0] - 2025-11-27  
 ### Added
