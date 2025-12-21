@@ -17,7 +17,7 @@ Ongoing projects are posted on [Archionkarte 2.0](https://www.wikitree.com/wiki/
 
 ### GeoData
 Please follow these steps to update geodata:
-* Create GeoJSON (district) via *archion_scraping.py*.
+* Run *main.py* to create GeoJSON (district).
 * If applicable, copy GeoJSON (district) into GeoJSON (archive) manually.
 
 There are no requirements set for pushes to *main* at the moment for project collaborators.
