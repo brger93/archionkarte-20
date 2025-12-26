@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [3.2.1] - 2025-12-26  
+### Added
+* bug in *magdeburg_sorted.json* was fixed (Großlehna)
+
 ## [3.2.0] - 2025-12-20  
 ### Added
 * *braunschweig_sorted.json* was extended by missing parishes
