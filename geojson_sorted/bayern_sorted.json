@@ -8774,6 +8774,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.25205,
+          50.14093
+        ]
+      },
+      "properties": {
+        "name": "Burgkunstadt",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/burgkunstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.80595,
           50.22533
         ]
@@ -8783,6 +8799,22 @@
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/gemuenda-iofr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.89836,
+          50.13493
+        ]
+      },
+      "properties": {
+        "name": "Gleußen",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/gleussen"
       }
     },
     {
@@ -8838,6 +8870,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.86775,
+          50.10123
+        ]
+      },
+      "properties": {
+        "name": "Lahm",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/lahm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.112434,
           50.16484
         ]
@@ -8847,6 +8895,22 @@
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/michelau-iofr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.20818,
+          50.25111
+        ]
+      },
+      "properties": {
+        "name": "Mitwitz",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/mitwitz"
       }
     },
     {
@@ -8870,6 +8934,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.89587,
+          50.15381
+        ]
+      },
+      "properties": {
+        "name": "Schottenstein",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/schottenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.221732,
           50.139432
         ]
@@ -8879,6 +8959,22 @@
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/stroessendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93243,
+          50.01783
+        ]
+      },
+      "properties": {
+        "name": "Zapfendorf",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/zapfendorf"
       }
     },
     {
@@ -12246,6 +12342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.794,
+          50.0948
+        ]
+      },
+      "properties": {
+        "name": "Ebern",
+        "district": "Dekanat Rügheim",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/ebern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.530498,
           50.16068
         ]
@@ -12815,6 +12927,22 @@
         "district": "Dekanat Rügheim",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/westheim-dek-ruegheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41116,
+          50.19445
+        ]
+      },
+      "properties": {
+        "name": "Wetzhausen",
+        "district": "Dekanat Rügheim",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/wetzhausen"
       }
     },
     {
