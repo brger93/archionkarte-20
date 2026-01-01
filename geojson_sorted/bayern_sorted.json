@@ -8758,6 +8758,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.00128,
+          50.10199
+        ]
+      },
+      "properties": {
+        "name": "Bad Staffelstein",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/bad-staffelstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.013445,
           50.185398
         ]
@@ -8859,7 +8875,7 @@
         ]
       },
       "properties": {
-        "name": "Kutzenberg-Kreisirrenanstalt",
+        "name": "Kutzenberg (Kreisirrenanstalt)",
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/kutzenberg-kreisirrenanstalt"
@@ -12331,7 +12347,7 @@
         ]
       },
       "properties": {
-        "name": "Ebelsbach-Schlosspfarrei",
+        "name": "Ebelsbach (Schlosspfarrei)",
         "district": "Dekanat Rügheim",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/ebelsbach-schlosspfarrei"
