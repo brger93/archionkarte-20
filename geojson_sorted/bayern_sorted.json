@@ -6550,6 +6550,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.91261,
+          50.31297
+        ]
+      },
+      "properties": {
+        "name": "Hof (Gesamtkirchengemeinde)",
+        "district": "Dekanat Hof",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-hof/hof-gesamtkirchengemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.978478,
           50.278783
         ]
@@ -8939,7 +8955,7 @@
         ]
       },
       "properties": {
-        "name": "Redwitz a.d.Rodach",
+        "name": "Redwitz a.d. Rodach",
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/redwitz-adrodach"
@@ -12214,6 +12230,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.43333,
+          50.15
+        ]
+      },
+      "properties": {
+        "name": "Aidhausen",
+        "district": "Dekanat Rügheim",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/aidhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.59065,
           48.46495
         ]
@@ -12267,10 +12299,10 @@
         ]
       },
       "properties": {
-        "name": "Birkenfeld",
+        "name": "Birkenfeld (Dek. Rügheim)",
         "district": "Dekanat Rügheim",
         "archive": "Ev.-Luth. Kirche in Bayern",
-        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/birkenfeld"
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/birkenfeld-dek-ruegheim"
       }
     },
     {
@@ -12543,6 +12575,22 @@
         "district": "Dekanat Rügheim",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/humprechtshausen-kleinsteinach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68875,
+          50.08871
+        ]
+      },
+      "properties": {
+        "name": "Jesserndorf",
+        "district": "Dekanat Rügheim",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-ruegheim/jesserndorf"
       }
     },
     {
