@@ -8918,6 +8918,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.05928,
+          50.14567
+        ]
+      },
+      "properties": {
+        "name": "Lichtenfels",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/lichtenfels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.112434,
           50.16484
         ]
@@ -8950,6 +8966,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.22004,
+          50.15885
+        ]
+      },
+      "properties": {
+        "name": "Obristfeld",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/obristfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.20783,
           50.173549
         ]
@@ -8959,6 +8991,22 @@
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/redwitz-adrodach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07439,
+          50.1617
+        ]
+      },
+      "properties": {
+        "name": "Schney",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/schney"
       }
     },
     {
@@ -8982,6 +9030,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.15069,
+          50.16871
+        ]
+      },
+      "properties": {
+        "name": "Schwürbitz",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/schwuerbitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.221732,
           50.139432
         ]
@@ -8991,6 +9055,22 @@
         "district": "Dekanat Michelau i.OFr.",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/stroessendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.86697,
+          50.23383
+        ]
+      },
+      "properties": {
+        "name": "Tambach",
+        "district": "Dekanat Michelau i.OFr.",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-michelau-iofr/tambach"
       }
     },
     {
