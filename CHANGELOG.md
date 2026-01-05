@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [3.4.1] - 2026-01-05  
+### Added
+* bug in *magdeburg_sorted.json* was fixed (Döbrichau)
+
+## [3.4.0] - 2026-01-03  
+### Added
+* *bayern_sorted.json* was extended by missing parishes
+
 ## [3.3.0] - 2026-01-01  
 ### Added
 * *bayern_sorted.json* was extended by missing parishes
