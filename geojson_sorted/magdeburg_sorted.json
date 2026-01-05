@@ -283,23 +283,7 @@
         ]
       },
       "properties": {
-        "name": "D\u00f6brichau",
-        "district": "Kirchenkreis Bad Liebenwerda",
-        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
-        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-bad-liebenwerda/doebrichau"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.127964,
-          51.59635
-        ]
-      },
-      "properties": {
-        "name": "D\u00f6brichau und L\u00f6hsten",
+        "name": "Döbrichau und Löhsten",
         "district": "Kirchenkreis Bad Liebenwerda",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-bad-liebenwerda/doebrichau-und-loehsten"
