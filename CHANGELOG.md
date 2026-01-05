@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 ### Added
 * bug in *magdeburg_sorted.json* was fixed (Döbrichau)
 
-## [3.4.0] - 2026-01-03  
+## [3.4.0] - 2026-01-04  
 ### Added
-* *bayern_sorted.json* was extended by missing parishes
+* *bayern_sorted.json* was extended by missing parishes (Dekanat Michelau i.OFr)
 
 ## [3.3.0] - 2026-01-01  
 ### Added
