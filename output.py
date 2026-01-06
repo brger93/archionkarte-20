@@ -32,4 +32,3 @@ def save_geojson(output_json_path: str, geojson_archion: dict):
     with open(output_json_path, 'wb') as file:
         file.write(json.dumps(geojson_archion, indent=2).encode('utf-8'))
     logger.info('GeoJSON was saved.')
-    return file
