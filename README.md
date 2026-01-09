@@ -41,7 +41,7 @@ There are no requirements set for pushes to *main* at the moment for project col
 <!-- RELEASE PROCESS -->
 ## Release Process
 Please follow these steps to update the uMap:
-* Copy GitHub's raw content URL of updated GeoJSON (sorted).
+* Copy GitHub's raw content URL of updated GeoJSONs in folder *data/geojson_sorted*.
 * Open [Archionkarte 2.0](https://umap.openstreetmap.de/de/map/anonymous-edit/113993:ienKfbLQGKj4f7-ECaz57MoGGDLw_VjWkT2Q0LFKPME).
 * Select on the right side **Import data**.
 * Paste GitHub's raw content URL.
@@ -56,4 +56,4 @@ Changes shall be documented in CHANGELOG.
 
 <!-- Archive -->
 ## Archive
-GeoJSONs under folder *data/geojson* should not be uploaded to uMap. Those are archived versions which were published by user **Basil** in January 2025 on legacy uMap [Archionkarte](https://umap.openstreetmap.de/de/map/archionkarte_46875).
+GeoJSONs in folder *data/geojson* should not be uploaded to uMap. Those are archived versions which were published by user **Basil** in January 2025 on legacy uMap [Archionkarte](https://umap.openstreetmap.de/de/map/archionkarte_46875).
