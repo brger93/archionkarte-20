@@ -7,17 +7,33 @@ The genealogy platform [ARCHION](https://www.archion.de) provides access to digi
 
 The uMap [Archionkarte 2.0](https://umap.openstreetmap.de/de/map/archionkarte-20_113993) was created to provide a graphical overview of the digitisation status. The underlying GeoJSONs are maintened in this GitHub repository.
 
-<!-- CONTRIBUTION -->
-## Contribution
+<!-- Getting Started -->
+## Getting Started
 ### First Contact
 Dial into public Zoom meeting of [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch) and you will be made a GitHub collaborator.
 
 ### Alignment
 Ongoing projects are posted on [Archionkarte 2.0](https://www.wikitree.com/wiki/Space:Archionkarte_2.0) under the chapter *Work in Progress*. A WikiTree account is required to modify the free space page.
 
+### Setup
+Before starting on this project, you need to get [uv](https://docs.astral.sh/uv/). We recommend to install it as standalone via *pipx*.
+
+Once *uv* is installed, run the following command to set up your development environment. This will install all dependencies and the correct Python version required. Package versions are locked in *uv.lock* file.
+```bash
+uv sync --upgrade --all-groups
+```
+Activate your environment via:
+```bash
+.venv/Scripts/activate
+```
+<!-- CONTRIBUTION -->
+## Contribution
 ### GeoData
 Please follow these steps to update geodata:
 * Run *main.py* to create GeoJSON (district).
+```bash
+python -m archionkarte.main
+```
 * If applicable, copy GeoJSON (district) into GeoJSON (archive) manually.
 
 There are no requirements set for pushes to *main* at the moment for project collaborators.
