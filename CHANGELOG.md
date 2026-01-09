@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [4.0.0] - 2026-01-09  
+### Changed
+* uv was introduced as project and package manager
+
 ## [3.4.1] - 2026-01-05  
 ### Added
 * bug in *magdeburg_sorted.json* was fixed (Döbrichau)
