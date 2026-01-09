@@ -1,0 +1,2633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.752323,
+          50.766598
+        ]
+      },
+      "properties": {
+        "name": "Altenberg",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/altenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.798973,
+          50.801056
+        ]
+      },
+      "properties": {
+        "name": "B\u00e4renstein",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/baerenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.489209,
+          50.817137
+        ]
+      },
+      "properties": {
+        "name": "Burkersdorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/burkersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.491439,
+          50.90994
+        ]
+      },
+      "properties": {
+        "name": "Colmnitz",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/colmnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.645654,
+          50.996102
+        ]
+      },
+      "properties": {
+        "name": "Deuben (Freital)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/deuben-freital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.663334,
+          50.895048
+        ]
+      },
+      "properties": {
+        "name": "Dippoldiswalde",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/dippoldiswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.487216,
+          50.791339
+        ]
+      },
+      "properties": {
+        "name": "Dittersbach (b. Frauenstein)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/dittersbach-b-frauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.806112,
+          50.828353
+        ]
+      },
+      "properties": {
+        "name": "Dittersdorf (b. Glash\u00fctte)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/dittersdorf-b-glashuette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.647535,
+          51.007035
+        ]
+      },
+      "properties": {
+        "name": "D\u00f6hlen (b. Dresden)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/doehlen-b-dresden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5628,
+          50.934922
+        ]
+      },
+      "properties": {
+        "name": "Dorfhain",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/dorfhain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.542377,
+          50.995885
+        ]
+      },
+      "properties": {
+        "name": "F\u00f6rdergersdorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/foerdergersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538225,
+          50.802413
+        ]
+      },
+      "properties": {
+        "name": "Frauenstein",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/frauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.83116,
+          50.737526
+        ]
+      },
+      "properties": {
+        "name": "F\u00fcrstenau",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/fuerstenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.868154,
+          50.76058
+        ]
+      },
+      "properties": {
+        "name": "F\u00fcrstenwalde",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/fuerstenwalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793828,
+          50.756488
+        ]
+      },
+      "properties": {
+        "name": "Geising",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/geising"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776677,
+          50.850209
+        ]
+      },
+      "properties": {
+        "name": "Glash\u00fctte",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/glashuette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.556672,
+          50.830838
+        ]
+      },
+      "properties": {
+        "name": "Hartmannsdorf (b. Frauenstein)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/hartmannsdorf-b-frauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617234,
+          50.828671
+        ]
+      },
+      "properties": {
+        "name": "Hennersdorf (b. Frauenstein)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/hennersdorf-b-frauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.631197,
+          50.761263
+        ]
+      },
+      "properties": {
+        "name": "Hermsdorf (Erzgeb.)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/hermsdorf-erzgeb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.590153,
+          50.925178
+        ]
+      },
+      "properties": {
+        "name": "H\u00f6ckendorf (b. Dippoldiswalde)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/hoeckendorf-b-dippoldiswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.747358,
+          50.829049
+        ]
+      },
+      "properties": {
+        "name": "Johnsbach",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/johnsbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.533947,
+          50.918946
+        ]
+      },
+      "properties": {
+        "name": "Klingenberg",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/klingenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.760102,
+          50.945373
+        ]
+      },
+      "properties": {
+        "name": "Kreischa (b. Dippoldiswalde)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/kreischa-b-dippoldiswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.822992,
+          50.783665
+        ]
+      },
+      "properties": {
+        "name": "Lauenstein",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/lauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.853965,
+          50.787604
+        ]
+      },
+      "properties": {
+        "name": "Liebenau (b. Lauenstein)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/liebenau-b-lauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.541092,
+          50.765256
+        ]
+      },
+      "properties": {
+        "name": "Nassau",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/nassau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.653967,
+          51.02811
+        ]
+      },
+      "properties": {
+        "name": "Pesterwitz",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/pesterwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.711518,
+          50.967166
+        ]
+      },
+      "properties": {
+        "name": "Possendorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/possendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.525363,
+          50.872826
+        ]
+      },
+      "properties": {
+        "name": "Pretzschendorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/pretzschendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.641824,
+          50.963128
+        ]
+      },
+      "properties": {
+        "name": "Rabenau",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/rabenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.635554,
+          50.881442
+        ]
+      },
+      "properties": {
+        "name": "Reichst\u00e4dt",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/reichstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756025,
+          50.892855
+        ]
+      },
+      "properties": {
+        "name": "Reinhardtsgrimma",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/reinhardtsgrimma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.599778,
+          50.908839
+        ]
+      },
+      "properties": {
+        "name": "Ruppendorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/ruppendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.634547,
+          50.840884
+        ]
+      },
+      "properties": {
+        "name": "Sadisdorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/sadisdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.694192,
+          50.770953
+        ]
+      },
+      "properties": {
+        "name": "Schellerhau",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/schellerhau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.679426,
+          50.834938
+        ]
+      },
+      "properties": {
+        "name": "Schmiedeberg",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/schmiedeberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.644762,
+          50.783181
+        ]
+      },
+      "properties": {
+        "name": "Sch\u00f6nfeld (b. Frauenstein)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/schoenfeld-b-frauenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.63924,
+          50.933713
+        ]
+      },
+      "properties": {
+        "name": "Seifersdorf (b. Dippoldiswalde)",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/seifersdorf-b-dippoldiswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.604124,
+          50.976379
+        ]
+      },
+      "properties": {
+        "name": "Somsdorf",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/somsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.579491,
+          50.985339
+        ]
+      },
+      "properties": {
+        "name": "Tharandt",
+        "district": "Kirchenbezirk Dippoldiswalde",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dippoldiswalde/tharandt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.667967,
+          51.06391
+        ]
+      },
+      "properties": {
+        "name": "Briesnitz",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/briesnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.734866,
+          51.051375
+        ]
+      },
+      "properties": {
+        "name": "Dresden, Ev. Hofkirche (Sophienkirche)",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-ev-hofkirche-sophienkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727451,
+          51.048747
+        ]
+      },
+      "properties": {
+        "name": "Dresden-Annenkirche",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-annenkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.738144,
+          51.049329
+        ]
+      },
+      "properties": {
+        "name": "Dresden-B\u00f6hmische Exulantengemeinde",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-boehmische-exulantengemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74162,
+          51.051957
+        ]
+      },
+      "properties": {
+        "name": "Dresden-Frauenkirche",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-frauenkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.71602,
+          51.060369
+        ]
+      },
+      "properties": {
+        "name": "Dresden-Friedrichstadt",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-friedrichstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.717619,
+          51.05818
+        ]
+      },
+      "properties": {
+        "name": "Dresden-Friedrichstadt-Stadtkrankenhaus",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-friedrichstadt-stadtkrankenhaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73922,
+          51.048725
+        ]
+      },
+      "properties": {
+        "name": "Dresden-Kreuzkirche",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-kreuzkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74336,
+          51.060883
+        ]
+      },
+      "properties": {
+        "name": "Dresden-Neustadt-Dreik\u00f6nigskirche",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/dresden-neustadt-dreikoenigskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.772107,
+          51.197732
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfdittmannsdorf",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/grossdittmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.92885,
+          51.084697
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dferkmannsdorf",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/grosserkmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.84008,
+          51.162761
+        ]
+      },
+      "properties": {
+        "name": "Gr\u00fcnberg",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/gruenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.86308,
+          51.014585
+        ]
+      },
+      "properties": {
+        "name": "Hosterwitz",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/hosterwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.677691,
+          51.084355
+        ]
+      },
+      "properties": {
+        "name": "Kaditz",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/kaditz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.947753,
+          51.096727
+        ]
+      },
+      "properties": {
+        "name": "Kleinwolmsdorf",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/kleinwolmsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.778154,
+          51.118628
+        ]
+      },
+      "properties": {
+        "name": "Klotzsche",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/klotzsche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.630911,
+          51.10526
+        ]
+      },
+      "properties": {
+        "name": "K\u00f6tzschenbroda",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/koetzschenbroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.840919,
+          51.131394
+        ]
+      },
+      "properties": {
+        "name": "Langebr\u00fcck",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/langebrueck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.806911,
+          51.15183
+        ]
+      },
+      "properties": {
+        "name": "Lausa",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/lausa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.827079,
+          51.010633
+        ]
+      },
+      "properties": {
+        "name": "Leuben",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/leuben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766237,
+          51.014023
+        ]
+      },
+      "properties": {
+        "name": "Leubnitz",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/leubnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.806243,
+          50.987281
+        ]
+      },
+      "properties": {
+        "name": "Lockwitz",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/lockwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.815455,
+          51.055523
+        ]
+      },
+      "properties": {
+        "name": "Loschwitz",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/loschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.790841,
+          51.18312
+        ]
+      },
+      "properties": {
+        "name": "Medingen",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/medingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.836124,
+          51.182698
+        ]
+      },
+      "properties": {
+        "name": "Ottendorf",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/ottendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.709836,
+          51.02777
+        ]
+      },
+      "properties": {
+        "name": "Plauen (b. Dresden)",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/plauen-b-dresden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.917526,
+          51.115141
+        ]
+      },
+      "properties": {
+        "name": "Radeberg",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/radeberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.680808,
+          51.126849
+        ]
+      },
+      "properties": {
+        "name": "Reichenberg",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/reichenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.807585,
+          50.96482
+        ]
+      },
+      "properties": {
+        "name": "R\u00f6hrsdorf (b. Lockwitz)",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/roehrsdorf-b-lockwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.865466,
+          51.145497
+        ]
+      },
+      "properties": {
+        "name": "Sch\u00f6nborn",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/schoenborn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.894885,
+          51.033704
+        ]
+      },
+      "properties": {
+        "name": "Sch\u00f6nfeld (b. Dresden)",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/schoenfeld-b-dresden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.882655,
+          51.158783
+        ]
+      },
+      "properties": {
+        "name": "Seifersdorf",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/seifersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9063,
+          51.162437
+        ]
+      },
+      "properties": {
+        "name": "Wachau (b. Radeberg)",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/wachau-b-radeberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.884623,
+          51.061124
+        ]
+      },
+      "properties": {
+        "name": "Wei\u00dfig",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/weissig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72017,
+          51.120202
+        ]
+      },
+      "properties": {
+        "name": "Wilschdorf",
+        "district": "Kirchenbezirk Dresden",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-dresden/wilschdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362013,
+          50.866238
+        ]
+      },
+      "properties": {
+        "name": "Berthelsdorf (b. Freiberg)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/berthelsdorf-b-freiberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.218822,
+          50.938381
+        ]
+      },
+      "properties": {
+        "name": "Br\u00e4unsdorf (b. Freiberg)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/braeunsdorf-b-freiberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.502862,
+          50.710037
+        ]
+      },
+      "properties": {
+        "name": "C\u00e4mmerswalde",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/caemmerswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.489658,
+          50.743663
+        ]
+      },
+      "properties": {
+        "name": "Clausnitz",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/clausnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372888,
+          50.946778
+        ]
+      },
+      "properties": {
+        "name": "Conradsdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/conradsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444161,
+          50.76267
+        ]
+      },
+      "properties": {
+        "name": "Dorfchemnitz (b. Sayda)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/dorfchemnitz-b-sayda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.324793,
+          50.870551
+        ]
+      },
+      "properties": {
+        "name": "Erbisdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/erbisdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343732,
+          50.920105
+        ]
+      },
+      "properties": {
+        "name": "Freiberg, Dom St. Marien",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/freiberg-dom-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350468,
+          50.917381
+        ]
+      },
+      "properties": {
+        "name": "Freiberg, St. Jacobi",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/freiberg-st-jacobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.335803,
+          50.913674
+        ]
+      },
+      "properties": {
+        "name": "Freiberg, St. Johannis",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/freiberg-st-johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345937,
+          50.918373
+        ]
+      },
+      "properties": {
+        "name": "Freiberg, St. Nikolai",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/freiberg-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341283,
+          50.916583
+        ]
+      },
+      "properties": {
+        "name": "Freiberg, St. Petri",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/freiberg-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383775,
+          50.777352
+        ]
+      },
+      "properties": {
+        "name": "Zethau",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/zethau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.419369,
+          50.712424
+        ]
+      },
+      "properties": {
+        "name": "Sayda",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/sayda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361172,
+          50.938503
+        ]
+      },
+      "properties": {
+        "name": "Tuttendorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/tuttendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398593,
+          50.75167
+        ]
+      },
+      "properties": {
+        "name": "Voigtsdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/voigtsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38266,
+          50.839465
+        ]
+      },
+      "properties": {
+        "name": "Weigmannsdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/weigmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398085,
+          50.871493
+        ]
+      },
+      "properties": {
+        "name": "Wei\u00dfenborn (Erzgeb.)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/weissenborn-erzgeb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.464068,
+          50.861906
+        ]
+      },
+      "properties": {
+        "name": "Oberbobritzsch",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/oberbobritzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.253963,
+          50.897497
+        ]
+      },
+      "properties": {
+        "name": "Obersch\u00f6na",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/oberschoena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409035,
+          50.807563
+        ]
+      },
+      "properties": {
+        "name": "Mulda",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/mulda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417829,
+          50.93724
+        ]
+      },
+      "properties": {
+        "name": "Naundorf (b. Freiberg)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/naundorf-b-freiberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434003,
+          50.898477
+        ]
+      },
+      "properties": {
+        "name": "Niederbobritzsch",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/niederbobritzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422587,
+          50.962752
+        ]
+      },
+      "properties": {
+        "name": "Niedersch\u00f6na",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/niederschoena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.247362,
+          50.950008
+        ]
+      },
+      "properties": {
+        "name": "Langhennersdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/langhennersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406284,
+          50.843239
+        ]
+      },
+      "properties": {
+        "name": "Lichtenberg (Erzgeb.)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/lichtenberg-erzgeb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.295883,
+          50.835786
+        ]
+      },
+      "properties": {
+        "name": "Langenau (b. Freiberg)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/langenau-b-freiberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.370297,
+          50.811121
+        ]
+      },
+      "properties": {
+        "name": "Helbigsdorf (b. Gro\u00dfhartmannsdorf)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/helbigsdorf-b-grosshartmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395034,
+          50.910541
+        ]
+      },
+      "properties": {
+        "name": "Hilbersdorf (b. Freiberg)",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/hilbersdorf-b-freiberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.286941,
+          50.907083
+        ]
+      },
+      "properties": {
+        "name": "Kleinschirma",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/kleinschirma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.299831,
+          50.92723
+        ]
+      },
+      "properties": {
+        "name": "Kleinwaltersdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/kleinwaltersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36715,
+          50.980586
+        ]
+      },
+      "properties": {
+        "name": "Krummenhennersdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/krummenhennersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.320721,
+          50.798725
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfhartmannsdorf",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/grosshartmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.278438,
+          50.966476
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfschirma",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/grossschirma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.287759,
+          50.807573
+        ]
+      },
+      "properties": {
+        "name": "Gr\u00e4nitz",
+        "district": "Kirchenbezirk Freiberg",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-freiberg/graenitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3393,
+          51.007133
+        ]
+      },
+      "properties": {
+        "name": "Bieberstein",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/bieberstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441499,
+          51.040058
+        ]
+      },
+      "properties": {
+        "name": "Blankenstein",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/blankenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.221099,
+          51.259425
+        ]
+      },
+      "properties": {
+        "name": "Blo\u00dfwitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/blosswitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544401,
+          51.130183
+        ]
+      },
+      "properties": {
+        "name": "Brockwitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/brockwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432528,
+          51.073127
+        ]
+      },
+      "properties": {
+        "name": "Burkhardswalde",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/burkhardswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.564806,
+          51.105578
+        ]
+      },
+      "properties": {
+        "name": "Constappel",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/constappel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.578398,
+          51.126731
+        ]
+      },
+      "properties": {
+        "name": "Coswig",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/coswig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36041,
+          51.0607
+        ]
+      },
+      "properties": {
+        "name": "Deutschenbora",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/deutschenbora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405929,
+          50.999251
+        ]
+      },
+      "properties": {
+        "name": "Dittmannsdorf",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/dittmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313923,
+          51.225728
+        ]
+      },
+      "properties": {
+        "name": "D\u00f6rschnitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/doerschnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.522147,
+          51.186785
+        ]
+      },
+      "properties": {
+        "name": "Gr\u00f6bern",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/groebern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56836,
+          51.21634
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfdobritz (b. Mei\u00dfen)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/grossdobritz-b-meissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544504,
+          51.031479
+        ]
+      },
+      "properties": {
+        "name": "Grumbach (b. Wilsdruff)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/grumbach-b-wilsdruff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.498869,
+          51.011131
+        ]
+      },
+      "properties": {
+        "name": "Herzogswalde",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/herzogswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384519,
+          51.093524
+        ]
+      },
+      "properties": {
+        "name": "Heynitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/heynitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349967,
+          51.037875
+        ]
+      },
+      "properties": {
+        "name": "Hirschfeld (b. Siebenlehn)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/hirschfeld-b-siebenlehn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.594285,
+          51.032224
+        ]
+      },
+      "properties": {
+        "name": "Kesselsdorf",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/kesselsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379795,
+          51.120474
+        ]
+      },
+      "properties": {
+        "name": "Kr\u00f6gis",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/kroegis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.295256,
+          51.162196
+        ]
+      },
+      "properties": {
+        "name": "Leuben (b. Lommatzsch)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/leuben-b-lommatzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.475568,
+          51.051025
+        ]
+      },
+      "properties": {
+        "name": "Limbach",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/limbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.311156,
+          51.195259
+        ]
+      },
+      "properties": {
+        "name": "Lommatzsch",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/lommatzsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.469986,
+          51.162684
+        ]
+      },
+      "properties": {
+        "name": "Mei\u00dfen-Frauenkirche (Stadtgemeinde)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/meissen-frauenkirche-stadtgemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.486448,
+          51.159357
+        ]
+      },
+      "properties": {
+        "name": "Mei\u00dfen-Johanneskirche",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/meissen-johanneskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.467992,
+          51.164358
+        ]
+      },
+      "properties": {
+        "name": "Mei\u00dfen-St. Afra Kirchgemeinde",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/meissen-st-afra-kirchgemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.491273,
+          51.171412
+        ]
+      },
+      "properties": {
+        "name": "Mei\u00dfen-Trinitatiskirche",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/meissen-trinitatiskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401453,
+          51.104229
+        ]
+      },
+      "properties": {
+        "name": "Miltitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/miltitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46,
+          51.001652
+        ]
+      },
+      "properties": {
+        "name": "Mohorn",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/mohorn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.510068,
+          51.11308
+        ]
+      },
+      "properties": {
+        "name": "Naustadt",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/naustadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.247472,
+          51.183005
+        ]
+      },
+      "properties": {
+        "name": "Neckanitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/neckanitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397737,
+          51.02795
+        ]
+      },
+      "properties": {
+        "name": "Neukirchen",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/neukirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.543883,
+          51.176932
+        ]
+      },
+      "properties": {
+        "name": "Niederau",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/niederau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.298073,
+          51.056593
+        ]
+      },
+      "properties": {
+        "name": "Nossen",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/nossen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.556029,
+          51.18519
+        ]
+      },
+      "properties": {
+        "name": "Oberau",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/oberau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.315624,
+          51.015041
+        ]
+      },
+      "properties": {
+        "name": "Obergruna",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/obergruna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34423,
+          51.15049
+        ]
+      },
+      "properties": {
+        "name": "Planitz (b. Kr\u00f6gis)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/planitz-b-kroegis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3143,
+          51.109551
+        ]
+      },
+      "properties": {
+        "name": "Rau\u00dflitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/rausslitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35818,
+          51.010131
+        ]
+      },
+      "properties": {
+        "name": "Reinsberg",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/reinsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.519211,
+          51.094698
+        ]
+      },
+      "properties": {
+        "name": "R\u00f6hrsdorf (b. Wilsdruff)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/roehrsdorf-b-wilsdruff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393501,
+          51.064605
+        ]
+      },
+      "properties": {
+        "name": "Rothsch\u00f6nberg",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/rothschoenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.261547,
+          51.10981
+        ]
+      },
+      "properties": {
+        "name": "R\u00fcsseina",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/ruesseina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.307129,
+          51.030708
+        ]
+      },
+      "properties": {
+        "name": "Siebenlehn",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/siebenlehn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50316,
+          51.078585
+        ]
+      },
+      "properties": {
+        "name": "Sora (b. Wilsdruff)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/sora-b-wilsdruff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.221289,
+          51.222579
+        ]
+      },
+      "properties": {
+        "name": "Staucha",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/staucha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2854,
+          51.224666
+        ]
+      },
+      "properties": {
+        "name": "Striegnitz",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/striegnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411926,
+          51.05099
+        ]
+      },
+      "properties": {
+        "name": "Tanneberg",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/tanneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.461932,
+          51.094853
+        ]
+      },
+      "properties": {
+        "name": "Taubenheim (b. Mei\u00dfen)",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/taubenheim-b-meissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.591533,
+          51.056405
+        ]
+      },
+      "properties": {
+        "name": "Unkersdorf",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/unkersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.564353,
+          51.161894
+        ]
+      },
+      "properties": {
+        "name": "Weinb\u00f6hla",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/weinboehla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.585671,
+          51.08635
+        ]
+      },
+      "properties": {
+        "name": "Weistropp",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/weistropp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342838,
+          51.077664
+        ]
+      },
+      "properties": {
+        "name": "Wendischbora",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/wendischbora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.536276,
+          51.052413
+        ]
+      },
+      "properties": {
+        "name": "Wilsdruff",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/wilsdruff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42663,
+          51.197941
+        ]
+      },
+      "properties": {
+        "name": "Zadel",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/zadel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404441,
+          51.199078
+        ]
+      },
+      "properties": {
+        "name": "Zehren",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/zehren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308602,
+          51.135753
+        ]
+      },
+      "properties": {
+        "name": "Ziegenhain",
+        "district": "Kirchenbezirk Mei\u00dfen",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-meissen/ziegenhain"
+      }
+    }
+  ],
+  "properties": {
+    "archive": "Ev.-Luth. Landeskirche Sachsens",
+    "created": "2024-04-15"
+  }
+}

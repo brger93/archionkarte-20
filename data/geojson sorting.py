@@ -1,5 +1,5 @@
-from pathlib import Path
 import json
+from pathlib import Path
 
 # Input Path
 input_file = input('Enter path to input file:')

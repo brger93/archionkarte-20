@@ -1,0 +1,3849 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.032983,
+          49.219005
+        ]
+      },
+      "properties": {
+        "name": "Albersweiler, St. Stephanus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/albersweiler/st-stephanus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.963099,
+          49.204592
+        ]
+      },
+      "properties": {
+        "name": "Annweiler, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/annweiler/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.068978,
+          49.194077
+        ]
+      },
+      "properties": {
+        "name": "Arzheim, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/arzheim/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.994714,
+          49.099544
+        ]
+      },
+      "properties": {
+        "name": "Bad Bergzabern, Hl. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bad-bergzabern/hl-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.16925,
+          49.462431
+        ]
+      },
+      "properties": {
+        "name": "Bad D\u00fcrkheim, St. Ludwig",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bad-duerkheim/st-ludwig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611733,
+          49.38942
+        ]
+      },
+      "properties": {
+        "name": "Bann, St. Valentin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bann/st-valentin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.798039,
+          49.678796
+        ]
+      },
+      "properties": {
+        "name": "Bayerfeld, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bayerfeld/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.159585,
+          49.16582
+        ]
+      },
+      "properties": {
+        "name": "Bebelsheim, St. Margaretha",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bebelsheim/st-margaretha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.410773,
+          49.347786
+        ]
+      },
+      "properties": {
+        "name": "Bechhofen, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bechhofen/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.280293,
+          49.191628
+        ]
+      },
+      "properties": {
+        "name": "Bellheim, St. Nikolaus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bellheim/st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.206579,
+          48.982146
+        ]
+      },
+      "properties": {
+        "name": "Berg, St. Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/berg/st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.410627,
+          49.293725
+        ]
+      },
+      "properties": {
+        "name": "Berghausen, St. Pankratius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/berghausen/st-pankratius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.258302,
+          49.34821
+        ]
+      },
+      "properties": {
+        "name": "Bexbach, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bexbach/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.204836,
+          49.221486
+        ]
+      },
+      "properties": {
+        "name": "Biesingen, St. Anna",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/biesingen/st-anna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.101568,
+          49.136064
+        ]
+      },
+      "properties": {
+        "name": "Billigheim, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/billigheim/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.93146,
+          49.115364
+        ]
+      },
+      "properties": {
+        "name": "Birkenh\u00f6rdt, St. Gallus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/birkenhoerdt/st-gallus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.253084,
+          49.212803
+        ]
+      },
+      "properties": {
+        "name": "Blickweiler, St. Barbara",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/blickweiler/st-barbara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.237699,
+          49.17339
+        ]
+      },
+      "properties": {
+        "name": "Bliesdalheim, St. Wendelin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bliesdalheim/st-wendelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.254381,
+          49.237151
+        ]
+      },
+      "properties": {
+        "name": "Blieskastel, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/blieskastel/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.256053,
+          49.251741
+        ]
+      },
+      "properties": {
+        "name": "Blieskastel-Lautzkirchen, St. Mauritius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/blieskastel-lautzkirchen/st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.115707,
+          49.151278
+        ]
+      },
+      "properties": {
+        "name": "Bliesmengen-Bolchen, St. Paulus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bliesmengen-bolchen/st-paulus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.180608,
+          49.603613
+        ]
+      },
+      "properties": {
+        "name": "Bockenheim, St. Lambert",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bockenheim/st-lambert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.166715,
+          49.22292
+        ]
+      },
+      "properties": {
+        "name": "Bornheim, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bornheim/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.119401,
+          49.574699
+        ]
+      },
+      "properties": {
+        "name": "Bo\u00dfweiler, St. Oswald",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bossweiler/st-oswald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.269935,
+          49.43589
+        ]
+      },
+      "properties": {
+        "name": "Breitenbach, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/breitenbach/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46513,
+          49.390244
+        ]
+      },
+      "properties": {
+        "name": "Bruchm\u00fchlbach, St. Maria Magdalena",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bruchmuehlbach/st-maria-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.801688,
+          49.112512
+        ]
+      },
+      "properties": {
+        "name": "Bruchweiler, Hl. Kreuz",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bruchweiler/hl-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358169,
+          49.433719
+        ]
+      },
+      "properties": {
+        "name": "Br\u00fccken, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bruecken/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.807632,
+          49.096056
+        ]
+      },
+      "properties": {
+        "name": "Bundenthal, St. Peter und Paul",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/bundenthal/st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.077219,
+          49.24728
+        ]
+      },
+      "properties": {
+        "name": "Burrweiler, Mari\u00e4 Heimsuchung",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/burrweiler/mariae-heimsuchung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.829255,
+          49.13069
+        ]
+      },
+      "properties": {
+        "name": "Busenberg, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/busenberg/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.232458,
+          49.283412
+        ]
+      },
+      "properties": {
+        "name": "B\u00f6bingen, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/boebingen/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.294019,
+          49.386179
+        ]
+      },
+      "properties": {
+        "name": "B\u00f6hl, Allerheiligen",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/boehl/allerheiligen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.942916,
+          49.579063
+        ]
+      },
+      "properties": {
+        "name": "B\u00f6rrstadt, St. Nikolaus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/boerrstadt/st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.173014,
+          49.021412
+        ]
+      },
+      "properties": {
+        "name": "B\u00fcchelberg, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/buechelberg/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.038008,
+          49.505145
+        ]
+      },
+      "properties": {
+        "name": "Carlsberg, Heilig Kreuz",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/carlsberg/heilig-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677854,
+          49.260308
+        ]
+      },
+      "properties": {
+        "name": "Clausen, Seliger Bernhard von Baden",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/clausen/seliger-bernhard-von-baden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.428311,
+          49.249802
+        ]
+      },
+      "properties": {
+        "name": "Contwig, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/contwig/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.186458,
+          49.521609
+        ]
+      },
+      "properties": {
+        "name": "Dackenheim, St. Maria",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/dackenheim/st-maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.779105,
+          49.150787
+        ]
+      },
+      "properties": {
+        "name": "Dahn, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/dahn/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.317267,
+          49.426368
+        ]
+      },
+      "properties": {
+        "name": "Dannstadt, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/dannstadt/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.186932,
+          49.407986
+        ]
+      },
+      "properties": {
+        "name": "Deidesheim, St. Ulrich",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/deidesheim/st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.139138,
+          49.321822
+        ]
+      },
+      "properties": {
+        "name": "Diedesfeld, St. Remigius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/diedesfeld/st-remigius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.247464,
+          49.563024
+        ]
+      },
+      "properties": {
+        "name": "Dirmstein, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/dirmstein/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.39001,
+          49.316819
+        ]
+      },
+      "properties": {
+        "name": "Dudenhofen, St. Gangolf",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/dudenhofen/st-gangolf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.209803,
+          49.299407
+        ]
+      },
+      "properties": {
+        "name": "Duttweiler, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/duttweiler/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.835192,
+          49.809862
+        ]
+      },
+      "properties": {
+        "name": "Ebernburg, St. Johannes Bapt.",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ebernburg/st-johannes-bapt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.129578,
+          49.28318
+        ]
+      },
+      "properties": {
+        "name": "Edenkoben, St. Ludwig",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/edenkoben/st-ludwig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.129737,
+          49.260246
+        ]
+      },
+      "properties": {
+        "name": "Edesheim, St. Peter und Paul",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/edesheim/st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.072397,
+          49.559111
+        ]
+      },
+      "properties": {
+        "name": "Eisenberg, St. M\u00e4tth\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/eisenberg/st-maetthaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.935571,
+          49.350109
+        ]
+      },
+      "properties": {
+        "name": "Elmstein, Herz Mari\u00e4",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/elmstein/herz-mariae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.899483,
+          49.486219
+        ]
+      },
+      "properties": {
+        "name": "Enkenbach, St. Norbert",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/enkenbach/st-norbert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110197,
+          49.203863
+        ]
+      },
+      "properties": {
+        "name": "Ensheim, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ensheim/st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.559922,
+          49.115398
+        ]
+      },
+      "properties": {
+        "name": "Eppenbrunn, St. Pirminius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/eppenbrunn/st-pirminius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.332401,
+          49.509041
+        ]
+      },
+      "properties": {
+        "name": "Eppstein, St. Cyriakus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/eppstein/st-cyriakus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.812967,
+          49.158625
+        ]
+      },
+      "properties": {
+        "name": "Erfweiler, St. Wolfgang",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/erfweiler/st-wolfgang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.018821,
+          49.174684
+        ]
+      },
+      "properties": {
+        "name": "Eschbach, St. Ludwig",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/eschbach/st-ludwig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.984983,
+          49.377705
+        ]
+      },
+      "properties": {
+        "name": "Esthal, St. Konrad von Parzahm",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/esthal/st-konrad-von-parzahm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970462,
+          49.241707
+        ]
+      },
+      "properties": {
+        "name": "Eu\u00dferthal, St. Bernhard",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/eusserthal/st-bernhard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58234,
+          49.227576
+        ]
+      },
+      "properties": {
+        "name": "Fehrbach, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/fehrbach/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.801349,
+          49.781568
+        ]
+      },
+      "properties": {
+        "name": "Feilbingert, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/feilbingert/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.715194,
+          49.086127
+        ]
+      },
+      "properties": {
+        "name": "Fischbach, St.Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/fischbach/stbartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.09717,
+          49.243624
+        ]
+      },
+      "properties": {
+        "name": "Flemlingen, St. Alban",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/flemlingen/st-alban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.188471,
+          49.426378
+        ]
+      },
+      "properties": {
+        "name": "Forst, St. Margaretha",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/forst/st-margaretha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.354681,
+          49.535402
+        ]
+      },
+      "properties": {
+        "name": "Frankenthal, St. Dreifaltigkeit",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/frankenthal/st-dreifaltigkeit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.212055,
+          49.507126
+        ]
+      },
+      "properties": {
+        "name": "Freinsheim, St. Peter und Paul",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/freinsheim/st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.294724,
+          49.457712
+        ]
+      },
+      "properties": {
+        "name": "Fu\u00dfg\u00f6nheim, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/fussgoenheim/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.256191,
+          49.304196
+        ]
+      },
+      "properties": {
+        "name": "Geinsheim, St. Peter und Paul",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/geinsheim/st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.870588,
+          49.673189
+        ]
+      },
+      "properties": {
+        "name": "Gerbach, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/gerbach/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37025,
+          49.219339
+        ]
+      },
+      "properties": {
+        "name": "Germersheim, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/germersheim/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.205581,
+          49.14981
+        ]
+      },
+      "properties": {
+        "name": "Gersheim, St. Alban",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/gersheim/st-alban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.440169,
+          49.471374
+        ]
+      },
+      "properties": {
+        "name": "Glan-M\u00fcnchweiler, St. Pirminius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/glan-muenchweiler/st-pirminius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.065186,
+          49.241795
+        ]
+      },
+      "properties": {
+        "name": "Gleisweiler, St. Stephan",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/gleisweiler/st-stephan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.080704,
+          49.211495
+        ]
+      },
+      "properties": {
+        "name": "Godramstein, St. Pirmin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/godramstein/st-pirmin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.926937,
+          49.162418
+        ]
+      },
+      "properties": {
+        "name": "Gossersweiler, St. Cyriakus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/gossersweiler/st-cyriakus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.174734,
+          49.26907
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dffischlingen, St. Gallus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/grossfischlingen/st-gallus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.222792,
+          49.537798
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfkarlbach, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/grosskarlbach/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.166145,
+          49.562828
+        ]
+      },
+      "properties": {
+        "name": "Gr\u00fcnstadt, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/gruenstadt/st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.042312,
+          49.161637
+        ]
+      },
+      "properties": {
+        "name": "G\u00f6cklingen, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/goecklingen/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.053702,
+          49.595475
+        ]
+      },
+      "properties": {
+        "name": "G\u00f6llheim, St. Johannes Nepomuk",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/goellheim/st-johannes-nepomuk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.137176,
+          49.130257
+        ]
+      },
+      "properties": {
+        "name": "Habkirchen, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/habkirchen/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.247855,
+          49.018801
+        ]
+      },
+      "properties": {
+        "name": "Hagenbach, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hagenbach/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.101088,
+          49.256623
+        ]
+      },
+      "properties": {
+        "name": "Hainfeld, St. Barbara",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hainfeld/st-barbara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.129554,
+          49.334779
+        ]
+      },
+      "properties": {
+        "name": "Hambach, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hambach/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3429,
+          49.316334
+        ]
+      },
+      "properties": {
+        "name": "Hanhofen, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hanhofen/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.344818,
+          49.294832
+        ]
+      },
+      "properties": {
+        "name": "Harthausen, St. Johannes",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/harthausen/st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.159776,
+          49.266408
+        ]
+      },
+      "properties": {
+        "name": "Hassel, Herz Jesu",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hassel/herz-jesu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.243529,
+          49.110115
+        ]
+      },
+      "properties": {
+        "name": "Hatzenb\u00fchl, St. Wendelin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hatzenbuehl/st-wendelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.849913,
+          49.192776
+        ]
+      },
+      "properties": {
+        "name": "Hauenstein, Christ K\u00f6nig",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hauenstein/christ-koenig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.203574,
+          49.122355
+        ]
+      },
+      "properties": {
+        "name": "Hayna, Hl. Kreuz",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hayna/hl-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.248232,
+          49.358432
+        ]
+      },
+      "properties": {
+        "name": "Ha\u00dfloch, St. Ulrich",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hassloch/st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.396159,
+          49.284847
+        ]
+      },
+      "properties": {
+        "name": "Heiligenstein, St. Sigismund",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/heiligenstein/st-sigismund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.716216,
+          49.313196
+        ]
+      },
+      "properties": {
+        "name": "Heltersberg, Maria Mutterschaft",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/heltersberg/maria-mutterschaft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627683,
+          49.322901
+        ]
+      },
+      "properties": {
+        "name": "Hermersberg, St. Johannes der T\u00e4ufer",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hermersberg/st-johannes-der-taeufer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.216776,
+          49.147
+        ]
+      },
+      "properties": {
+        "name": "Herxheim, Maria Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/herxheim/maria-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.254619,
+          49.152416
+        ]
+      },
+      "properties": {
+        "name": "Herxheimweyher, St. Antonius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/herxheimweyher/st-antonius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.067142,
+          49.534366
+        ]
+      },
+      "properties": {
+        "name": "Hettenleidelheim, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hettenleidelheim/st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.307464,
+          49.546485
+        ]
+      },
+      "properties": {
+        "name": "He\u00dfheim, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hessheim/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.275191,
+          49.417298
+        ]
+      },
+      "properties": {
+        "name": "Hochdorf, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hochdorf/st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.890903,
+          49.443651
+        ]
+      },
+      "properties": {
+        "name": "Hochspeyer, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hochspeyer/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.204176,
+          49.238799
+        ]
+      },
+      "properties": {
+        "name": "Hochstadt, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hochstadt/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699307,
+          49.41305
+        ]
+      },
+      "properties": {
+        "name": "Hohenecken, St. Rochus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hohenecken/st-rochus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.340948,
+          49.320885
+        ]
+      },
+      "properties": {
+        "name": "Homburg, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/homburg/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.334868,
+          49.344218
+        ]
+      },
+      "properties": {
+        "name": "Homburg-Erbach, St. Andreas",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/homburg-erbach/st-andreas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.367012,
+          49.299436
+        ]
+      },
+      "properties": {
+        "name": "Homburg-Kirrberg, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/homburg-kirrberg/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653412,
+          49.331752
+        ]
+      },
+      "properties": {
+        "name": "Horbach, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/horbach/st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.271118,
+          49.389923
+        ]
+      },
+      "properties": {
+        "name": "H\u00f6chen, St. Maria",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hoechen/st-maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.329446,
+          49.162968
+        ]
+      },
+      "properties": {
+        "name": "H\u00f6rdt, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/hoerdt/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.48476,
+          49.42161
+        ]
+      },
+      "properties": {
+        "name": "H\u00fctschenhausen, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/huetschenhausen/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.308843,
+          49.36201
+        ]
+      },
+      "properties": {
+        "name": "Iggelheim, St. Simon und Juda",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/iggelheim/st-simon-und-juda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.800532,
+          49.599778
+        ]
+      },
+      "properties": {
+        "name": "Imsweiler, St. Petrus in Ketten",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/imsweiler/st-petrus-in-ketten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.083479,
+          49.136668
+        ]
+      },
+      "properties": {
+        "name": "Ingenheim, St. Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ingenheim/st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.139363,
+          49.157642
+        ]
+      },
+      "properties": {
+        "name": "Insheim, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/insheim/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.279315,
+          49.095199
+        ]
+      },
+      "properties": {
+        "name": "Jockgrim, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/jockgrim/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.326673,
+          49.371409
+        ]
+      },
+      "properties": {
+        "name": "J\u00e4gersburg, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/jaegersburg/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761622,
+          49.441777
+        ]
+      },
+      "properties": {
+        "name": "Kaiserslautern, St. Maria",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kaiserslautern/st-maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772446,
+          49.445836
+        ]
+      },
+      "properties": {
+        "name": "Kaiserslautern, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kaiserslautern/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19707,
+          49.080975
+        ]
+      },
+      "properties": {
+        "name": "Kandel, St. \u00c4gidius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kandel/st-aegidius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.020986,
+          49.046019
+        ]
+      },
+      "properties": {
+        "name": "Kapsweyer, St. Ulrich",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kapsweyer/st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694347,
+          49.504464
+        ]
+      },
+      "properties": {
+        "name": "Katzweiler, Maria Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/katzweiler/maria-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613027,
+          49.417108
+        ]
+      },
+      "properties": {
+        "name": "Kindsbach, Maria Heimsuchung",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kindsbach/maria-heimsuchung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572529,
+          49.354466
+        ]
+      },
+      "properties": {
+        "name": "Kirchenarnbach, St. Johannes Bapt.",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kirchenarnbach/st-johannes-bapt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.007579,
+          49.668125
+        ]
+      },
+      "properties": {
+        "name": "Kirchheimbolanden, St. Petrus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kirchheimbolanden/st-petrus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.476812,
+          49.458209
+        ]
+      },
+      "properties": {
+        "name": "Kirchmohr, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kirchmohr/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.165245,
+          49.301056
+        ]
+      },
+      "properties": {
+        "name": "Kirrweiler, Kreuzerh\u00f6hung",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kirrweiler/kreuzerhoehung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.91709,
+          49.710224
+        ]
+      },
+      "properties": {
+        "name": "Kriegsfeld, St. Matth\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kriegsfeld/st-matthaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.315558,
+          49.144061
+        ]
+      },
+      "properties": {
+        "name": "Kuhardt, St. Anna",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kuhardt/st-anna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.402485,
+          49.536688
+        ]
+      },
+      "properties": {
+        "name": "Kusel, St. \u00c4gidius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kusel/st-aegidius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.156477,
+          49.387116
+        ]
+      },
+      "properties": {
+        "name": "K\u00f6nigsbach, St. Johannes",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/koenigsbach/st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36516,
+          49.407571
+        ]
+      },
+      "properties": {
+        "name": "K\u00fcbelberg, St. Valentin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/kuebelberg/st-valentin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.508361,
+          49.347252
+        ]
+      },
+      "properties": {
+        "name": "Labach, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/labach/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.068843,
+          49.373326
+        ]
+      },
+      "properties": {
+        "name": "Lambrecht, Herz Jesu",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/lambrecht/herz-jesu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.287267,
+          49.511952
+        ]
+      },
+      "properties": {
+        "name": "Lambsheim, St. Stephan",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/lambsheim/st-stephan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.115362,
+          49.193158
+        ]
+      },
+      "properties": {
+        "name": "Landau, St. Maria",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/landau/st-maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.165129,
+          49.187924
+        ]
+      },
+      "properties": {
+        "name": "Landau-M\u00f6rlheim, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/landau-moerlheim/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.075086,
+          49.170444
+        ]
+      },
+      "properties": {
+        "name": "Landau-M\u00f6rzheim, St. \u00c4gidius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/landau-moerzheim/st-aegidius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.137046,
+          49.195595
+        ]
+      },
+      "properties": {
+        "name": "Landau-Queichheim, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/landau-queichheim/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566543,
+          49.411845
+        ]
+      },
+      "properties": {
+        "name": "Landstuhl, Heilig Geist",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/landstuhl/heilig-geist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570401,
+          49.409757
+        ]
+      },
+      "properties": {
+        "name": "Landstuhl, St. Andreas",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/landstuhl/st-andreas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.235693,
+          49.553057
+        ]
+      },
+      "properties": {
+        "name": "Laumersheim, St. Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/laumersheim/st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59371,
+          49.648351
+        ]
+      },
+      "properties": {
+        "name": "Lauterecken, St. Franz Xaver",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/lauterecken/st-franz-xaver"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.769437,
+          49.274449
+        ]
+      },
+      "properties": {
+        "name": "Leimen, St. Katharina",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/leimen/st-katharina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.343169,
+          49.124861
+        ]
+      },
+      "properties": {
+        "name": "Leimersheim, St. Gertrud",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/leimersheim/st-gertrud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.340919,
+          49.249041
+        ]
+      },
+      "properties": {
+        "name": "Lingenfeld, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/lingenfeld/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.434633,
+          49.489795
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen, St. Dreifaltigkeit",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen/st-dreifaltigkeit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.448527,
+          49.480187
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen, St. Ludwig",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen/st-ludwig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.392944,
+          49.530566
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Edigheim, Maria K\u00f6nigin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-edigheim/maria-koenigin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.410118,
+          49.497011
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Friesenheim, St. Gallus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-friesenheim/st-gallus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382801,
+          49.456418
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Maudach, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-maudach/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.429335,
+          49.464169
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Mundenheim, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-mundenheim/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.377009,
+          49.490105
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Oggersheim, Maria Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-oggersheim/maria-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.404225,
+          49.520676
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Oppau, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-oppau/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.414468,
+          49.446073
+        ]
+      },
+      "properties": {
+        "name": "Ludwigshafen-Rheing\u00f6nheim, St. Joseph",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ludwigshafen-rheingoenheim/st-joseph"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.265079,
+          49.242558
+        ]
+      },
+      "properties": {
+        "name": "Lustadt, St. Johannes der T\u00e4ufer",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/lustadt/st-johannes-der-taeufer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.131684,
+          49.3056
+        ]
+      },
+      "properties": {
+        "name": "Maikammer, St. Kosmas und Damian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/maikammer/st-kosmas-und-damian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.48057,
+          49.36453
+        ]
+      },
+      "properties": {
+        "name": "Martinsh\u00f6he, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/martinshoehe/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527513,
+          49.272443
+        ]
+      },
+      "properties": {
+        "name": "Massweiler, St. Anton",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/massweiler/st-anton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.289151,
+          49.03204
+        ]
+      },
+      "properties": {
+        "name": "Maximiliansau, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/maximiliansau/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40002,
+          49.265778
+        ]
+      },
+      "properties": {
+        "name": "Mechtersheim, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/mechtersheim/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.239939,
+          49.407533
+        ]
+      },
+      "properties": {
+        "name": "Meckenheim, St. Aegidius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/meckenheim/st-aegidius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.266869,
+          49.144747
+        ]
+      },
+      "properties": {
+        "name": "Medelsheim, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/medelsheim/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731975,
+          49.245245
+        ]
+      },
+      "properties": {
+        "name": "Merzalben, Hl. Kreuz",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/merzalben/hl-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.139246,
+          49.071449
+        ]
+      },
+      "properties": {
+        "name": "Minfeld, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/minfeld/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.171238,
+          49.368257
+        ]
+      },
+      "properties": {
+        "name": "Mussbach, St. Johannes Bapt.",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/mussbach/st-johannes-bapt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.357386,
+          49.439776
+        ]
+      },
+      "properties": {
+        "name": "Mutterstadt, St. Medardus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/mutterstadt/st-medardus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70335,
+          49.218999
+        ]
+      },
+      "properties": {
+        "name": "M\u00fcnchweiler an der Rodalb, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/muenchweiler-an-der-rodalb/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.140612,
+          49.542371
+        ]
+      },
+      "properties": {
+        "name": "Neuleiningen, St. Nikolaus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/neuleiningen/st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.316677,
+          49.117694
+        ]
+      },
+      "properties": {
+        "name": "Neupotz, St. Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/neupotz/st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.134649,
+          49.353101
+        ]
+      },
+      "properties": {
+        "name": "Neustadt, St. Marien",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/neustadt/st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.206076,
+          49.133868
+        ]
+      },
+      "properties": {
+        "name": "Niedergailbach, Hl. Bruder Klaus von Fl\u00fce",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/niedergailbach/hl-bruder-klaus-von-fluee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.215098,
+          49.411854
+        ]
+      },
+      "properties": {
+        "name": "Niederkirchen, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/niederkirchen/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.844341,
+          49.086851
+        ]
+      },
+      "properties": {
+        "name": "Niederschlettenbach, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/niederschlettenbach/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20424,
+          49.243748
+        ]
+      },
+      "properties": {
+        "name": "Niederw\u00fcrzbach, St. Hubertus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/niederwuerzbach/st-hubertus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.504315,
+          49.222608
+        ]
+      },
+      "properties": {
+        "name": "N\u00fcnschweiler, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/nuenschweiler/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.261804,
+          49.362646
+        ]
+      },
+      "properties": {
+        "name": "Oberbexbach, St. Barbara",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/oberbexbach/st-barbara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.506826,
+          49.457517
+        ]
+      },
+      "properties": {
+        "name": "Obermohr, St. Johannes der T\u00e4ufer",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/obermohr/st-johannes-der-taeufer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773132,
+          49.728541
+        ]
+      },
+      "properties": {
+        "name": "Obermoschel, St. Petrus/Mariae Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/obermoschel/st-petrus/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.810496,
+          49.710003
+        ]
+      },
+      "properties": {
+        "name": "Oberndorf, St. Valentin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/oberndorf/st-valentin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.973454,
+          49.07127
+        ]
+      },
+      "properties": {
+        "name": "Oberotterbach, St. Simon und Judas",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/oberotterbach/st-simon-und-judas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.187197,
+          49.190392
+        ]
+      },
+      "properties": {
+        "name": "Offenbach an der Queich, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/offenbach-an-der-queich/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.156659,
+          49.21989
+        ]
+      },
+      "properties": {
+        "name": "Ommersheim, Mar\u00e4 Heimsuchung",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ommersheim/marae-heimsuchung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.144486,
+          49.196311
+        ]
+      },
+      "properties": {
+        "name": "Ormesheim, St. Mauritius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ormesheim/st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.734758,
+          49.48466
+        ]
+      },
+      "properties": {
+        "name": "Otterbach, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/otterbach/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773527,
+          49.503069
+        ]
+      },
+      "properties": {
+        "name": "Otterberg, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/otterberg/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.110332,
+          49.624436
+        ]
+      },
+      "properties": {
+        "name": "Ottersheim (Kirchheimbolanden), St. Amandus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ottersheim-kirchheimbolanden/st-amandus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.229839,
+          49.19119
+        ]
+      },
+      "properties": {
+        "name": "Ottersheim (Landau), St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ottersheim-landau/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.453128,
+          49.372496
+        ]
+      },
+      "properties": {
+        "name": "Otterstadt, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/otterstadt/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606828,
+          49.200107
+        ]
+      },
+      "properties": {
+        "name": "Pirmasens, St. Pirmin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/pirmasens/st-pirmin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.009111,
+          49.259994
+        ]
+      },
+      "properties": {
+        "name": "Ramberg, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ramberg/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.442427,
+          49.540634
+        ]
+      },
+      "properties": {
+        "name": "Rammelsbach, St. Remigius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rammelsbach/st-remigius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.014649,
+          49.53531
+        ]
+      },
+      "properties": {
+        "name": "Ramsen, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ramsen/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555301,
+          49.446058
+        ]
+      },
+      "properties": {
+        "name": "Ramstein, St. Nikolaus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ramstein/st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.02988,
+          49.19688
+        ]
+      },
+      "properties": {
+        "name": "Ranschbach, Mari\u00e4 Heimsuchung",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ranschbach/mariae-heimsuchung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52836,
+          49.503632
+        ]
+      },
+      "properties": {
+        "name": "Reichenbach, Maria Lichtme\u00df",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/reichenbach/maria-lichtmess"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.507038,
+          49.281693
+        ]
+      },
+      "properties": {
+        "name": "Reifenberg, St. Wendelin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/reifenberg/st-wendelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1795,
+          49.137639
+        ]
+      },
+      "properties": {
+        "name": "Reinheim, St. Markus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/reinheim/st-markus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662431,
+          49.63502
+        ]
+      },
+      "properties": {
+        "name": "Reipoltskirchen, St. Johannes Nepomuk",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/reipoltskirchen/st-johannes-nepomuk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.438108,
+          49.521228
+        ]
+      },
+      "properties": {
+        "name": "Remigiusberg, St. Remigius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/remigiusberg/st-remigius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.278359,
+          49.11946
+        ]
+      },
+      "properties": {
+        "name": "Rheinzabern, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rheinzabern/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.82233,
+          49.630827
+        ]
+      },
+      "properties": {
+        "name": "Rockenhausen, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rockenhausen/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635022,
+          49.241008
+        ]
+      },
+      "properties": {
+        "name": "Rodalben, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rodalben/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.126919,
+          49.137128
+        ]
+      },
+      "properties": {
+        "name": "Rohrbach (Landau), St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rohrbach-landau/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.164239,
+          49.283102
+        ]
+      },
+      "properties": {
+        "name": "Rohrbach (St. Ingbert), St. Johannes",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rohrbach-st-ingbert/st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.117499,
+          49.246539
+        ]
+      },
+      "properties": {
+        "name": "Roschbach, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/roschbach/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.365828,
+          49.579069
+        ]
+      },
+      "properties": {
+        "name": "Roxheim, St. Maria Magdalena",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/roxheim/st-maria-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.207564,
+          49.173264
+        ]
+      },
+      "properties": {
+        "name": "Rubenheim, St. Mauritius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/rubenheim/st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.195981,
+          49.40078
+        ]
+      },
+      "properties": {
+        "name": "Ruppertsberg, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ruppertsberg/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.257393,
+          49.429009
+        ]
+      },
+      "properties": {
+        "name": "R\u00f6dersheim, St. Leo",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/roedersheim/st-leo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.288206,
+          49.15668
+        ]
+      },
+      "properties": {
+        "name": "R\u00fclzheim, St. Mauritius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/ruelzheim/st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.083629,
+          49.060142
+        ]
+      },
+      "properties": {
+        "name": "Schaidt, St. Leo",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schaidt/st-leo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.716705,
+          49.546515
+        ]
+      },
+      "properties": {
+        "name": "Schallodenbach, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schallodenbach/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.143636,
+          48.981523
+        ]
+      },
+      "properties": {
+        "name": "Scheibenhardt, St. Ludwig",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/scheibenhardt/st-ludwig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.371686,
+          49.387048
+        ]
+      },
+      "properties": {
+        "name": "Schifferstadt, St. Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schifferstadt/st-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.878281,
+          49.167711
+        ]
+      },
+      "properties": {
+        "name": "Schwanheim, St. Hubertus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schwanheim/st-hubertus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.992267,
+          49.039697
+        ]
+      },
+      "properties": {
+        "name": "Schweighofen, St. Laurentius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schweighofen/st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5101,
+          49.127821
+        ]
+      },
+      "properties": {
+        "name": "Schweix, Mari\u00e4 Heimsuchung",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schweix/mariae-heimsuchung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749009,
+          49.060081
+        ]
+      },
+      "properties": {
+        "name": "Sch\u00f6nau, St. Michael",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/schoenau/st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.949808,
+          49.147688
+        ]
+      },
+      "properties": {
+        "name": "Silz, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/silz/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596723,
+          49.17572
+        ]
+      },
+      "properties": {
+        "name": "Simten, Herz Jesu",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/simten/herz-jesu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.361153,
+          49.189818
+        ]
+      },
+      "properties": {
+        "name": "Sondernheim, St. Johannes der T\u00e4ufer",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/sondernheim/st-johannes-der-taeufer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.442403,
+          49.317189
+        ]
+      },
+      "properties": {
+        "name": "Speyer, Dom Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/speyer/dom-mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.435166,
+          49.308254
+        ]
+      },
+      "properties": {
+        "name": "Speyer, St. German",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/speyer/st-german"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.43632,
+          49.319189
+        ]
+      },
+      "properties": {
+        "name": "Speyer, St. Johann",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/speyer/st-johann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4292,
+          49.316297
+        ]
+      },
+      "properties": {
+        "name": "Speyer, St. Joseph",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/speyer/st-joseph"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.43815,
+          49.313875
+        ]
+      },
+      "properties": {
+        "name": "Speyer, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/speyer/st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.118916,
+          49.280603
+        ]
+      },
+      "properties": {
+        "name": "St. Ingbert, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/st-ingbert/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.102512,
+          49.300437
+        ]
+      },
+      "properties": {
+        "name": "St. Martin, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/st-martin/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.036564,
+          49.049186
+        ]
+      },
+      "properties": {
+        "name": "Steinfeld, St. Leodegar",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/steinfeld/st-leodegar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.139898,
+          49.1228
+        ]
+      },
+      "properties": {
+        "name": "Steinweiler, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/steinweiler/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.089127,
+          49.670162
+        ]
+      },
+      "properties": {
+        "name": "Stetten, Leib Christi",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/stetten/leib-christi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.36334,
+          49.507652
+        ]
+      },
+      "properties": {
+        "name": "Studernheim, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/studernheim/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768506,
+          49.354557
+        ]
+      },
+      "properties": {
+        "name": "Trippstadt, St. Josef",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/trippstadt/st-josef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.544901,
+          49.140653
+        ]
+      },
+      "properties": {
+        "name": "Trulben, St. Stephanus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/trulben/st-stephanus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.174081,
+          49.281432
+        ]
+      },
+      "properties": {
+        "name": "Venningen, St. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/venningen/st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.552992,
+          49.158026
+        ]
+      },
+      "properties": {
+        "name": "Vinningen, St. Sebastian",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/vinningen/st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.181353,
+          49.438362
+        ]
+      },
+      "properties": {
+        "name": "Wachenheim, Hl. Georg",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/wachenheim/hl-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652685,
+          49.284511
+        ]
+      },
+      "properties": {
+        "name": "Waldfischbach-Burgalben, St. Joseph",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/waldfischbach-burgalben/st-joseph"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.988087,
+          49.165865
+        ]
+      },
+      "properties": {
+        "name": "Waldhambach, St. Wendelinus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/waldhambach/st-wendelinus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.443266,
+          49.395217
+        ]
+      },
+      "properties": {
+        "name": "Waldsee, St. Martin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/waldsee/st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.233861,
+          49.155046
+        ]
+      },
+      "properties": {
+        "name": "Walsheim, St. Pirmin",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/walsheim/st-pirmin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.061722,
+          49.522101
+        ]
+      },
+      "properties": {
+        "name": "Wattenheim, St. Alban",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/wattenheim/st-alban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.990637,
+          49.419999
+        ]
+      },
+      "properties": {
+        "name": "Weidenthal, St. Simon und Judas",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/weidenthal/st-simon-und-judas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632857,
+          49.48132
+        ]
+      },
+      "properties": {
+        "name": "Weilerbach, Hl. Kreuz",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/weilerbach/hl-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.996728,
+          49.615078
+        ]
+      },
+      "properties": {
+        "name": "Weitersweiler, St. Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/weitersweiler/st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.928056,
+          49.189651
+        ]
+      },
+      "properties": {
+        "name": "Wernersberg, St. Philippus und Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/wernersberg/st-philippus-und-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605886,
+          49.333921
+        ]
+      },
+      "properties": {
+        "name": "Weselberg, Unbefleckte Empf\u00e4ngnis",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/weselberg/unbefleckte-empfaengnis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.084466,
+          49.266327
+        ]
+      },
+      "properties": {
+        "name": "Weyher, St. Peter und Paul",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/weyher/st-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453384,
+          49.334221
+        ]
+      },
+      "properties": {
+        "name": "Wiesbach, Mari\u00e4 Himmelfahrt",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/wiesbach/mariae-himmelfahrt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85628,
+          49.568496
+        ]
+      },
+      "properties": {
+        "name": "Winnweiler, Herz Jesu",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/winnweiler/herz-jesu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.226178,
+          49.191138
+        ]
+      },
+      "properties": {
+        "name": "Wolfersheim (Rubenheim), ohne Patronat",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/wolfersheim-rubenheim/ohne-patronat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604714,
+          49.584983
+        ]
+      },
+      "properties": {
+        "name": "Wolfstein, St. Philippus und Jakobus",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/wolfstein/st-philippus-und-jakobus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26812,
+          49.051423
+        ]
+      },
+      "properties": {
+        "name": "W\u00f6rth, St. \u00c4gidius",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/woerth/st-aegidius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.252216,
+          49.231561
+        ]
+      },
+      "properties": {
+        "name": "Zeiskam, St. Bartholom\u00e4us",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/zeiskam/st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.138237,
+          49.649513
+        ]
+      },
+      "properties": {
+        "name": "Zell, St. Philipp der Einsiedler",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/zell/st-philipp-der-einsiedler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.363885,
+          49.24995
+        ]
+      },
+      "properties": {
+        "name": "Zweibr\u00fccken, Hl. Kreuz",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/zweibruecken/hl-kreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.366478,
+          49.232985
+        ]
+      },
+      "properties": {
+        "name": "Zweibr\u00fccken-Ixheim, St. Peter",
+        "archive": "Bistum Speyer",
+        "path": "/de/alle-archive/rheinland-pfalz/bistumsarchiv-speyer/zweibruecken-ixheim/st-peter"
+      }
+    }
+  ],
+  "properties": {
+    "archive": "Bistum Speyer",
+    "created": "2024-10-24"
+  }
+}

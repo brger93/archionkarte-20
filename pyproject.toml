@@ -1,0 +1,37 @@
+[project]
+name = "archionkarte-20"
+version = "0.1.0"
+description = "GeoJSONs for uMap Archionkarte 2.0"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.12.2",
+    "geopy>=2.4.1",
+    "logger>=1.4",
+    "pandas>=2.1.4",
+    "pathlib>=1.0.1",
+    "requests>=2.31.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.11",
+]
+
+[tool.ruff]
+target-version = "py314"
+line-length = 79
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    "ANN401", # Use of Any
+    "E501", # Avoid enforcing line-length violations
+    "PLR0913", # Too many arguments
+    "D100", # Missing docstring in public module
+    "TC002", # Move third-party import into a type-checking block
+    "BLE001", # Blind exception
+    "PERF401", # List Comprehension
+]
+
+fixable = ["ALL"]

@@ -1,0 +1,14 @@
+# ignore personal notes
+*handsoff*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# pyenv
+.python-version
+
+# Environments
+.venv
+
+# VSCode project settings
+.vscode

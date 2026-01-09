@@ -1,0 +1,20 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          9.729523,
+          52.369343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "archive": "Ev.-ref. Kirchengem. Hannover",
+        "name": "Hannover",
+        "path": "/de/alle-archive/niedersachsen/evangelisch-reformierte-kirchengemeinde-hannover/hannover"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
