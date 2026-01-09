@@ -56,4 +56,4 @@ Changes shall be documented in CHANGELOG.
 
 <!-- Archive -->
 ## Archive
-GeoJSONs under folder *geojson* should not be uploaded to uMap. Those are archived versions which were published by user **Basil** in January 2025 on legacy uMap [Archionkarte](https://umap.openstreetmap.de/de/map/archionkarte_46875).
+GeoJSONs under folder *data/geojson* should not be uploaded to uMap. Those are archived versions which were published by user **Basil** in January 2025 on legacy uMap [Archionkarte](https://umap.openstreetmap.de/de/map/archionkarte_46875).
