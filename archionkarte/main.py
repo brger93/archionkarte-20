@@ -1,25 +1,30 @@
 import logging
 
-from input import scrape_archion_content, get_df, get_long_and_lat
-from output import write_df_to_geojson, save_geojson
+from archionkarte.output import save_geojson, write_df_to_geojson
+from archionkarte.preprocessing import (
+    get_df,
+    get_long_and_lat,
+    scrape_archion_content,
+)
 
 
-def main():
+def main() -> None:
+    """Create and save GeoJSON based on user settings."""
     # Logging Config
     logging.basicConfig(level=logging.INFO)
 
     # Define URL (e.g. https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg)
-    url = input('Enter URL to Archion archive overview page:')
-    url = f'{url}'
+    url = input("Enter URL to Archion archive overview page:")
+    url = f"{url}"
 
     # Web Scraping
     archive_list, link_list = scrape_archion_content(url)
 
     # Define Archive Name (e.g. Bistumsarchiv Speyer)
-    archive_name = input('Enter name of archive:')
+    archive_name = input("Enter name of archive:")
 
     # Define District Name (e.g. Kirchenkreis Hamburg-Ost)
-    district_name = input('Enter name of district:')
+    district_name = input("Enter name of district:")
 
     # Get Latitude and Longitude
     lat, long = get_long_and_lat(archive_list)
@@ -38,11 +43,11 @@ def main():
     geojson_archion = write_df_to_geojson(df)
 
     # Define Output GeoJSON File Path
-    output_json_path = input('Enter path to save GeoJSON output file:')
+    output_json_path = input("Enter path to save GeoJSON output file:")
 
     # Save to GeoJSON
     save_geojson(output_json_path, geojson_archion)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
