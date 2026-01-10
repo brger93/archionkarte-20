@@ -6,6 +6,228 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.40083,
+          50.51155
+        ]
+      },
+      "properties": {
+        "name": "Auerbach (Vogtl.)",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/auerbach-vogtl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27917,
+          50.47639
+        ]
+      },
+      "properties": {
+        "name": "Bergen (b. Falkenstein)",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/bergen-b-falkenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37129,
+          50.47788
+        ]
+      },
+      "properties": {
+        "name": "Falkenstein (Vogtl.)",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/falkenstein-vogtl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42701,
+          50.61076
+        ]
+      },
+      "properties": {
+        "name": "Irfersgrün",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/irfersgruen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46667,
+          50.36667
+        ]
+      },
+      "properties": {
+        "name": "Klingenthal",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/klingenthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3897,
+          50.5742
+        ]
+      },
+      "properties": {
+        "name": "Lengenfeld",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/lengenfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.40148,
+          50.57084
+        ]
+      },
+      "properties": {
+        "name": "Plohn",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/plohn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.49343,
+          50.45929
+        ]
+      },
+      "properties": {
+        "name": "Rautenkranz",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/rautenkranz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        ]
+      },
+      "properties": {
+        "name": "Rodewisch",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/rodewisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50312,
+          50.53965
+        ]
+      },
+      "properties": {
+        "name": "Rothenkirchen",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/rothenkirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314,
+          50.5439
+        ]
+      },
+      "properties": {
+        "name": "Treuen",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/treuen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37994,
+          50.59667
+        ]
+      },
+      "properties": {
+        "name": "Waldkirchen (Vogtl.)",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/waldkirchen-vogtl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3167,
+          50.4333
+        ]
+      },
+      "properties": {
+        "name": "Werda (b. Falkenstein)",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/werda-b-falkenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4333,
+          50.357
+        ]
+      },
+      "properties": {
+        "name": "Zwota",
+        "district": "Kirchenbezirk Auerbach",
+        "archive": "Ev.-Luth. Landeskirche Sachsens",
+        "path": "/de/alle-archive/sachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-sachsens/kirchenbezirk-auerbach/zwota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.752323,
           50.766598
         ]
