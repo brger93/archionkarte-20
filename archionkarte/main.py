@@ -1,3 +1,4 @@
+import argparse
 import logging
 
 from archionkarte.output import save_geojson, write_df_to_geojson
@@ -13,18 +14,41 @@ def main() -> None:
     # Logging Config
     logging.basicConfig(level=logging.INFO)
 
-    # Define URL (e.g. https://www.archion.de/de/alle-archive/niedersachsen/archiv-der-evangelisch-lutherischen-landeskirche-oldenburg)
-    url = input("Enter URL to Archion archive overview page:")
-    url = f"{url}"
+    # Parser Config
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--url",
+        help="URL to Archion web page",
+        required=True,
+    )
+    parser.add_argument(
+        "--archive",
+        help="Name of archive",
+        required=True,
+    )
+    parser.add_argument(
+        "--district",
+        help="Name of district",
+        required=True,
+    )
+    parser.add_argument(
+        "--path",
+        help="Output path",
+        required=True,
+    )
+    args = parser.parse_args()
+
+    # Define URL
+    url = args.url
 
     # Web Scraping
     archive_list, link_list = scrape_archion_content(url)
 
-    # Define Archive Name (e.g. Bistumsarchiv Speyer)
-    archive_name = input("Enter name of archive:")
+    # Define Archive Name
+    archive_name = args.archive
 
-    # Define District Name (e.g. Kirchenkreis Hamburg-Ost)
-    district_name = input("Enter name of district:")
+    # Define District Name
+    district_name = args.district
 
     # Get Latitude and Longitude
     lat, long = get_long_and_lat(archive_list)
@@ -43,7 +67,7 @@ def main() -> None:
     geojson_archion = write_df_to_geojson(df)
 
     # Define Output GeoJSON File Path
-    output_json_path = input("Enter path to save GeoJSON output file:")
+    output_json_path = args.path
 
     # Save to GeoJSON
     save_geojson(output_json_path, geojson_archion)
