@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Archionkarte 2.0",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "archionkarte.main",
+            "args": [
+                "--url",
+                "https://www.archion.de/de/alle-archive/saarland/stadtarchiv-blieskastel",
+                "--archive",
+                "Stadtarchiv Blieskastel",
+                "--district",
+                "Stadtarchiv Blieskastel",
+                "--path",
+                "C:\Users\britg\workspace\archionkarte-20\blieskastel.json",
+            ]
+        }
+    ]
+}
