@@ -28,15 +28,22 @@ Activate your environment via:
 ```
 <!-- CONTRIBUTION -->
 ## Contribution
+There are no requirements set for pushes to *main* at the moment for project collaborators.
+
+### Command-Line Usage
+The following command-line arguments are expected:
+* `--url`: URL to Archion web page on district level, e.g. `"https://www.archion.de/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-elbe-flaeming"`
+* `--archive`: Name of archive, e.g. `"Ev. Landeskirche in Mitteldeutschland - Magdeburg"`
+* `--district`: Name of district, e.g. `"Kirchenkreis Elbe-Fläming"`
+* `--path`: Output path for json file, e.g. `"C:/Users/username/workspace/elbe-fläming.json"`
+
 ### GeoData
 Please follow these steps to update geodata:
-* Run *main.py* to create GeoJSON (district).
+* Run main script to create GeoJSON (district):
 ```bash
-python -m archionkarte.main
+python -m archionkarte.main --url URL --archive ARCHIVE --district DISTRICT --path PATH
 ```
 * If applicable, copy GeoJSON (district) into GeoJSON (archive) manually.
-
-There are no requirements set for pushes to *main* at the moment for project collaborators.
 
 <!-- RELEASE PROCESS -->
 ## Release Process
