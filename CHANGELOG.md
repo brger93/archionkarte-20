@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 
 ## [4.1.0] - 2026-01-10
 ### Added
-* *sachesen_sorted.json* was extended by new parishes (Kirchenbezirk Auerbach)
+* *sachsen_sorted.json* was extended by new parishes (Kirchenbezirk Auerbach)
 
 ## [4.0.0] - 2026-01-09  
 ### Changed
