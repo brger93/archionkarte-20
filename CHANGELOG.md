@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [4.2.0] - 2026-01-11
+### Added
+* *raw input* replaced with *argparse* for input of url, archive, district and output path
+
 ## [4.1.0] - 2026-01-10
 ### Added
 * *sachesen_sorted.json* was extended by new parishes (Kirchenbezirk Auerbach)
