@@ -28,7 +28,14 @@ Activate your environment via:
 ```
 <!-- CONTRIBUTION -->
 ## Contribution
-There are no requirements set for pushes to *main* at the moment for project collaborators.
+There are no requirements set for pushes to main branch at the moment for project collaborators.
+
+### GeoData Processing
+To create a GeoJSON for a desired church district, call `main` module with the necessary command-line arguments and execute as script:
+```bash
+python -m archionkarte.main --url URL --archive ARCHIVE --district DISTRICT --path PATH
+```
+If applicable, copy GeoJSON (district) into existing GeoJSON (archive) manually.
 
 ### Command-Line Usage
 The following command-line arguments are expected:
@@ -36,14 +43,6 @@ The following command-line arguments are expected:
 * `--archive`: Name of archive, e.g. `"Ev. Landeskirche in Mitteldeutschland - Magdeburg"`
 * `--district`: Name of district, e.g. `"Kirchenkreis Elbe-Fläming"`
 * `--path`: Output path for json file, e.g. `"C:/Users/username/workspace/elbe-fläming.json"`
-
-### GeoData
-Please follow these steps to update geodata:
-* Run main script to create GeoJSON (district):
-```bash
-python -m archionkarte.main --url URL --archive ARCHIVE --district DISTRICT --path PATH
-```
-* If applicable, copy GeoJSON (district) into GeoJSON (archive) manually.
 
 <!-- RELEASE PROCESS -->
 ## Release Process
