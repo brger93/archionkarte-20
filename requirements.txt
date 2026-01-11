@@ -24,7 +24,7 @@ idna==3.11
     #   requests
 logger==1.4
     # via -r requirements.txt
-numpy==2.4.0
+numpy==2.4.1
     # via
     #   -r requirements.txt
     #   pandas
