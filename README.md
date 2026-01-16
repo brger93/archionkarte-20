@@ -39,10 +39,10 @@ If applicable, copy GeoJSON (district) into existing GeoJSON (archive) manually.
 
 ### Command-Line Usage
 The following command-line arguments are expected:
-* `--url`: URL to Archion web page on district level, e.g. `"https://www.archion.de/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-elbe-flaeming"`
-* `--archive`: Name of archive, e.g. `"Ev. Landeskirche in Mitteldeutschland - Magdeburg"`
-* `--district`: Name of district, e.g. `"Kirchenkreis Elbe-Fläming"`
-* `--path`: Output path for json file, e.g. `"C:/Users/username/workspace/elbe-fläming.json"`
+* `--url`: URL to Archion web page on district level
+* `--archive`: Name of archive, e.g. "Ev. Landeskirche in Mitteldeutschland - Magdeburg"
+* `--district`: Name of district, e.g. "Kirchenkreis Elbe-Fläming"
+* `--path`: Output path for json file, e.g. "C:/Users/username/workspace/elbe-fläming.json"
 
 <!-- RELEASE PROCESS -->
 ## Release Process
