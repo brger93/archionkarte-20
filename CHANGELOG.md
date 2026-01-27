@@ -1,12 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## [4.2.1] - 2026-01-12
+## [5.0.1] - 2026-01-12
 ### Added
 * fixed *bayern_sorted.json* with Hersbruck being renamed to Hersbruck-Stadtkirche
 
-## [4.2.0] - 2026-01-11
-### Added
+## [5.0.0] - 2026-01-11
+### Changed
 * *raw input* replaced with *argparse* for input of url, archive, district and output path
 
 ## [4.1.0] - 2026-01-10
