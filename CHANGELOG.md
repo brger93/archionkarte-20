@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.1.1] - 2026-02-03
+### Added
+* *eisenach_sorted.json* was extended by *Kirchenkreis Altenburger Land*
+
 ## [5.0.1] - 2026-01-12
 ### Added
 * fixed *bayern_sorted.json* with Hersbruck being renamed to Hersbruck-Stadtkirche
