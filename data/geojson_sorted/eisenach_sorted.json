@@ -8166,8 +8166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.720217,
-          51.2602401
+          11.985269,
+          50.935089
         ]
       },
       "properties": {
@@ -8614,12 +8614,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9532769,
-          52.1405163
+          11.774676,
+          50.853990
         ]
       },
       "properties": {
-        "name": "M\u00f6ckern",
+        "name": "Möckern",
         "district": "Kirchenkreis Gera",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/moeckern"
