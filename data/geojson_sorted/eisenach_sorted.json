@@ -12598,6 +12598,998 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.5635889,
+          50.9788013
+        ]
+      },
+      "properties": {
+        "name": "Alteng\u00f6nna",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/altengoenna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66687,
+          50.97157
+        ]
+      },
+      "properties": {
+        "name": "Beutnitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/beutnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5133698,
+          50.8813893
+        ]
+      },
+      "properties": {
+        "name": "Bucha",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/bucha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59629,
+          50.92602
+        ]
+      },
+      "properties": {
+        "name": "Camsdorf-Wenigenjena",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/camsdorf-wenigenjena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5787964,
+          50.9613562
+        ]
+      },
+      "properties": {
+        "name": "Closewitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/closewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.52773,
+          50.9001081
+        ]
+      },
+      "properties": {
+        "name": "Coppanz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/coppanz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5619796,
+          50.948543
+        ]
+      },
+      "properties": {
+        "name": "Cospeda",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/cospeda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4769393,
+          50.9198661
+        ]
+      },
+      "properties": {
+        "name": "D\u00f6britschen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/doebritschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62982,
+          50.8878137
+        ]
+      },
+      "properties": {
+        "name": "Drackendorf",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/drackendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6670038,
+          50.971761
+        ]
+      },
+      "properties": {
+        "name": "Golmsdorf",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/golmsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5840652,
+          50.8799525
+        ]
+      },
+      "properties": {
+        "name": "G\u00f6schwitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/goeschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4644908,
+          50.8962799
+        ]
+      },
+      "properties": {
+        "name": "G\u00f6ttern",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/goettern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6784238,
+          50.9267347
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfl\u00f6bichau",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/grossloebichau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4869226,
+          50.9376667
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfschwabhausen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/grossschwabhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623533,
+          50.995392
+        ]
+      },
+      "properties": {
+        "name": "Hainichen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/hainichen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4781481,
+          50.9604975
+        ]
+      },
+      "properties": {
+        "name": "Hohlstedt",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/hohlstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5222238,
+          50.9564306
+        ]
+      },
+      "properties": {
+        "name": "Isserstedt",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/isserstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6052854,
+          50.8325699
+        ]
+      },
+      "properties": {
+        "name": "J\u00e4gersdorf",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jaegersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879359,
+          50.9281717
+        ]
+      },
+      "properties": {
+        "name": "Jena",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5564906,
+          50.9047768
+        ]
+      },
+      "properties": {
+        "name": "Jena-Ammerbach",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-ammerbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593222,
+          50.8967027
+        ]
+      },
+      "properties": {
+        "name": "Jena-Burgau",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-burgau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879359,
+          50.9281717
+        ]
+      },
+      "properties": {
+        "name": "Jena Entbindungsanstalt",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-entbindungsanstalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "Jena-Garnison",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-garnison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879359,
+          50.9281717
+        ]
+      },
+      "properties": {
+        "name": "Jena Kinderklinik",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-kinderklinik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879359,
+          50.9281717
+        ]
+      },
+      "properties": {
+        "name": "Jena Landesheilanstalt",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-landesheilanstalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5482692,
+          50.9141636
+        ]
+      },
+      "properties": {
+        "name": "Jena-Lichtenhain",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-lichtenhain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6910605,
+          50.9489126
+        ]
+      },
+      "properties": {
+        "name": "Jenal\u00f6bnitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jenaloebnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6112615,
+          50.9507034
+        ]
+      },
+      "properties": {
+        "name": "Jena-L\u00f6bstedt",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-loebstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6506107,
+          50.9255457
+        ]
+      },
+      "properties": {
+        "name": "Jenaprie\u00dfnitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jenapriessnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5837186,
+          50.8946693
+        ]
+      },
+      "properties": {
+        "name": "Jena-Winzerla",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-winzerla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6297207,
+          50.9156157
+        ]
+      },
+      "properties": {
+        "name": "Jena-Ziegenhain",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/jena-ziegenhain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6986669,
+          50.9261241
+        ]
+      },
+      "properties": {
+        "name": "Kleinl\u00f6bichau",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/kleinloebichau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4607956,
+          50.9310771
+        ]
+      },
+      "properties": {
+        "name": "Kleinschwabhausen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/kleinschwabhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4846594,
+          50.9619435
+        ]
+      },
+      "properties": {
+        "name": "K\u00f6tschau",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/koetschau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5512396,
+          50.974405
+        ]
+      },
+      "properties": {
+        "name": "Krippendorf",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/krippendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.635547,
+          50.955367
+        ]
+      },
+      "properties": {
+        "name": "Kunitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/kunitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5795506,
+          50.98187
+        ]
+      },
+      "properties": {
+        "name": "Lehesten",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/lehesten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5668813,
+          50.8692834
+        ]
+      },
+      "properties": {
+        "name": "Leutra",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/leutra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021667,
+          50.892578
+        ]
+      },
+      "properties": {
+        "name": "Lobeda",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/lobeda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6998139,
+          50.9657287
+        ]
+      },
+      "properties": {
+        "name": "L\u00f6bersch\u00fctz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/loeberschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.553839,
+          50.9593499
+        ]
+      },
+      "properties": {
+        "name": "L\u00fctzeroda",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/luetzeroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4463291,
+          50.9065543
+        ]
+      },
+      "properties": {
+        "name": "Magdala",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/magdala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.410282,
+          50.906405
+        ]
+      },
+      "properties": {
+        "name": "Maina",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/maina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976041,
+          50.8680682
+        ]
+      },
+      "properties": {
+        "name": "Maua",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/maua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7319254,
+          51.232366
+        ]
+      },
+      "properties": {
+        "name": "M\u00fcncheroda",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/muencheroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5410382,
+          50.8901139
+        ]
+      },
+      "properties": {
+        "name": "Nennsdorf",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/nennsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59527,
+          50.9916579
+        ]
+      },
+      "properties": {
+        "name": "Nerkewitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/nerkewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6479246,
+          50.9873559
+        ]
+      },
+      "properties": {
+        "name": "Neueng\u00f6nna",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/neuengoenna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6062933,
+          50.8457622
+        ]
+      },
+      "properties": {
+        "name": "Oelknitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/oelknitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5458551,
+          50.8791812
+        ]
+      },
+      "properties": {
+        "name": "O\u00dfmaritz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/ossmaritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4226597,
+          50.9131014
+        ]
+      },
+      "properties": {
+        "name": "Ottstedt",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/ottstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.693602,
+          51.1027476
+        ]
+      },
+      "properties": {
+        "name": "R\u00f6digen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/roedigen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059951,
+          50.8504189
+        ]
+      },
+      "properties": {
+        "name": "Rothenstein",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/rothenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6213004,
+          50.8751012
+        ]
+      },
+      "properties": {
+        "name": "Rutha",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/rutha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4875184,
+          50.8743133
+        ]
+      },
+      "properties": {
+        "name": "Schorba",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/schorba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6024234,
+          50.9985963
+        ]
+      },
+      "properties": {
+        "name": "Stiebritz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/stiebritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5358057,
+          50.9733465
+        ]
+      },
+      "properties": {
+        "name": "Vierzehnheiligen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/vierzehnheiligen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.650752,
+          50.927324
+        ]
+      },
+      "properties": {
+        "name": "Wogau",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/wogau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.608161,
+          50.9071449
+        ]
+      },
+      "properties": {
+        "name": "W\u00f6llnitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/woellnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626978,
+          51.0066041
+        ]
+      },
+      "properties": {
+        "name": "Zimmern",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/zimmern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6436475,
+          50.8697443
+        ]
+      },
+      "properties": {
+        "name": "Z\u00f6llnitz",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/zoellnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132902,
+          50.9643266
+        ]
+      },
+      "properties": {
+        "name": "Zw\u00e4tzen",
+        "district": "Kirchenkreis Jena",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/zwaetzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.391611,
           50.498982
         ]
