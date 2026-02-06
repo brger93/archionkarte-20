@@ -7974,6 +7974,1430 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.01110,
+          50.92883
+        ]
+      },
+      "properties": {
+        "name": "Bad Köstritz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/bad-koestritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1977762,
+          50.9286412
+        ]
+      },
+      "properties": {
+        "name": "Bethenhausen",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/bethenhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01450,
+          50.78528
+        ]
+      },
+      "properties": {
+        "name": "Burkersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/burkersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.126580,
+          50.913621
+        ]
+      },
+      "properties": {
+        "name": "Dorna",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/dorna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0288096,
+          50.8504728
+        ]
+      },
+      "properties": {
+        "name": "D\u00fcrrenebersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/duerrenebersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1366066,
+          50.7864133
+        ]
+      },
+      "properties": {
+        "name": "Endsch\u00fctz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/endschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9700915,
+          50.7355865
+        ]
+      },
+      "properties": {
+        "name": "Forstwolfersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/forstwolfersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01144,
+          50.87926
+        ]
+      },
+      "properties": {
+        "name": "Frankenthal",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/frankenthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9900173,
+          50.7800042
+        ]
+      },
+      "properties": {
+        "name": "Frie\u00dfnitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/friessnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9991688,
+          50.8609707
+        ]
+      },
+      "properties": {
+        "name": "Gei\u00dfen",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/geissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0832674,
+          50.8765528
+        ]
+      },
+      "properties": {
+        "name": "Gera",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/gera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0832674,
+          50.8765528
+        ]
+      },
+      "properties": {
+        "name": "Gera (Milit\u00e4r)",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/gera-militaer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.720217,
+          51.2602401
+        ]
+      },
+      "properties": {
+        "name": "Gleina",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/gleina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.002567,
+          50.770594
+        ]
+      },
+      "properties": {
+        "name": "Grochwitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/grochwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0862045,
+          50.9663081
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfaga",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/grossaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9679119,
+          50.8211711
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfbocka",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/grossbocka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.952494,
+          50.786698
+        ]
+      },
+      "properties": {
+        "name": "Großebersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/grossebersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1271349,
+          50.8039623
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dffalka",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/grossfalka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9798116,
+          50.8583188
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfsaara",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/grosssaara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.936802,
+          50.876731
+        ]
+      },
+      "properties": {
+        "name": "Harpersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/harpersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9827889,
+          50.9621391
+        ]
+      },
+      "properties": {
+        "name": "Hartmannsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/hartmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.188559,
+          50.941400
+        ]
+      },
+      "properties": {
+        "name": "Hirschfeld",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/hirschfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0832436,
+          50.7372322
+        ]
+      },
+      "properties": {
+        "name": "Hohen\u00f6lsen",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/hohenoelsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9888871,
+          50.830953
+        ]
+      },
+      "properties": {
+        "name": "Hundhaupten",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/hundhaupten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1222359,
+          50.8482884
+        ]
+      },
+      "properties": {
+        "name": "Kaimberg",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/kaimberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5620703,
+          50.8502718
+        ]
+      },
+      "properties": {
+        "name": "Kleinbernsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/kleinbernsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9696433,
+          50.8104663
+        ]
+      },
+      "properties": {
+        "name": "Kleinbocka",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/kleinbocka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0937544,
+          50.7449559
+        ]
+      },
+      "properties": {
+        "name": "Kleindraxdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/kleindraxdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0441953,
+          50.7890235
+        ]
+      },
+      "properties": {
+        "name": "K\u00f6ckritz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/koeckritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0362747,
+          50.7892946
+        ]
+      },
+      "properties": {
+        "name": "K\u00f6feln",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/koefeln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9180397,
+          50.8759453
+        ]
+      },
+      "properties": {
+        "name": "Kraftsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/kraftsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.05765,
+          50.91666
+        ]
+      },
+      "properties": {
+        "name": "Langenberg",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/langenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9207256,
+          50.7997486
+        ]
+      },
+      "properties": {
+        "name": "Lederhose",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/lederhose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1547846,
+          50.7947394
+        ]
+      },
+      "properties": {
+        "name": "Letzendorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/letzendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1095933,
+          50.8795274
+        ]
+      },
+      "properties": {
+        "name": "Leumnitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/leumnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0884531,
+          50.8303468
+        ]
+      },
+      "properties": {
+        "name": "Liebschwitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/liebschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.911313,
+          50.8415222
+        ]
+      },
+      "properties": {
+        "name": "Lindenkreuz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/lindenkreuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.051029,
+          50.735827
+        ]
+      },
+      "properties": {
+        "name": "Loitsch",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/loitsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0624222,
+          50.8460265
+        ]
+      },
+      "properties": {
+        "name": "Lusan",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/lusan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.99825,
+          50.83637
+        ]
+      },
+      "properties": {
+        "name": "Markersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/markersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9532769,
+          52.1405163
+        ]
+      },
+      "properties": {
+        "name": "M\u00f6ckern",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/moeckern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.80095,
+          50.87112
+        ]
+      },
+      "properties": {
+        "name": "Mörsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/moersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.122062,
+          50.789781
+        ]
+      },
+      "properties": {
+        "name": "Mosen",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/mosen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00751,
+          50.89984
+        ]
+      },
+      "properties": {
+        "name": "Mühlsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/muehlsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9330185,
+          50.8206082
+        ]
+      },
+      "properties": {
+        "name": "M\u00fcnchenbernsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/muenchenbernsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20277,
+          50.56200
+        ]
+      },
+      "properties": {
+        "name": "Neudörfel",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/neudoerfel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7684958,
+          50.6013998
+        ]
+      },
+      "properties": {
+        "name": "Neundorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/neundorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1117058,
+          50.8214664
+        ]
+      },
+      "properties": {
+        "name": "Niebra",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/niebra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.974484,
+          50.881551
+        ]
+      },
+      "properties": {
+        "name": "Niederndorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/niederndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9591017,
+          50.7571078
+        ]
+      },
+      "properties": {
+        "name": "Niederp\u00f6llnitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/niederpoellnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.015560,
+          50.796071
+        ]
+      },
+      "properties": {
+        "name": "Nonnendorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/nonnendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0654389,
+          50.8349426
+        ]
+      },
+      "properties": {
+        "name": "Oberr\u00f6ppisch",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/oberroeppisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0248996,
+          50.9384864
+        ]
+      },
+      "properties": {
+        "name": "Pohlitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/pohlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1957505,
+          50.952017
+        ]
+      },
+      "properties": {
+        "name": "P\u00f6lzig",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/poelzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9908437,
+          50.8954379
+        ]
+      },
+      "properties": {
+        "name": "P\u00f6rsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/poersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9735782,
+          50.9189335
+        ]
+      },
+      "properties": {
+        "name": "Reichardtsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/reichardtsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.298936,
+          50.6200076
+        ]
+      },
+      "properties": {
+        "name": "Reichenbach",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/reichenbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.053884,
+          50.940600
+        ]
+      },
+      "properties": {
+        "name": "Roben",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/roben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9831585,
+          50.752421
+        ]
+      },
+      "properties": {
+        "name": "Rohna",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/rohna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1097577,
+          50.9131639
+        ]
+      },
+      "properties": {
+        "name": "R\u00f6psen",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/roepsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0832087,
+          50.9077974
+        ]
+      },
+      "properties": {
+        "name": "Rosch\u00fctz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/roschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.958051,
+          50.898905
+        ]
+      },
+      "properties": {
+        "name": "Rüdersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/ruedersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.020032,
+          50.760187
+        ]
+      },
+      "properties": {
+        "name": "Schömberg",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/schoemberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.963954,
+          50.841404
+        ]
+      },
+      "properties": {
+        "name": "Schöna",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/schoena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "Sch\u00fcptiz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/schueptiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1425806,
+          50.903505
+        ]
+      },
+      "properties": {
+        "name": "Schwaara",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/schwaara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.876824,
+          50.797740
+        ]
+      },
+      "properties": {
+        "name": "Schwarzbach",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/schwarzbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016532,
+          50.806692
+        ]
+      },
+      "properties": {
+        "name": "Seifersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/seifersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0485907,
+          50.8102064
+        ]
+      },
+      "properties": {
+        "name": "Sirbis",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/sirbis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1466231,
+          50.9371808
+        ]
+      },
+      "properties": {
+        "name": "S\u00f6llmnitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/soellmnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0390022,
+          50.7451443
+        ]
+      },
+      "properties": {
+        "name": "Steinsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/steinsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.900966,
+          50.856079
+        ]
+      },
+      "properties": {
+        "name": "St. Gangloff",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/st-gangloff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0851137,
+          50.7578333
+        ]
+      },
+      "properties": {
+        "name": "Teichwitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/teichwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0437095,
+          50.9048883
+        ]
+      },
+      "properties": {
+        "name": "Thieschitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/thieschitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1313252,
+          50.8652683
+        ]
+      },
+      "properties": {
+        "name": "Thr\u00e4nitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/thraenitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0733652,
+          50.9023319
+        ]
+      },
+      "properties": {
+        "name": "Tinz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/tinz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12886,
+          50.89599
+        ]
+      },
+      "properties": {
+        "name": "Trebnitz",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/trebnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9394327,
+          50.7353255
+        ]
+      },
+      "properties": {
+        "name": "Uhlersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/uhlersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0679029,
+          50.8859311
+        ]
+      },
+      "properties": {
+        "name": "Untermhaus",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/untermhaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.069854,
+          50.8309524
+        ]
+      },
+      "properties": {
+        "name": "Unterr\u00f6ppisch",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/unterroeppisch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.089972,
+          50.793573
+        ]
+      },
+      "properties": {
+        "name": "Veitsberg",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/veitsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.18943,
+          50.71967
+        ]
+      },
+      "properties": {
+        "name": "Waltersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/waltersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0470063,
+          50.7581426
+        ]
+      },
+      "properties": {
+        "name": "Weida",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/weida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.026927,
+          50.838266
+        ]
+      },
+      "properties": {
+        "name": "Weißig",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/weissig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.152907,
+          50.946059
+        ]
+      },
+      "properties": {
+        "name": "Wernsdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/wernsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.938335,
+          50.748381
+        ]
+      },
+      "properties": {
+        "name": "Wetzdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/wetzdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1057201,
+          50.729746
+        ]
+      },
+      "properties": {
+        "name": "Wittchendorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/wittchendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.172533,
+          50.782184
+        ]
+      },
+      "properties": {
+        "name": "Wolfersdorf",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/wolfersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0886178,
+          50.8516264
+        ]
+      },
+      "properties": {
+        "name": "Zwötzen",
+        "district": "Kirchenkreis Gera",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-gera/zwoetzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.699355,
           50.947308
         ]
