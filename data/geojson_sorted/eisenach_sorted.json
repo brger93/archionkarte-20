@@ -470,8 +470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1494884,
-          50.8395381
+          12.144714,
+          50.844644
         ]
       },
       "properties": {
@@ -518,8 +518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5696216,
-          50.9694667
+          12.587778,
+          50.958538
         ]
       },
       "properties": {
@@ -8374,8 +8374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5620703,
-          50.8502718
+          11.941753,
+          50.832777
         ]
       },
       "properties": {
@@ -13414,12 +13414,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.693602,
-          51.1027476
+          11.601143,
+          50.980941
         ]
       },
       "properties": {
-        "name": "R\u00f6digen",
+        "name": "Rödigen",
         "district": "Kirchenkreis Jena",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-jena/roedigen"
