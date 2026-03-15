@@ -59,7 +59,7 @@ def get_long_and_lat(archive_list: list) -> tuple[list, list]:
             lat.append(0)
             long.append(0)
         # apply sleep time to comply with Nominatim GTCs
-        time.sleep(0.5)
+        time.sleep(1.5)
 
     logger.info("Geodata was processed.")
     return lat, long

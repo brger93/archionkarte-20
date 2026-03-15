@@ -310,12 +310,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.4768119,
+          50.9153389
+        ]
+      },
+      "properties": {
+        "name": "Gieba",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/gieba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.3535333,
           50.9763415
         ]
       },
       "properties": {
-        "name": "G\u00f6dern",
+        "name": "Gödern",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/goedern"
@@ -331,7 +347,7 @@
         ]
       },
       "properties": {
-        "name": "G\u00f6llnitz",
+        "name": "Göllnitz",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/goellnitz"
@@ -347,10 +363,42 @@
         ]
       },
       "properties": {
-        "name": "G\u00f6pfersdorf",
+        "name": "Göpfersdorf",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/goepfersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.431532,
+          50.889108
+        ]
+      },
+      "properties": {
+        "name": "Gößnitz",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/goessnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1961536,
+          50.9003361
+        ]
+      },
+      "properties": {
+        "name": "Großenstein",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/grossenstein"
       }
     },
     {
@@ -363,7 +411,7 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00dfr\u00f6da",
+        "name": "Großröda",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/grossroeda"
@@ -379,7 +427,7 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00dfstechau",
+        "name": "Großstechau",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/grossstechau"
@@ -395,7 +443,7 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00dfst\u00f6bnitz",
+        "name": "Großstöbnitz",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/grossstoebnitz"
@@ -427,7 +475,7 @@
         ]
       },
       "properties": {
-        "name": "Haselbach b. Schm\u00f6lln",
+        "name": "Haselbach b. Schmölln",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/haselbach-b-schmoelln"
@@ -479,6 +527,22 @@
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/kauern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.170441,
+          50.8918886
+        ]
+      },
+      "properties": {
+        "name": "Korbußen",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/korbussen"
       }
     },
     {
@@ -726,6 +790,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.18871,
+          50.91297
+        ]
+      },
+      "properties": {
+        "name": "Nauendorf",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/nauendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.265996,
           50.976935
         ]
@@ -735,6 +815,22 @@
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/naundorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6004991,
+          50.9800464
+        ]
+      },
+      "properties": {
+        "name": "Neuenmörbitz",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/neuenmoerbitz"
       }
     },
     {
@@ -763,7 +859,7 @@
         ]
       },
       "properties": {
-        "name": "N\u00f6bdenitz",
+        "name": "Nöbdenitz",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/noebdenitz"
@@ -811,7 +907,7 @@
         ]
       },
       "properties": {
-        "name": "Oberl\u00f6dla",
+        "name": "Oberlödla",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/oberloedla"
@@ -859,7 +955,7 @@
         ]
       },
       "properties": {
-        "name": "Pr\u00f6\u00dfdorf",
+        "name": "Prößdorf",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/proessdorf"
@@ -879,6 +975,22 @@
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/raitzhain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2255697,
+          50.9286928
+        ]
+      },
+      "properties": {
+        "name": "Reichstädt-Frankenau",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/reichstaedt-frankenau"
       }
     },
     {
@@ -907,7 +1019,7 @@
         ]
       },
       "properties": {
-        "name": "Romsch\u00fctz",
+        "name": "Romschütz",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/romschuetz"
@@ -955,7 +1067,7 @@
         ]
       },
       "properties": {
-        "name": "R\u00fcckersdorf",
+        "name": "Rückersdorf",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/rueckersdorf"
@@ -987,7 +1099,7 @@
         ]
       },
       "properties": {
-        "name": "Schm\u00f6lln",
+        "name": "Schmölln",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/schmoelln"
@@ -1035,7 +1147,7 @@
         ]
       },
       "properties": {
-        "name": "St\u00fcnzhain",
+        "name": "Stünzhain",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/stuenzhain"
@@ -1083,7 +1195,7 @@
         ]
       },
       "properties": {
-        "name": "Thr\u00e4na",
+        "name": "Thräna",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/thraena"
@@ -1179,7 +1291,7 @@
         ]
       },
       "properties": {
-        "name": "Wildenb\u00f6rten",
+        "name": "Wildenbörten",
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/wildenboerten"
@@ -1222,6 +1334,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.6327504,
+          50.9147867
+        ]
+      },
+      "properties": {
+        "name": "Wolperndorf",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/wolperndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.252811,
           51.056090
         ]
@@ -1247,6 +1375,22 @@
         "district": "Kirchenkreis Altenburger Land",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
         "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/zipsendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5012484,
+          50.898272
+        ]
+      },
+      "properties": {
+        "name": "Zumroda",
+        "district": "Kirchenkreis Altenburger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Eisenach",
+        "path": "/de/alle-archive/thueringen/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/eisenach/kirchenkreis-altenburger-land/zumroda"
       }
     },
     {
