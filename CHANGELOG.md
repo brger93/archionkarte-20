@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.3.0] - 2026-03-15
+### Added
+* *eisenach_sorted.json* was extended by part 2 of *Kirchenkreis Altenburger Land*
+
 ## [5.2.0] - 2026-02-06
 ### Added
 * *eisenach_sorted.json* was extended by *Kirchenkreis Gera* and *Kirchenkreis Jena*
