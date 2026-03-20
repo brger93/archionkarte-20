@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.4.0] - 2026-03-20
+### Added
+* *bremen_sorted.json* was added
+
 ## [5.3.0] - 2026-03-15
 ### Added
 * *eisenach_sorted.json* was extended by part 2 of *Kirchenkreis Altenburger Land*
