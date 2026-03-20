@@ -1,0 +1,553 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.917544,
+          53.04178
+        ]
+      },
+      "properties": {
+        "name": "Arbergen",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/arbergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842906,
+          53.030323
+        ]
+      },
+      "properties": {
+        "name": "Arsten",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/arsten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6211789,
+          53.1737543
+        ]
+      },
+      "properties": {
+        "name": "Aumund",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/aumund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57544,
+          53.18657
+        ]
+      },
+      "properties": {
+        "name": "Blumenthal (lutherische Gemeinde)",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/blumenthal-lutherische-gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58321,
+          53.18244
+        ]
+      },
+      "properties": {
+        "name": "Blumenthal (reformierte Gemeinde)",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/blumenthal-reformierte-gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.905045,
+          53.1253
+        ]
+      },
+      "properties": {
+        "name": "Borgfeld",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/borgfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8071646,
+          53.0758196
+        ]
+      },
+      "properties": {
+        "name": "Bremen, Französische Gemeinde",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-franzoesische-gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83353,
+          53.07362
+        ]
+      },
+      "properties": {
+        "name": "Bremen, Friedenskirche",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-friedenskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84391,
+          53.08329
+        ]
+      },
+      "properties": {
+        "name": "Bremen, Israelitische Gemeinde",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-israelitische-gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80816,
+          53.07369
+        ]
+      },
+      "properties": {
+        "name": "Bremen, Propstei St. Johann",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-propstei-st-johann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83159,
+          53.08172
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Ansgarii",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-ansgarii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.88903,
+          53.05858
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Godehard",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-godehard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80732,
+          53.06091
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Jakobi",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-jakobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80433,
+          53.07494
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Martini",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-martini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79872,
+          53.08550
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Michaelis",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-michaelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.879789,
+          53.07182
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Pauli",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-pauli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80909,
+          53.07551
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Petri-Dom",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-petri-dom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85553,
+          53.08937
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Remberti",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-remberti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79423,
+          53.08069
+        ]
+      },
+      "properties": {
+        "name": "Bremen, St. Stephani",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-stephani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80745,
+          53.07647
+        ]
+      },
+      "properties": {
+        "name": "Bremen, Unser Lieben Frauen",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-unser-lieben-frauen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65576,
+          53.12864
+        ]
+      },
+      "properties": {
+        "name": "Büren",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bueren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71662,
+          53.14272
+        ]
+      },
+      "properties": {
+        "name": "Büren/Grambke",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bueren/grambke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7153232,
+          53.1435528
+        ]
+      },
+      "properties": {
+        "name": "Grambke",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/grambke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7630483,
+          53.116711
+        ]
+      },
+      "properties": {
+        "name": "Gröpelingen",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/groepelingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7916,
+          53.0860122
+        ]
+      },
+      "properties": {
+        "name": "Gröpelingen/Walle",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/groepelingen/walle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8689412,
+          53.0657713
+        ]
+      },
+      "properties": {
+        "name": "Hastedt",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/hastedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.86971,
+          53.09582
+        ]
+      },
+      "properties": {
+        "name": "Horn",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/horn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7422973,
+          53.0519445
+        ]
+      },
+      "properties": {
+        "name": "Huchting",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/huchting"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69078,
+          53.16801
+        ]
+      },
+      "properties": {
+        "name": "Lesum",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/lesum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93793,
+          53.09127
+        ]
+      },
+      "properties": {
+        "name": "Oberneuland",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/oberneuland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75486,
+          53.09199
+        ]
+      },
+      "properties": {
+        "name": "Rablinghausen",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/rablinghausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62164,
+          53.17323
+        ]
+      },
+      "properties": {
+        "name": "Vegesack",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/vegesack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77766,
+          53.10332
+        ]
+      },
+      "properties": {
+        "name": "Walle",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/walle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74040,
+          53.16339
+        ]
+      },
+      "properties": {
+        "name": "Wasserhorst",
+        "district": "Staatsarchiv Bremen",
+        "archive": "Staatsarchiv Bremen",
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/wasserhorst"
+      }
+    }
+  ],
+  "properties": {
+    "archive": "Staatsarchiv Bremen",
+    "created": "2026-03-20"
+  }
+}
