@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.5.0] - 2026-04-09
+### Added
+* *bayern_sorted.json* was extended by Dekanat Coburg
+
 ## [5.4.0] - 2026-03-20
 ### Added
 * *bremen_sorted.json* was added

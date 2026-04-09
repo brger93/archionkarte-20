@@ -3110,6 +3110,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.980025,
+          50.233063
+        ]
+      },
+      "properties": {
+        "name": "Coburg-Dr.-Martin-Luther-Kirche (Creidlitz)",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-dr-martin-luther-kirche-creidlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.964463,
           50.258112
         ]
@@ -3119,6 +3135,22 @@
         "district": "Dekanat Coburg",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-festungsgemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.964696,
+          50.264981
+        ]
+      },
+      "properties": {
+        "name": "Coburg-Heiligkreuz",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-heiligkreuz"
       }
     },
     {
@@ -3142,6 +3174,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.944585,
+          50.251079
+        ]
+      },
+      "properties": {
+        "name": "Coburg-Johanneskirche (Wüstenahorn)",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-johanneskirche-wuestenahorn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.926288,
           50.254401
         ]
@@ -3151,6 +3199,38 @@
         "district": "Dekanat Coburg",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-scheuerfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.978265,
+          50.245740
+        ]
+      },
+      "properties": {
+        "name": "Coburg-St. Lukas (Ketschendorf)",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-st-lukas-ketschendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.949349,
+          50.261021
+        ]
+      },
+      "properties": {
+        "name": "Coburg-St. Markus",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-st-markus"
       }
     },
     {
@@ -3183,6 +3263,70 @@
         "district": "Dekanat Coburg",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-st-moriz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.999551,
+          50.250145
+        ]
+      },
+      "properties": {
+        "name": "Coburg-Unserer Lieben Frau (Seidmannsdorf)",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/coburg-unserer-lieben-frau-seidmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.996193,
+          50.283934
+        ]
+      },
+      "properties": {
+        "name": "Dörfles b. Coburg-Esbach",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/doerfles-bcoburg-esbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.070810,
+          50.220063
+        ]
+      },
+      "properties": {
+        "name": "Ebersdorf b. Coburg",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/ebersdorf-bcoburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.044959,
+          50.287398
+        ]
+      },
+      "properties": {
+        "name": "Einberg",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/einberg"
       }
     },
     {
@@ -3318,6 +3462,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.022235,
+          50.228830
+        ]
+      },
+      "properties": {
+        "name": "Grub a. Forst",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/grub-aforst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.102822,
+          50.321672
+        ]
+      },
+      "properties": {
+        "name": "Haarbrücken",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/haarbruecken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.188695,
+          50.257629
+        ]
+      },
+      "properties": {
+        "name": "Hassenberg",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/hassenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.804728,
           50.358025
         ]
@@ -3327,6 +3519,38 @@
         "district": "Dekanat Coburg",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/heldritt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.905529,
+          50.321936
+        ]
+      },
+      "properties": {
+        "name": "Meeder",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/meeder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.059987,
+          50.300593
+        ]
+      },
+      "properties": {
+        "name": "Mönchröden",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/moenchroeden"
       }
     },
     {
@@ -3366,6 +3590,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.03564,
+          50.29767
+        ]
+      },
+      "properties": {
+        "name": "Oeslau",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/oeslau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.844014,
           50.35276
         ]
@@ -3375,6 +3615,22 @@
         "district": "Dekanat Coburg",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/oettingshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.883463,
+          50.354545
+        ]
+      },
+      "properties": {
+        "name": "Ottowind",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/ottowind"
       }
     },
     {
@@ -3446,6 +3702,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.134257,
+          50.221847
+        ]
+      },
+      "properties": {
+        "name": "Sonnefeld",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/sonnefeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.977934,
           50.298425
         ]
@@ -3494,6 +3766,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.140003,
+          50.204323
+        ]
+      },
+      "properties": {
+        "name": "Weidhausen b. Coburg",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/weidhausen-bcoburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.879411,
           50.255237
         ]
@@ -3519,6 +3807,38 @@
         "district": "Dekanat Coburg",
         "archive": "Ev.-Luth. Kirche in Bayern",
         "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/weissenbrunn-vorm-wald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.90701,
+          50.29992
+        ]
+      },
+      "properties": {
+        "name": "Wiesenfeld",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/wiesenfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.126500,
+          50.347809
+        ]
+      },
+      "properties": {
+        "name": "Wildenheid-Meilschnitz",
+        "district": "Dekanat Coburg",
+        "archive": "Ev.-Luth. Kirche in Bayern",
+        "path": "/de/alle-archive/bayern/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-bayern/dekanat-coburg/wildenheid-meilschnitz"
       }
     },
     {
