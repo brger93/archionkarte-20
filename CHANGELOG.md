@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.6.0] - 2026-04-17
+### Added
+* *magdeburg.json* was extended by *Kirchenkreis Henneberger Land*
+
 ## [5.5.0] - 2026-04-09
 ### Added
 * *bayern_sorted.json* was extended by Dekanat Coburg
