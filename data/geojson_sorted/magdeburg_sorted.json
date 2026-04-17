@@ -14486,6 +14486,278 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.6396994,
+          50.6181261
+        ]
+      },
+      "properties": {
+        "name": "Albrechts (St. Nicolai)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/albrechts-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5933014,
+          50.6440416
+        ]
+      },
+      "properties": {
+        "name": "Benshausen",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/benshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4761707,
+          50.6606182
+        ]
+      },
+      "properties": {
+        "name": "Christes",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/christes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5922881,
+          50.6021815
+        ]
+      },
+      "properties": {
+        "name": "Dietzhausen",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/dietzhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5353491,
+          50.5832183
+        ]
+      },
+      "properties": {
+        "name": "Dillstädt",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/dillstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.57012,
+          50.62707
+        ]
+      },
+      "properties": {
+        "name": "Ebertshausen",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/ebertshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.859965,
+          50.5855442
+        ]
+      },
+      "properties": {
+        "name": "Frauenwald",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/frauenwald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4931358,
+          50.609564
+        ]
+      },
+      "properties": {
+        "name": "Kühndorf",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/kuehndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6276686,
+          50.6050472
+        ]
+      },
+      "properties": {
+        "name": "Mäbendorf (St. Ulrich)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/maebendorf-st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49940,
+          50.57825
+        ]
+      },
+      "properties": {
+        "name": "Rohr (St. Michaelis)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/rohr-st-michaelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53307,
+          50.62774
+        ]
+      },
+      "properties": {
+        "name": "Schwarza",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/schwarza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8628271,
+          50.6358451
+        ]
+      },
+      "properties": {
+        "name": "Stützerbach (Kirche Christus)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/stuetzerbach-kirche-christus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6926437,
+          50.6086518
+        ]
+      },
+      "properties": {
+        "name": "Suhl (Hauptkirche St. Marien)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/suhl-hauptkirche-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6926437,
+          50.6086518
+        ]
+      },
+      "properties": {
+        "name": "Suhl Heinrichs (St. Ulrich)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/suhl-heinrichs-st-ulrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6926437,
+          50.6086518
+        ]
+      },
+      "properties": {
+        "name": "Suhl (Kreuzkirche)",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/suhl-kreuzkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5538595,
+          50.6670409
+        ]
+      },
+      "properties": {
+        "name": "Viernau",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/viernau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5734654,
+          50.6010647
+        ]
+      },
+      "properties": {
+        "name": "Wichtshausen",
+        "district": "Kirchenkreis Henneberger Land",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-henneberger-land/wichtshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.64063,
           52.14157
         ]
