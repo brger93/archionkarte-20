@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.7.0] - 2026-05-08
+### Added
+* *magdeburg.json* was extended by *Kirchenkreis Südharz*
+
 ## [5.6.0] - 2026-04-17
 ### Added
 * *magdeburg.json* was extended by *Kirchenkreis Henneberger Land*
