@@ -59,7 +59,7 @@
         ]
       },
       "properties": {
-        "name": "G\u00fcntersberge",
+        "name": "Güntersberge",
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/guentersberge"
@@ -107,7 +107,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00e4gdesprung",
+        "name": "Mägdesprung",
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/maegdesprung"
@@ -331,7 +331,7 @@
         ]
       },
       "properties": {
-        "name": "Dr\u00f6bel",
+        "name": "Dröbel",
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/droebel"
@@ -411,7 +411,7 @@
         ]
       },
       "properties": {
-        "name": "G\u00fcsten",
+        "name": "Güsten",
         "district": "Kirchenkreis Bernburg",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-bernburg/guesten"
@@ -683,7 +683,7 @@
         ]
       },
       "properties": {
-        "name": "Altje\u00dfnitz",
+        "name": "Altjeßnitz",
         "district": "Kirchenkreis Dessau",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/altjessnitz"
@@ -955,7 +955,7 @@
         ]
       },
       "properties": {
-        "name": "Je\u00dfnitz",
+        "name": "Jeßnitz",
         "district": "Kirchenkreis Dessau",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-dessau/jessnitz"
@@ -1164,7 +1164,7 @@
       },
       "properties": {
         "name": "Baasdorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/baasdorf"
       }
@@ -1180,7 +1180,7 @@
       },
       "properties": {
         "name": "Biendorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/biendorf"
       }
@@ -1195,8 +1195,8 @@
         ]
       },
       "properties": {
-        "name": "C\u00f6rmigk",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Cörmigk",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/coermigk"
       }
@@ -1212,7 +1212,7 @@
       },
       "properties": {
         "name": "Diebzig",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/diebzig"
       }
@@ -1228,7 +1228,7 @@
       },
       "properties": {
         "name": "Dohndorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/dohndorf"
       }
@@ -1244,7 +1244,7 @@
       },
       "properties": {
         "name": "Edderitz",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/edderitz"
       }
@@ -1260,7 +1260,7 @@
       },
       "properties": {
         "name": "Gnetsch",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/gnetsch"
       }
@@ -1275,8 +1275,8 @@
         ]
       },
       "properties": {
-        "name": "G\u00f6rzig",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Görzig",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/goerzig"
       }
@@ -1291,8 +1291,8 @@
         ]
       },
       "properties": {
-        "name": "Gr\u00f6bzig",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Gröbzig",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/groebzig"
       }
@@ -1307,8 +1307,8 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00dfbadegast",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Großbadegast",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/grossbadegast"
       }
@@ -1323,8 +1323,8 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00dfpaschleben",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Großpaschleben",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/grosspaschleben"
       }
@@ -1340,7 +1340,7 @@
       },
       "properties": {
         "name": "Hohnsdorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/hohnsdorf"
       }
@@ -1356,7 +1356,7 @@
       },
       "properties": {
         "name": "Kleinpaschleben",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/kleinpaschleben"
       }
@@ -1371,8 +1371,8 @@
         ]
       },
       "properties": {
-        "name": "Kleinw\u00fclknitz",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Kleinwülknitz",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/kleinwuelknitz"
       }
@@ -1388,7 +1388,7 @@
       },
       "properties": {
         "name": "Klepzig",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/klepzig"
       }
@@ -1403,8 +1403,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6then, Martinskirche",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Köthen, Martinskirche",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/koethen-martinskirche"
       }
@@ -1419,8 +1419,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6then, Schlossgemeinde",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Köthen, Schlossgemeinde",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/koethen-schlossgemeinde"
       }
@@ -1435,8 +1435,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6then, St. Agnus",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Köthen, St. Agnus",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/koethen-st-agnus"
       }
@@ -1451,8 +1451,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6then, St. Jakob",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Köthen, St. Jakob",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/koethen-st-jakob"
       }
@@ -1467,8 +1467,8 @@
         ]
       },
       "properties": {
-        "name": "L\u00f6bnitz an der Linde",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Löbnitz an der Linde",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/loebnitz-an-der-linde"
       }
@@ -1484,7 +1484,7 @@
       },
       "properties": {
         "name": "Maxdorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/maxdorf"
       }
@@ -1500,7 +1500,7 @@
       },
       "properties": {
         "name": "Merzien",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/merzien"
       }
@@ -1516,7 +1516,7 @@
       },
       "properties": {
         "name": "Osternienburg",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/osternienburg"
       }
@@ -1531,8 +1531,8 @@
         ]
       },
       "properties": {
-        "name": "Pi\u00dfdorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Pißdorf",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/pissdorf"
       }
@@ -1547,8 +1547,8 @@
         ]
       },
       "properties": {
-        "name": "Preu\u00dflitz",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Preußlitz",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/preusslitz"
       }
@@ -1564,7 +1564,7 @@
       },
       "properties": {
         "name": "Prosigk",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/prosigk"
       }
@@ -1580,7 +1580,7 @@
       },
       "properties": {
         "name": "Radegast",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/radegast"
       }
@@ -1596,7 +1596,7 @@
       },
       "properties": {
         "name": "Reinsdorf",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/reinsdorf"
       }
@@ -1612,7 +1612,7 @@
       },
       "properties": {
         "name": "Schortewitz",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/schortewitz"
       }
@@ -1628,7 +1628,7 @@
       },
       "properties": {
         "name": "Weißandt-Gölzau",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/weissandt-goelzau"
       }
@@ -1643,8 +1643,8 @@
         ]
       },
       "properties": {
-        "name": "W\u00f6rbzig",
-        "district": "Kirchenkreis K\u00f6then",
+        "name": "Wörbzig",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/woerbzig"
       }
@@ -1660,7 +1660,7 @@
       },
       "properties": {
         "name": "Wulfen",
-        "district": "Kirchenkreis K\u00f6then",
+        "district": "Kirchenkreis Köthen",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-koethen/wulfen"
       }
@@ -1803,7 +1803,7 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6selitz",
+        "name": "Köselitz",
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/koeselitz"
@@ -1835,7 +1835,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00fchlstedt",
+        "name": "Mühlstedt",
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/muehlstedt"
@@ -1915,7 +1915,7 @@
         ]
       },
       "properties": {
-        "name": "W\u00f6rpen",
+        "name": "Wörpen",
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/woerpen"

@@ -74,7 +74,7 @@
       },
       "properties": {
         "archive": "Bistum Hildesheim",
-        "district": "G\u00f6ttingen",
+        "district": "Göttingen",
         "name": "St. Michael",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/goettingen/st-michael"
       },
@@ -187,7 +187,7 @@
       "properties": {
         "archive": "Bistum Hildesheim",
         "district": "Hildesheim",
-        "name": "Dom Mari\u00e4 Himmelfahrt",
+        "name": "Dom Mariä Himmelfahrt",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/hildesheim/dom-mariae-himmelfahrt"
       },
       "type": "Feature"
@@ -235,7 +235,7 @@
       "properties": {
         "archive": "Bistum Hildesheim",
         "district": "Hildesheim",
-        "name": "St. Bartholom\u00e4us",
+        "name": "St. Bartholomäus",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/hildesheim/st-bartholomaeus"
       },
       "type": "Feature"
@@ -283,7 +283,7 @@
       "properties": {
         "archive": "Bistum Hildesheim",
         "district": "Hildesheim",
-        "name": "St. Godehard, St. Stephanus, St. Peregius, St. Altfrid (Ochtersum, Lucienv\u00f6rde)",
+        "name": "St. Godehard, St. Stephanus, St. Peregius, St. Altfrid (Ochtersum, Lucienvörde)",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/hildesheim/st-godehard-st-stephanus-st-peregius-st-altfrid-ochtersum-lucienvoerde"
       },
       "type": "Feature"
@@ -331,7 +331,7 @@
       "properties": {
         "archive": "Bistum Hildesheim",
         "district": "Hildesheim",
-        "name": "St. Martinus (Himmelsth\u00fcr)",
+        "name": "St. Martinus (Himmelsthür)",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/hildesheim/st-martinus-himmelsthuer"
       },
       "type": "Feature"
@@ -395,7 +395,7 @@
       "properties": {
         "archive": "Bistum Hildesheim",
         "district": "Hildesheim",
-        "name": "Unbefleckte Empf\u00e4ngnis Mari\u00e4 (Bavenstedt)",
+        "name": "Unbefleckte Empfängnis Mariä (Bavenstedt)",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/hildesheim/unbefleckte-empfaengnis-mariae-bavenstedt"
       },
       "type": "Feature"
@@ -411,7 +411,7 @@
       "properties": {
         "archive": "Bistum Hildesheim",
         "district": "Hildesheim",
-        "name": "Unbefleckte Empf\u00e4ngnis Mari\u00e4 (Einum)",
+        "name": "Unbefleckte Empfängnis Mariä (Einum)",
         "path": "/de/alle-archive/niedersachsen/bistumsarchiv-hildesheim/hildesheim/unbefleckte-empfaengnis-mariae-einum"
       },
       "type": "Feature"

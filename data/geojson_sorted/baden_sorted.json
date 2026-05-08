@@ -27,7 +27,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Adelsheim-Boxberg",
-        "name": "Angelt\u00fcrn",
+        "name": "Angeltürn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/angeltuern"
       },
       "type": "Feature"
@@ -59,7 +59,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Adelsheim-Boxberg",
-        "name": "B\u00f6digheim",
+        "name": "Bödigheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/boedigheim"
       },
       "type": "Feature"
@@ -315,7 +315,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Adelsheim-Boxberg",
-        "name": "Obersch\u00fcpf",
+        "name": "Oberschüpf",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oberschuepf"
       },
       "type": "Feature"
@@ -523,7 +523,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Adelsheim-Boxberg",
-        "name": "Untersch\u00fcpf",
+        "name": "Unterschüpf",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/unterschuepf"
       },
       "type": "Feature"
@@ -571,7 +571,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Adelsheim-Boxberg",
-        "name": "W\u00f6lchingen",
+        "name": "Wölchingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/woelchingen"
       },
       "type": "Feature"
@@ -603,7 +603,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Baden-Baden & Rastatt",
-        "name": "B\u00fchl",
+        "name": "Bühl",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/buehl"
       },
       "type": "Feature"
@@ -651,7 +651,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Baden-Baden & Rastatt",
-        "name": "Rastatt Milit\u00e4rgemeinde",
+        "name": "Rastatt Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/rastatt-militaergemeinde"
       },
       "type": "Feature"
@@ -747,7 +747,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Badischer Enzkreis",
-        "name": "D\u00fcrrn",
+        "name": "Dürrn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/duerrn"
       },
       "type": "Feature"
@@ -811,7 +811,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Badischer Enzkreis",
-        "name": "G\u00f6brichen",
+        "name": "Göbrichen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/goebrichen"
       },
       "type": "Feature"
@@ -875,7 +875,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Badischer Enzkreis",
-        "name": "K\u00f6nigsbach",
+        "name": "Königsbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/koenigsbach"
       },
       "type": "Feature"
@@ -923,7 +923,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Badischer Enzkreis",
-        "name": "N\u00f6ttingen",
+        "name": "Nöttingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/noettingen"
       },
       "type": "Feature"
@@ -1099,7 +1099,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Breisgau-Hochschwarzwald",
-        "name": "B\u00f6tzingen",
+        "name": "Bötzingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/boetzingen"
       },
       "type": "Feature"
@@ -1179,7 +1179,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Breisgau-Hochschwarzwald",
-        "name": "Feldberg (M\u00fcllheim)",
+        "name": "Feldberg (Müllheim)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/feldberg-muellheim"
       },
       "type": "Feature"
@@ -1211,7 +1211,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Breisgau-Hochschwarzwald",
-        "name": "H\u00fcgelheim",
+        "name": "Hügelheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/huegelheim"
       },
       "type": "Feature"
@@ -1291,7 +1291,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Breisgau-Hochschwarzwald",
-        "name": "M\u00fcllheim",
+        "name": "Müllheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/muellheim"
       },
       "type": "Feature"
@@ -1435,7 +1435,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Breisgau-Hochschwarzwald",
-        "name": "V\u00f6gisheim",
+        "name": "Vögisheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/voegisheim"
       },
       "type": "Feature"
@@ -1499,7 +1499,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Bahnbr\u00fccken",
+        "name": "Bahnbrücken",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/bahnbruecken"
       },
       "type": "Feature"
@@ -1547,7 +1547,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Bruchsal Milit\u00e4rgemeinde",
+        "name": "Bruchsal Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/bruchsal-militaergemeinde"
       },
       "type": "Feature"
@@ -1563,7 +1563,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "B\u00fcchig",
+        "name": "Büchig",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/buechig"
       },
       "type": "Feature"
@@ -1595,7 +1595,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "D\u00fcrrenb\u00fcchig",
+        "name": "Dürrenbüchig",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/duerrenbuechig"
       },
       "type": "Feature"
@@ -1643,7 +1643,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "G\u00f6lshausen",
+        "name": "Gölshausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/goelshausen"
       },
       "type": "Feature"
@@ -1707,7 +1707,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "K\u00fcrnbach",
+        "name": "Kürnbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kuernbach"
       },
       "type": "Feature"
@@ -1723,7 +1723,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Langenbr\u00fccken",
+        "name": "Langenbrücken",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/langenbruecken"
       },
       "type": "Feature"
@@ -1755,7 +1755,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "M\u00fcnzesheim",
+        "name": "Münzesheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/muenzesheim"
       },
       "type": "Feature"
@@ -1771,7 +1771,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Nu\u00dfbaum",
+        "name": "Nußbaum",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/nussbaum"
       },
       "type": "Feature"
@@ -1803,7 +1803,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Ober\u00f6wisheim",
+        "name": "Oberöwisheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oberoewisheim"
       },
       "type": "Feature"
@@ -1819,7 +1819,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Oberw\u00f6ssingen",
+        "name": "Oberwössingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oberwoessingen"
       },
       "type": "Feature"
@@ -1931,7 +1931,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Unter\u00f6wisheim",
+        "name": "Unteröwisheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/unteroewisheim"
       },
       "type": "Feature"
@@ -1947,7 +1947,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Unterw\u00f6ssingen",
+        "name": "Unterwössingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/unterwoessingen"
       },
       "type": "Feature"
@@ -1963,7 +1963,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "Wagh\u00e4usel",
+        "name": "Waghäusel",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/waghaeusel"
       },
       "type": "Feature"
@@ -1979,7 +1979,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Bretten-Bruchsal",
-        "name": "W\u00f6ssingen",
+        "name": "Wössingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/woessingen"
       },
       "type": "Feature"
@@ -2123,7 +2123,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Emmendingen",
-        "name": "Freiamt Mu\u00dfbach",
+        "name": "Freiamt Mußbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/freiamt-mussbach"
       },
       "type": "Feature"
@@ -2187,7 +2187,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Emmendingen",
-        "name": "K\u00f6ndringen",
+        "name": "Köndringen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/koendringen"
       },
       "type": "Feature"
@@ -2203,7 +2203,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Emmendingen",
-        "name": "K\u00f6nigschaffhausen",
+        "name": "Königschaffhausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/koenigschaffhausen"
       },
       "type": "Feature"
@@ -2427,7 +2427,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Emmendingen",
-        "name": "V\u00f6rstetten",
+        "name": "Vörstetten",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/voerstetten"
       },
       "type": "Feature"
@@ -2571,7 +2571,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Freiburg",
-        "name": "Freiburg Milit\u00e4rgemeinde",
+        "name": "Freiburg Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/freiburg-militaergemeinde"
       },
       "type": "Feature"
@@ -2923,7 +2923,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Hochrhein",
-        "name": "S\u00e4ckingen",
+        "name": "Säckingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/saeckingen"
       },
       "type": "Feature"
@@ -3019,7 +3019,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe",
-        "name": "Gr\u00f6tzingen",
+        "name": "Grötzingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/groetzingen"
       },
       "type": "Feature"
@@ -3035,7 +3035,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe",
-        "name": "Gr\u00fcnwettersbach",
+        "name": "Grünwettersbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/gruenwettersbach"
       },
       "type": "Feature"
@@ -3115,7 +3115,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe",
-        "name": "Karlsruhe Milit\u00e4rgemeinde",
+        "name": "Karlsruhe Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/karlsruhe-militaergemeinde"
       },
       "type": "Feature"
@@ -3179,7 +3179,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe",
-        "name": "Karlsruhe-M\u00fchlburg",
+        "name": "Karlsruhe-Mühlburg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/karlsruhe-muehlburg"
       },
       "type": "Feature"
@@ -3227,7 +3227,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe",
-        "name": "R\u00fcppurr",
+        "name": "Rüppurr",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/rueppurr"
       },
       "type": "Feature"
@@ -3483,7 +3483,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe-Land",
-        "name": "Neudorf und Hambr\u00fccken",
+        "name": "Neudorf und Hambrücken",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neudorf-und-hambruecken"
       },
       "type": "Feature"
@@ -3515,7 +3515,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe-Land",
-        "name": "Neureut-S\u00fcd",
+        "name": "Neureut-Süd",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neureut-sued"
       },
       "type": "Feature"
@@ -3547,7 +3547,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe-Land",
-        "name": "Ru\u00dfheim",
+        "name": "Rußheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/russheim"
       },
       "type": "Feature"
@@ -3563,7 +3563,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe-Land",
-        "name": "S\u00f6llingen",
+        "name": "Söllingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/soellingen"
       },
       "type": "Feature"
@@ -3595,7 +3595,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Karlsruhe-Land",
-        "name": "Sp\u00f6ck",
+        "name": "Spöck",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/spoeck"
       },
       "type": "Feature"
@@ -3675,7 +3675,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Konstanz",
-        "name": "B\u00fcsingen",
+        "name": "Büsingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/buesingen"
       },
       "type": "Feature"
@@ -3707,7 +3707,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Konstanz",
-        "name": "Konstanz Milit\u00e4rgemeinde",
+        "name": "Konstanz Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/konstanz-militaergemeinde"
       },
       "type": "Feature"
@@ -3867,7 +3867,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Kraichgau",
-        "name": "D\u00fchren",
+        "name": "Dühren",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/duehren"
       },
       "type": "Feature"
@@ -3883,7 +3883,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Kraichgau",
-        "name": "Ehrst\u00e4dt",
+        "name": "Ehrstädt",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/ehrstaedt"
       },
       "type": "Feature"
@@ -4187,7 +4187,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Kraichgau",
-        "name": "M\u00fchlbach",
+        "name": "Mühlbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/muehlbach"
       },
       "type": "Feature"
@@ -4651,7 +4651,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mannheim",
-        "name": "Mannheim Milit\u00e4rgemeinde",
+        "name": "Mannheim Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/mannheim-militaergemeinde"
       },
       "type": "Feature"
@@ -4667,7 +4667,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mannheim",
-        "name": "Mannheim Neckarg\u00e4rten",
+        "name": "Mannheim Neckargärten",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/mannheim-neckargaerten"
       },
       "type": "Feature"
@@ -4731,7 +4731,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mannheim",
-        "name": "Mannheim-K\u00e4fertal",
+        "name": "Mannheim-Käfertal",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/mannheim-kaefertal"
       },
       "type": "Feature"
@@ -4842,7 +4842,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Binzen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/binzen"
       },
@@ -4858,7 +4858,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Blansingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/blansingen"
       },
@@ -4874,8 +4874,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "Brombach (L\u00f6rrach)",
+        "district": "Markgräflerland",
+        "name": "Brombach (Lörrach)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/brombach-loerrach"
       },
       "type": "Feature"
@@ -4890,8 +4890,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "B\u00fcrchau",
+        "district": "Markgräflerland",
+        "name": "Bürchau",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/buerchau"
       },
       "type": "Feature"
@@ -4906,7 +4906,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Dossenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/dossenbach"
       },
@@ -4922,7 +4922,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Efringen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/efringen"
       },
@@ -4938,7 +4938,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Egringen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/egringen"
       },
@@ -4954,7 +4954,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Eichen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/eichen"
       },
@@ -4970,7 +4970,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Eimeldingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/eimeldingen"
       },
@@ -4986,7 +4986,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Endenburg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/endenburg"
       },
@@ -5002,7 +5002,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Enkenstein",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/enkenstein"
       },
@@ -5018,7 +5018,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Fahrnau",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/fahrnau"
       },
@@ -5034,7 +5034,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Feuerbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/feuerbach"
       },
@@ -5050,7 +5050,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Fischingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/fischingen"
       },
@@ -5066,7 +5066,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Gersbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/gersbach"
       },
@@ -5082,8 +5082,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "Glash\u00fctten (Schopfheim)",
+        "district": "Markgräflerland",
+        "name": "Glashütten (Schopfheim)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/glashuetten-schopfheim"
       },
       "type": "Feature"
@@ -5098,7 +5098,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Grenzach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/grenzach"
       },
@@ -5114,7 +5114,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Haagen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/haagen"
       },
@@ -5130,8 +5130,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "H\u00e4gelberg",
+        "district": "Markgräflerland",
+        "name": "Hägelberg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/haegelberg"
       },
       "type": "Feature"
@@ -5146,7 +5146,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Haltingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/haltingen"
       },
@@ -5162,7 +5162,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Hasel",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hasel"
       },
@@ -5178,7 +5178,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Hauingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hauingen"
       },
@@ -5194,7 +5194,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Hausen i. W.",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hausen-i-w"
       },
@@ -5210,7 +5210,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Hertingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hertingen"
       },
@@ -5226,8 +5226,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "H\u00f6llstein",
+        "district": "Markgräflerland",
+        "name": "Höllstein",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hoellstein"
       },
       "type": "Feature"
@@ -5242,7 +5242,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Holzen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/holzen"
       },
@@ -5258,8 +5258,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "H\u00fcsingen",
+        "district": "Markgräflerland",
+        "name": "Hüsingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/huesingen"
       },
       "type": "Feature"
@@ -5274,7 +5274,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Kaltenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kaltenbach"
       },
@@ -5290,7 +5290,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Kandern",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kandern"
       },
@@ -5306,7 +5306,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Kirchen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kirchen"
       },
@@ -5322,7 +5322,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Kleinkems",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kleinkems"
       },
@@ -5338,7 +5338,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Langenau",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/langenau"
       },
@@ -5354,8 +5354,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "L\u00f6rrach",
+        "district": "Markgräflerland",
+        "name": "Lörrach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/loerrach"
       },
       "type": "Feature"
@@ -5370,7 +5370,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Mappach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/mappach"
       },
@@ -5386,8 +5386,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "M\u00e4rkt",
+        "district": "Markgräflerland",
+        "name": "Märkt",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/maerkt"
       },
       "type": "Feature"
@@ -5402,7 +5402,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Marzell",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/marzell"
       },
@@ -5418,7 +5418,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Maulburg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/maulburg"
       },
@@ -5434,7 +5434,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Neuenweg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neuenweg"
       },
@@ -5450,7 +5450,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "\u00d6tlingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oetlingen"
       },
@@ -5466,7 +5466,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Raitbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/raitbach"
       },
@@ -5482,7 +5482,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Riedlingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/riedlingen"
       },
@@ -5498,8 +5498,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "R\u00f6tteln",
+        "district": "Markgräflerland",
+        "name": "Rötteln",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/roetteln"
       },
       "type": "Feature"
@@ -5514,8 +5514,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "R\u00fcmmingen",
+        "district": "Markgräflerland",
+        "name": "Rümmingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/ruemmingen"
       },
       "type": "Feature"
@@ -5530,7 +5530,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Schallbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schallbach"
       },
@@ -5546,8 +5546,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "Schl\u00e4chtenhaus",
+        "district": "Markgräflerland",
+        "name": "Schlächtenhaus",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schlaechtenhaus"
       },
       "type": "Feature"
@@ -5562,7 +5562,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Schopfheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schopfheim"
       },
@@ -5578,7 +5578,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Sitzenkirch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/sitzenkirch"
       },
@@ -5594,7 +5594,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Steinen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/steinen"
       },
@@ -5610,7 +5610,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Tannenkirch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/tannenkirch"
       },
@@ -5626,7 +5626,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Tegernau",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/tegernau"
       },
@@ -5642,7 +5642,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Tegernau Nebenorte (Elbenschwand,Gresgen,Raich,Ebingen u. Sallneck)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/tegernau-nebenorte-elbenschwandgresgenraichebingen-u-sallneck"
       },
@@ -5658,8 +5658,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "T\u00fcllingen",
+        "district": "Markgräflerland",
+        "name": "Tüllingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/tuellingen"
       },
       "type": "Feature"
@@ -5674,7 +5674,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Tumringen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/tumringen"
       },
@@ -5690,8 +5690,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
-        "name": "Vogelbach (M\u00fcllheim)",
+        "district": "Markgräflerland",
+        "name": "Vogelbach (Müllheim)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/vogelbach-muellheim"
       },
       "type": "Feature"
@@ -5706,7 +5706,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Weil a. Rh.",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/weil-a-rh"
       },
@@ -5722,7 +5722,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Weitenau",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/weitenau"
       },
@@ -5738,7 +5738,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Welmlingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/welmlingen"
       },
@@ -5754,7 +5754,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Wiechs",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wiechs"
       },
@@ -5770,7 +5770,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Wies",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wies"
       },
@@ -5786,7 +5786,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Wieslet",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wieslet"
       },
@@ -5802,7 +5802,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Wintersweiler",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wintersweiler"
       },
@@ -5818,7 +5818,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Wittlingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wittlingen"
       },
@@ -5834,7 +5834,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Markgr\u00e4flerland",
+        "district": "Markgräflerland",
         "name": "Wollbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wollbach"
       },
@@ -5947,7 +5947,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "Gro\u00dfeicholzheim",
+        "name": "Großeicholzheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/grosseicholzheim"
       },
       "type": "Feature"
@@ -5979,7 +5979,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "Ha\u00dfmersheim",
+        "name": "Haßmersheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hassmersheim"
       },
       "type": "Feature"
@@ -6011,7 +6011,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "H\u00fcffenhardt",
+        "name": "Hüffenhardt",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hueffenhardt"
       },
       "type": "Feature"
@@ -6027,7 +6027,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "K\u00e4lbertshausen",
+        "name": "Kälbertshausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kaelbertshausen"
       },
       "type": "Feature"
@@ -6091,7 +6091,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "M\u00f6rtelstein",
+        "name": "Mörtelstein",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/moertelstein"
       },
       "type": "Feature"
@@ -6123,7 +6123,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "M\u00fclben",
+        "name": "Mülben",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/muelben"
       },
       "type": "Feature"
@@ -6187,7 +6187,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "Neckarm\u00fchlbach",
+        "name": "Neckarmühlbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neckarmuehlbach"
       },
       "type": "Feature"
@@ -6219,7 +6219,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "N\u00fcstenbach",
+        "name": "Nüstenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/nuestenbach"
       },
       "type": "Feature"
@@ -6347,7 +6347,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Mosbach",
-        "name": "Str\u00fcmpfelbrunn",
+        "name": "Strümpfelbrunn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/struempfelbrunn"
       },
       "type": "Feature"
@@ -6458,7 +6458,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Altenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/altenbach"
       },
@@ -6474,7 +6474,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Dossenheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/dossenheim"
       },
@@ -6490,7 +6490,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Edingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/edingen"
       },
@@ -6506,8 +6506,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
-        "name": "Gro\u00dfsachsen",
+        "district": "Neckar-Bergstraße",
+        "name": "Großsachsen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/grosssachsen"
       },
       "type": "Feature"
@@ -6522,7 +6522,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Heddesheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/heddesheim"
       },
@@ -6538,7 +6538,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Heiligkreuz",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/heiligkreuz"
       },
@@ -6554,7 +6554,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Hemsbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hemsbach"
       },
@@ -6570,7 +6570,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Hohensachsen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hohensachsen"
       },
@@ -6586,7 +6586,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Ilvesheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/ilvesheim"
       },
@@ -6602,7 +6602,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Ladenburg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/ladenburg"
       },
@@ -6618,7 +6618,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Laudenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/laudenbach"
       },
@@ -6634,7 +6634,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Leutershausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/leutershausen"
       },
@@ -6650,8 +6650,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
-        "name": "L\u00fctzelsachsen",
+        "district": "Neckar-Bergstraße",
+        "name": "Lützelsachsen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/luetzelsachsen"
       },
       "type": "Feature"
@@ -6666,7 +6666,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Neckarhausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neckarhausen"
       },
@@ -6682,7 +6682,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Ritschweier und Oberkunzenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/ritschweier-und-oberkunzenbach"
       },
@@ -6698,7 +6698,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Schriesheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schriesheim"
       },
@@ -6714,7 +6714,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Sulzbach (Weinheim)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/sulzbach-weinheim"
       },
@@ -6730,7 +6730,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Weinheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/weinheim"
       },
@@ -6746,7 +6746,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Weinheim Altstadtpfarrei",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/weinheim-altstadtpfarrei"
       },
@@ -6762,7 +6762,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Weinheim Klosterkirche",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/weinheim-klosterkirche"
       },
@@ -6778,7 +6778,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckar-Bergstra\u00dfe",
+        "district": "Neckar-Bergstraße",
         "name": "Weinheim Stadtpfarrei",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/weinheim-stadtpfarrei"
       },
@@ -6794,7 +6794,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Aglasterhausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/aglasterhausen"
       },
@@ -6810,7 +6810,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Altneudorf",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/altneudorf"
       },
@@ -6826,7 +6826,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Bammental",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/bammental"
       },
@@ -6842,7 +6842,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Breitenbronn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/breitenbronn"
       },
@@ -6858,7 +6858,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Brombach (Heidelberg)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/brombach-heidelberg"
       },
@@ -6874,7 +6874,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Daudenzell",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/daudenzell"
       },
@@ -6890,7 +6890,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Dilsberg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/dilsberg"
       },
@@ -6906,7 +6906,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Eberbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/eberbach"
       },
@@ -6922,7 +6922,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Eiterbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/eiterbach"
       },
@@ -6938,7 +6938,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Friedrichsdorf",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/friedrichsdorf"
       },
@@ -6954,7 +6954,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Gaiberg",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/gaiberg"
       },
@@ -6970,7 +6970,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Gauangelloch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/gauangelloch"
       },
@@ -6986,7 +6986,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Haag",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/haag"
       },
@@ -7002,7 +7002,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Heddesbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/heddesbach"
       },
@@ -7018,7 +7018,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Heiligkreuzsteinach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/heiligkreuzsteinach"
       },
@@ -7034,7 +7034,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Hilsenhain",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hilsenhain"
       },
@@ -7050,7 +7050,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Igelsbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/igelsbach"
       },
@@ -7066,8 +7066,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
-        "name": "Kleingem\u00fcnd",
+        "district": "Neckargemünd-Eberbach",
+        "name": "Kleingemünd",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kleingemuend"
       },
       "type": "Feature"
@@ -7082,7 +7082,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Lampenhain",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/lampenhain"
       },
@@ -7098,7 +7098,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Lindach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/lindach"
       },
@@ -7114,7 +7114,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Lobenfeld",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/lobenfeld"
       },
@@ -7130,7 +7130,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Mauer",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/mauer"
       },
@@ -7146,7 +7146,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Meckesheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/meckesheim"
       },
@@ -7162,7 +7162,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Michelbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/michelbach"
       },
@@ -7178,8 +7178,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
-        "name": "M\u00f6nchzell",
+        "district": "Neckargemünd-Eberbach",
+        "name": "Mönchzell",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/moenchzell"
       },
       "type": "Feature"
@@ -7194,7 +7194,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Moosbrunn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/moosbrunn"
       },
@@ -7210,8 +7210,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
-        "name": "M\u00fcckenloch",
+        "district": "Neckargemünd-Eberbach",
+        "name": "Mückenloch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/mueckenloch"
       },
       "type": "Feature"
@@ -7226,8 +7226,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
-        "name": "Neckargem\u00fcnd",
+        "district": "Neckargemünd-Eberbach",
+        "name": "Neckargemünd",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neckargemuend"
       },
       "type": "Feature"
@@ -7242,7 +7242,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Neckarwimmersbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neckarwimmersbach"
       },
@@ -7258,7 +7258,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Neunkirchen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neunkirchen"
       },
@@ -7274,7 +7274,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Oberschwarzach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oberschwarzach"
       },
@@ -7290,7 +7290,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Ochsenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/ochsenbach"
       },
@@ -7306,7 +7306,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Pleutersbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/pleutersbach"
       },
@@ -7322,7 +7322,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Rockenau",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/rockenau"
       },
@@ -7338,8 +7338,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
-        "name": "Sch\u00f6nau (Heidelberg)",
+        "district": "Neckargemünd-Eberbach",
+        "name": "Schönau (Heidelberg)",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schoenau-heidelberg"
       },
       "type": "Feature"
@@ -7354,8 +7354,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
-        "name": "Sch\u00f6nbrunn",
+        "district": "Neckargemünd-Eberbach",
+        "name": "Schönbrunn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schoenbrunn"
       },
       "type": "Feature"
@@ -7370,7 +7370,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Schwanheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schwanheim"
       },
@@ -7386,7 +7386,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Unterhebstahl",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/unterhebstahl"
       },
@@ -7402,7 +7402,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Unterschwarzach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/unterschwarzach"
       },
@@ -7418,7 +7418,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Waldhilsbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/waldhilsbach"
       },
@@ -7434,7 +7434,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Waldwimmersbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/waldwimmersbach"
       },
@@ -7450,7 +7450,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Wiesenbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wiesenbach"
       },
@@ -7466,7 +7466,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "Neckargem\u00fcnd-Eberbach",
+        "district": "Neckargemünd-Eberbach",
         "name": "Wilhelmsfeld",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wilhelmsfeld"
       },
@@ -7867,7 +7867,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Ortenau",
-        "name": "Kehl Milit\u00e4rgemeinde",
+        "name": "Kehl Militärgemeinde",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kehl-militaergemeinde"
       },
       "type": "Feature"
@@ -7979,7 +7979,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Ortenau",
-        "name": "K\u00fcrzell",
+        "name": "Kürzell",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/kuerzell"
       },
       "type": "Feature"
@@ -8139,7 +8139,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Ortenau",
-        "name": "Mei\u00dfenheim",
+        "name": "Meißenheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/meissenheim"
       },
       "type": "Feature"
@@ -8219,7 +8219,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Ortenau",
-        "name": "Neum\u00fchl",
+        "name": "Neumühl",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neumuehl"
       },
       "type": "Feature"
@@ -8475,7 +8475,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Ortenau",
-        "name": "Willst\u00e4tt",
+        "name": "Willstätt",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/willstaett"
       },
       "type": "Feature"
@@ -8523,7 +8523,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "B\u00fcchenbronn",
+        "name": "Büchenbronn",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/buechenbronn"
       },
       "type": "Feature"
@@ -8571,7 +8571,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "M\u00fchlhausen",
+        "name": "Mühlhausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/muehlhausen"
       },
       "type": "Feature"
@@ -8635,7 +8635,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "Pforzheim Schlo\u00dfkirche",
+        "name": "Pforzheim Schloßkirche",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/pforzheim-schlosskirche"
       },
       "type": "Feature"
@@ -8699,7 +8699,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "Pforzheim-(Dill-)Wei\u00dfenstein",
+        "name": "Pforzheim-(Dill-)Weißenstein",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/pforzheim-dill-weissenstein"
       },
       "type": "Feature"
@@ -8715,7 +8715,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "Pforzheim-Br\u00f6tzingen",
+        "name": "Pforzheim-Brötzingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/pforzheim-broetzingen"
       },
       "type": "Feature"
@@ -8747,7 +8747,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "Pforzheim-Dillwei\u00dfenstein",
+        "name": "Pforzheim-Dillweißenstein",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/pforzheim-dillweissenstein"
       },
       "type": "Feature"
@@ -8763,7 +8763,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "Pforzheim-Wei\u00dfenstein",
+        "name": "Pforzheim-Weißenstein",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/pforzheim-weissenstein"
       },
       "type": "Feature"
@@ -8779,7 +8779,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Pforzheim",
-        "name": "W\u00fcrm",
+        "name": "Würm",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wuerm"
       },
       "type": "Feature"
@@ -8794,8 +8794,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
-        "name": "Altlu\u00dfheim",
+        "district": "Südliche Kurpfalz",
+        "name": "Altlußheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/altlussheim"
       },
       "type": "Feature"
@@ -8810,7 +8810,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Baiertal",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/baiertal"
       },
@@ -8826,7 +8826,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Bruchhausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/bruchhausen"
       },
@@ -8842,8 +8842,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
-        "name": "Br\u00fchl",
+        "district": "Südliche Kurpfalz",
+        "name": "Brühl",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/bruehl"
       },
       "type": "Feature"
@@ -8858,7 +8858,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Eppelheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/eppelheim"
       },
@@ -8874,7 +8874,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Hockenheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hockenheim"
       },
@@ -8890,7 +8890,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Leimen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/leimen"
       },
@@ -8906,7 +8906,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Lingentaler Hof",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/lingentaler-hof"
       },
@@ -8922,7 +8922,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Maisbach",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/maisbach"
       },
@@ -8938,8 +8938,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
-        "name": "Neulu\u00dfheim",
+        "district": "Südliche Kurpfalz",
+        "name": "Neulußheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/neulussheim"
       },
       "type": "Feature"
@@ -8954,8 +8954,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
-        "name": "Nu\u00dfloch",
+        "district": "Südliche Kurpfalz",
+        "name": "Nußloch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/nussloch"
       },
       "type": "Feature"
@@ -8970,7 +8970,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Oftersheim",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oftersheim"
       },
@@ -8986,7 +8986,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Plankstadt",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/plankstadt"
       },
@@ -9002,7 +9002,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Reilingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/reilingen"
       },
@@ -9018,7 +9018,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Sandhausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/sandhausen"
       },
@@ -9034,7 +9034,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Schatthausen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schatthausen"
       },
@@ -9050,7 +9050,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Schwetzingen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schwetzingen"
       },
@@ -9066,8 +9066,8 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
-        "name": "Schwetzingen S\u00fcdpfarrei",
+        "district": "Südliche Kurpfalz",
+        "name": "Schwetzingen Südpfarrei",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/schwetzingen-suedpfarrei"
       },
       "type": "Feature"
@@ -9082,7 +9082,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "St. Ilgen",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/st-ilgen"
       },
@@ -9098,7 +9098,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Walldorf",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/walldorf"
       },
@@ -9114,7 +9114,7 @@
       },
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
-        "district": "S\u00fcdliche Kurpfalz",
+        "district": "Südliche Kurpfalz",
         "name": "Wiesloch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/wiesloch"
       },
@@ -9243,7 +9243,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Villingen",
-        "name": "M\u00f6nchweiler",
+        "name": "Mönchweiler",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/moenchweiler"
       },
       "type": "Feature"
@@ -9515,7 +9515,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Wertheim",
-        "name": "Gr\u00fcnenw\u00f6rth",
+        "name": "Grünenwörth",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/gruenenwoerth"
       },
       "type": "Feature"
@@ -9531,7 +9531,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Wertheim",
-        "name": "H\u00f6hefeld",
+        "name": "Höhefeld",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/hoehefeld"
       },
       "type": "Feature"
@@ -9627,7 +9627,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "Wertheim",
-        "name": "\u00d6denges\u00e4\u00df",
+        "name": "\u00d6dengesäß",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/oedengesaess"
       },
       "type": "Feature"
@@ -9787,7 +9787,7 @@
       "properties": {
         "archive": "Ev. Landeskirche in Baden",
         "district": "\u00dcberlingen-Stockach",
-        "name": "Me\u00dfkirch",
+        "name": "Meßkirch",
         "path": "/de/alle-archive/baden-wuerttemberg/landeskirchliches-archiv-karlsruhe/messkirch"
       },
       "type": "Feature"

@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "name": "Gem\u00fcnd",
+        "name": "Gemünd",
         "district": "Aachen",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/gemuend"
@@ -75,7 +75,7 @@
         ]
       },
       "properties": {
-        "name": "Kornelim\u00fcnster-Zweifall",
+        "name": "Kornelimünster-Zweifall",
         "district": "Aachen",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/kornelimuenster-zweifall"
@@ -331,7 +331,7 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6lschhausen",
+        "name": "Kölschhausen",
         "district": "An Lahn und Dill",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koelschhausen"
@@ -347,7 +347,7 @@
         ]
       },
       "properties": {
-        "name": "Kr\u00f6ffelbach",
+        "name": "Kröffelbach",
         "district": "An Lahn und Dill",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/kroeffelbach"
@@ -555,7 +555,7 @@
         ]
       },
       "properties": {
-        "name": "B\u00e4rweiler",
+        "name": "Bärweiler",
         "district": "An Nahe und Glan",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/baerweiler"
@@ -651,7 +651,7 @@
         ]
       },
       "properties": {
-        "name": "D\u00f6rrebach",
+        "name": "Dörrebach",
         "district": "An Nahe und Glan",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/doerrebach"
@@ -891,7 +891,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00fcnster a. Stein",
+        "name": "Münster a. Stein",
         "district": "An Nahe und Glan",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/muenster-a-stein"
@@ -955,7 +955,7 @@
         ]
       },
       "properties": {
-        "name": "R\u00fcdesheim",
+        "name": "Rüdesheim",
         "district": "An Nahe und Glan",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/ruedesheim"
@@ -1227,7 +1227,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00fcllenbach",
+        "name": "Müllenbach",
         "district": "An der Agger",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/muellenbach"
@@ -1243,7 +1243,7 @@
         ]
       },
       "properties": {
-        "name": "N\u00fcmbrecht",
+        "name": "Nümbrecht",
         "district": "An der Agger",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/nuembrecht"
@@ -1307,7 +1307,7 @@
         ]
       },
       "properties": {
-        "name": "Gro\u00dfb\u00fcllesheim",
+        "name": "Großbüllesheim",
         "district": "Bad Godesberg-Voreifel",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/grossbuellesheim"
@@ -1387,7 +1387,7 @@
         ]
       },
       "properties": {
-        "name": "H\u00fcnxe",
+        "name": "Hünxe",
         "district": "Dinslaken",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/huenxe"
@@ -1419,7 +1419,7 @@
         ]
       },
       "properties": {
-        "name": "J\u00fcchen",
+        "name": "Jüchen",
         "district": "Gladbach-Neuss",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/juechen"
@@ -1451,7 +1451,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00f6nchengladbach",
+        "name": "Mönchengladbach",
         "district": "Gladbach-Neuss",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/moenchengladbach"
@@ -1547,8 +1547,8 @@
         ]
       },
       "properties": {
-        "name": "D\u00fcren",
-        "district": "J\u00fclich",
+        "name": "Düren",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/dueren"
       }
@@ -1564,7 +1564,7 @@
       },
       "properties": {
         "name": "Heinsberg",
-        "district": "J\u00fclich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/heinsberg"
       }
@@ -1580,7 +1580,7 @@
       },
       "properties": {
         "name": "Inden",
-        "district": "J\u00fclich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/inden"
       }
@@ -1596,7 +1596,7 @@
       },
       "properties": {
         "name": "Linnich",
-        "district": "J\u00fclich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/linnich"
       }
@@ -1611,8 +1611,8 @@
         ]
       },
       "properties": {
-        "name": "L\u00f6venich",
-        "district": "J\u00fclich",
+        "name": "Lövenich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/loevenich"
       }
@@ -1628,7 +1628,7 @@
       },
       "properties": {
         "name": "Randerath",
-        "district": "J\u00fclich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/randerath"
       }
@@ -1644,7 +1644,7 @@
       },
       "properties": {
         "name": "Schwanenberg",
-        "district": "J\u00fclich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/schwanenberg"
       }
@@ -1660,7 +1660,7 @@
       },
       "properties": {
         "name": "Wassenberg",
-        "district": "J\u00fclich",
+        "district": "Jülich",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/wassenberg"
       }
@@ -1819,7 +1819,7 @@
         ]
       },
       "properties": {
-        "name": "Xanten-M\u00f6rmter",
+        "name": "Xanten-Mörmter",
         "district": "Kleve",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/xanten-moermter"
@@ -2107,7 +2107,7 @@
         ]
       },
       "properties": {
-        "name": "B\u00fcderich",
+        "name": "Büderich",
         "district": "Krefeld-Viersen",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/buederich"
@@ -2171,7 +2171,7 @@
         ]
       },
       "properties": {
-        "name": "S\u00fcchteln",
+        "name": "Süchteln",
         "district": "Krefeld-Viersen",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/suechteln"
@@ -2219,8 +2219,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6ln-Deutz",
-        "district": "K\u00f6ln-Mitte",
+        "name": "Köln-Deutz",
+        "district": "Köln-Mitte",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koeln-deutz"
       }
@@ -2235,8 +2235,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6ln-Lindenthal",
-        "district": "K\u00f6ln-Mitte",
+        "name": "Köln-Lindenthal",
+        "district": "Köln-Mitte",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koeln-lindenthal"
       }
@@ -2251,8 +2251,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6ln-Nippes",
-        "district": "K\u00f6ln-Mitte",
+        "name": "Köln-Nippes",
+        "district": "Köln-Mitte",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koeln-nippes"
       }
@@ -2268,7 +2268,7 @@
       },
       "properties": {
         "name": "Bergheim-Zieverich-Elsdorf",
-        "district": "K\u00f6ln-Nord",
+        "district": "Köln-Nord",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/bergheim-zieverich-elsdorf"
       }
@@ -2284,7 +2284,7 @@
       },
       "properties": {
         "name": "Ehrenfeld",
-        "district": "K\u00f6ln-Nord",
+        "district": "Köln-Nord",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/ehrenfeld"
       }
@@ -2300,7 +2300,7 @@
       },
       "properties": {
         "name": "Bergisch-Gladbach",
-        "district": "K\u00f6ln-Rechtsrheinisch",
+        "district": "Köln-Rechtsrheinisch",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/bergisch-gladbach"
       }
@@ -2316,7 +2316,7 @@
       },
       "properties": {
         "name": "Delling",
-        "district": "K\u00f6ln-Rechtsrheinisch",
+        "district": "Köln-Rechtsrheinisch",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/delling"
       }
@@ -2331,8 +2331,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6ln-Dellbr\u00fcck/ Holweide",
-        "district": "K\u00f6ln-Rechtsrheinisch",
+        "name": "Köln-Dellbrück/ Holweide",
+        "district": "Köln-Rechtsrheinisch",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koeln-dellbrueck/-holweide"
       }
@@ -2347,8 +2347,8 @@
         ]
       },
       "properties": {
-        "name": "M\u00fclheim am Rhein (K\u00f6ln)",
-        "district": "K\u00f6ln-Rechtsrheinisch",
+        "name": "Mülheim am Rhein (Köln)",
+        "district": "Köln-Rechtsrheinisch",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/muelheim-am-rhein-koeln"
       }
@@ -2364,7 +2364,7 @@
       },
       "properties": {
         "name": "Volberg",
-        "district": "K\u00f6ln-Rechtsrheinisch",
+        "district": "Köln-Rechtsrheinisch",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/volberg"
       }
@@ -2379,8 +2379,8 @@
         ]
       },
       "properties": {
-        "name": "Br\u00fchl",
-        "district": "K\u00f6ln-S\u00fcd",
+        "name": "Brühl",
+        "district": "Köln-Süd",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/bruehl"
       }
@@ -2396,7 +2396,7 @@
       },
       "properties": {
         "name": "Frechen",
-        "district": "K\u00f6ln-S\u00fcd",
+        "district": "Köln-Süd",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/frechen"
       }
@@ -2411,8 +2411,8 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6ln-Bayenthal",
-        "district": "K\u00f6ln-S\u00fcd",
+        "name": "Köln-Bayenthal",
+        "district": "Köln-Süd",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koeln-bayenthal"
       }
@@ -2459,7 +2459,7 @@
         ]
       },
       "properties": {
-        "name": "Dh\u00fcnn",
+        "name": "Dhünn",
         "district": "Lennep",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/dhuenn"
@@ -2475,7 +2475,7 @@
         ]
       },
       "properties": {
-        "name": "H\u00fcckeswagen (lutherisch)",
+        "name": "Hückeswagen (lutherisch)",
         "district": "Lennep",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/hueckeswagen-lutherisch"
@@ -2491,7 +2491,7 @@
         ]
       },
       "properties": {
-        "name": "H\u00fcckeswagen (reformiert)",
+        "name": "Hückeswagen (reformiert)",
         "district": "Lennep",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/hueckeswagen-reformiert"
@@ -2507,7 +2507,7 @@
         ]
       },
       "properties": {
-        "name": "L\u00fcttringhausen",
+        "name": "Lüttringhausen",
         "district": "Lennep",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/luettringhausen"
@@ -2875,7 +2875,7 @@
         ]
       },
       "properties": {
-        "name": "D\u00f6nberg",
+        "name": "Dönberg",
         "district": "Niederberg",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/doenberg"
@@ -2891,7 +2891,7 @@
         ]
       },
       "properties": {
-        "name": "D\u00fcssel",
+        "name": "Düssel",
         "district": "Niederberg",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/duessel"
@@ -2955,7 +2955,7 @@
         ]
       },
       "properties": {
-        "name": "Sch\u00f6ller",
+        "name": "Schöller",
         "district": "Niederberg",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/schoeller"
@@ -2987,7 +2987,7 @@
         ]
       },
       "properties": {
-        "name": "W\u00fclfrath",
+        "name": "Wülfrath",
         "district": "Niederberg",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/wuelfrath"
@@ -3291,7 +3291,7 @@
         ]
       },
       "properties": {
-        "name": "Niederw\u00f6rresbach",
+        "name": "Niederwörresbach",
         "district": "Obere Nahe",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederwoerresbach"
@@ -3403,7 +3403,7 @@
         ]
       },
       "properties": {
-        "name": "S\u00f6tern",
+        "name": "Sötern",
         "district": "Obere Nahe",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/soetern"
@@ -3595,7 +3595,7 @@
         ]
       },
       "properties": {
-        "name": "G\u00fcdingen",
+        "name": "Güdingen",
         "district": "Saar-West",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/guedingen"
@@ -3643,7 +3643,7 @@
         ]
       },
       "properties": {
-        "name": "K\u00f6lln",
+        "name": "Kölln",
         "district": "Saar-West",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/koelln"
@@ -3691,7 +3691,7 @@
         ]
       },
       "properties": {
-        "name": "Saarbr\u00fccken",
+        "name": "Saarbrücken",
         "district": "Saar-West",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/saarbruecken"
@@ -3755,7 +3755,7 @@
         ]
       },
       "properties": {
-        "name": "V\u00f6lklingen",
+        "name": "Völklingen",
         "district": "Saar-West",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/voelklingen"
@@ -3771,7 +3771,7 @@
         ]
       },
       "properties": {
-        "name": "Alterk\u00fclz",
+        "name": "Alterkülz",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/alterkuelz"
@@ -3851,7 +3851,7 @@
         ]
       },
       "properties": {
-        "name": "B\u00fcchenbeuren",
+        "name": "Büchenbeuren",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/buechenbeuren"
@@ -3931,7 +3931,7 @@
         ]
       },
       "properties": {
-        "name": "Gem\u00fcnden",
+        "name": "Gemünden",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/gemuenden"
@@ -3947,7 +3947,7 @@
         ]
       },
       "properties": {
-        "name": "G\u00f6denroth",
+        "name": "Gödenroth",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/goedenroth"
@@ -4107,7 +4107,7 @@
         ]
       },
       "properties": {
-        "name": "L\u00f6tzbeuren",
+        "name": "Lötzbeuren",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/loetzbeuren"
@@ -4123,7 +4123,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00f6rschbach",
+        "name": "Mörschbach",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/moerschbach"
@@ -4203,7 +4203,7 @@
         ]
       },
       "properties": {
-        "name": "Rheinb\u00f6llen",
+        "name": "Rheinböllen",
         "district": "Simmern-Trarbach",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/rheinboellen"
@@ -4331,7 +4331,7 @@
         ]
       },
       "properties": {
-        "name": "Gr\u00e4frath",
+        "name": "Gräfrath",
         "district": "Solingen",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/graefrath"
@@ -4443,7 +4443,7 @@
         ]
       },
       "properties": {
-        "name": "M\u00fclheim an der Mosel",
+        "name": "Mülheim an der Mosel",
         "district": "Trier",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/muelheim-an-der-mosel"
@@ -4539,7 +4539,7 @@
         ]
       },
       "properties": {
-        "name": "Bislich-Diersfordt-Fl\u00fcren",
+        "name": "Bislich-Diersfordt-Flüren",
         "district": "Wesel",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/bislich-diersfordt-flueren"
@@ -4555,7 +4555,7 @@
         ]
       },
       "properties": {
-        "name": "Br\u00fcnen",
+        "name": "Brünen",
         "district": "Wesel",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/bruenen"
@@ -4875,7 +4875,7 @@
         ]
       },
       "properties": {
-        "name": "N\u00e4chstebreck",
+        "name": "Nächstebreck",
         "district": "Wuppertal",
         "archive": "Ev. Kirche im Rheinland",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/naechstebreck"
