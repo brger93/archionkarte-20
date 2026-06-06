@@ -2630,6 +2630,150 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.45400,
+          53.40709
+        ]
+      },
+      "properties": {
+        "name": "Ahlerstedt",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/ahlerstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6163207,
+          53.4352841
+        ]
+      },
+      "properties": {
+        "name": "Apensen",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/apensen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44719,
+          53.45947
+        ]
+      },
+      "properties": {
+        "name": "Bargstedt",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/bargstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56849,
+          53.48109
+        ]
+      },
+      "properties": {
+        "name": "Bliedersdorf",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/bliedersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7003941,
+          53.4767351
+        ]
+      },
+      "properties": {
+        "name": "Buxtehude",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/buxtehude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.502652,
+          53.453232
+        ]
+      },
+      "properties": {
+        "name": "Harsefeld",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/harsefeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.577211,
+          53.508793
+        ]
+      },
+      "properties": {
+        "name": "Horneburg",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/horneburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.30069,
+          53.51210
+        ]
+      },
+      "properties": {
+        "name": "Mulsum",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/mulsum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63374,
+          53.48298
+        ]
+      },
+      "properties": {
+        "name": "Neukloster",
+        "district": "Kirchenkreis Buxtehude",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-buxtehude/neukloster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.114364,
           52.600797
         ]
