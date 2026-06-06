@@ -1,13 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.8.0] - 2026-06-06
+### Added
+* *hannover_sorted.json* was extended by *Kirchenkreis Buxtehude*
+
 ## [5.7.0] - 2026-05-08
 ### Added
-* *magdeburg.json* was extended by *Kirchenkreis Südharz*
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Südharz*
 
 ## [5.6.0] - 2026-04-17
 ### Added
-* *magdeburg.json* was extended by *Kirchenkreis Henneberger Land*
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Henneberger Land*
 
 ## [5.5.0] - 2026-04-09
 ### Added
