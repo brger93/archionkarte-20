@@ -8774,6 +8774,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.554556,
+          51.595038
+        ]
+      },
+      "properties": {
+        "name": "Bad Sachsa",
+        "district": "Kirchenkreis Herzberg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-herzberg/bad-sachsa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.414231,
           51.621406
         ]
@@ -8806,6 +8822,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.158930,
+          51.631648
+        ]
+      },
+      "properties": {
+        "name": "Bilshausen",
+        "district": "Kirchenkreis Herzberg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-herzberg/bilshausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.26107,
           51.512367
         ]
@@ -8831,6 +8863,22 @@
         "district": "Kirchenkreis Herzberg",
         "archive": "Ev.-Luth. Landeskirche Hannovers",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-herzberg/elbingerode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.216164,
+          51.611751
+        ]
+      },
+      "properties": {
+        "name": "Gieboldehausen",
+        "district": "Kirchenkreis Herzberg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-herzberg/gieboldehausen"
       }
     },
     {
@@ -8879,6 +8927,22 @@
         "district": "Kirchenkreis Herzberg",
         "archive": "Ev.-Luth. Landeskirche Hannovers",
         "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-herzberg/lauterberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123867,
+          51.655072
+        ]
+      },
+      "properties": {
+        "name": "Lindau",
+        "district": "Kirchenkreis Herzberg",
+        "archive": "Ev.-Luth. Landeskirche Hannovers",
+        "path": "/de/alle-archive/niedersachsen/landeskirchliches-archiv-der-evangelisch-lutherischen-landeskirche-hannovers/kirchenkreis-herzberg/lindau"
       }
     },
     {
