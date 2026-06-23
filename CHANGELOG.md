@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.9.0] - 2026-06-23
+### Added
+* *hannover_sorted.json* was extended by missing parishes of *Kirchenkreis Herzberg*
+
 ## [5.8.0] - 2026-06-06
 ### Added
 * *hannover_sorted.json* was extended by *Kirchenkreis Buxtehude*
@@ -23,7 +27,7 @@ All notable changes to this project will be documented in this file.
 
 ## [5.3.0] - 2026-03-15
 ### Added
-* *eisenach_sorted.json* was extended by part 2 of *Kirchenkreis Altenburger Land*
+* *eisenach_sorted.json* was extended by part II of *Kirchenkreis Altenburger Land*
 
 ## [5.2.0] - 2026-02-06
 ### Added
