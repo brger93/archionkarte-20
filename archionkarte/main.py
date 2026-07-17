@@ -66,11 +66,8 @@ def main() -> None:
     # Create GeoJSON
     geojson_archion = write_df_to_geojson(df)
 
-    # Define Output GeoJSON File Path
-    output_json_path = args.path
-
     # Save to GeoJSON
-    save_geojson(output_json_path, geojson_archion)
+    save_geojson(args.path, geojson_archion)
 
 
 if __name__ == "__main__":
