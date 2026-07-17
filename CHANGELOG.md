@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.10.0] - 2026-07-17
+### Added
+* *nordkirche_sorted.json* was extended by missing parishes of *Kirchenkreis Hamburg-Ost*
+
 ## [5.9.0] - 2026-06-23
 ### Added
 * *hannover_sorted.json* was extended by missing parishes of *Kirchenkreis Herzberg*
