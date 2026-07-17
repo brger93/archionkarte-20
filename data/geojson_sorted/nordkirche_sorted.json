@@ -2726,6 +2726,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.127707,
+          53.482410
+        ]
+      },
+      "properties": {
+        "name": "Allermöhe",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/allermoehe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.92056,
           53.5047
         ]
@@ -2751,6 +2767,22 @@
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/altenwerder-st-gertrud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.027876,
+          53.567333
+        ]
+      },
+      "properties": {
+        "name": "Altstadt Gertrudenkapelle",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/altstadt-gertrudenkapelle"
       }
     },
     {
@@ -2790,6 +2822,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.027132,
+          53.555162
+        ]
+      },
+      "properties": {
+        "name": "Borgfelde Erlöserkirche",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/borgfelde-erloeserkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.406713,
           53.717561
         ]
@@ -2806,6 +2854,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.944865,
+          53.575886
+        ]
+      },
+      "properties": {
+        "name": "Eimsbüttel Apostel",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/eimsbuettel-apostel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.961800,
+          53.569757
+        ]
+      },
+      "properties": {
+        "name": "Eimsbüttel Christus",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/eimsbuettel-christus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.959685,
           53.450786
         ]
@@ -2815,6 +2895,86 @@
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/eissendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000520,
+          53.550342
+        ]
+      },
+      "properties": {
+        "name": "Hamburg Hauptkirche St. Jacobi",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hamburg-hauptkirche-st-jacobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990572,
+          53.547461
+        ]
+      },
+      "properties": {
+        "name": "Hamburg Hauptkirche St. Nikolai",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hamburg-hauptkirche-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996614,
+          53.550299
+        ]
+      },
+      "properties": {
+        "name": "Hamburg Hauptkirche St. Petri",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hamburg-hauptkirche-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.956475,
+          53.546843
+        ]
+      },
+      "properties": {
+        "name": "Hamburg St. Pauli",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hamburg-st-pauli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056781,
+          53.555863
+        ]
+      },
+      "properties": {
+        "name": "Hamm Dreifaltigkeit",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hamm-dreifaltigkeit"
       }
     },
     {
@@ -2902,6 +3062,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.973883,
+          53.582136
+        ]
+      },
+      "properties": {
+        "name": "Hoheluft St. Markus",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/hoheluft-st-markus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.010454,
           53.500874
         ]
@@ -2911,6 +3087,22 @@
         "district": "Kirchenkreis Hamburg-Ost",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/kirchdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056105,
+          53.633803
+        ]
+      },
+      "properties": {
+        "name": "Klein Borstel Maria-Magdalenen",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/klein-borstel-maria-magdalenen"
       }
     },
     {
