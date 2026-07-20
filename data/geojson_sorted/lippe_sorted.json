@@ -378,6 +378,21 @@
     {
       "geometry": {
         "coordinates": [
+          8.833486,
+          51.944490
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "archive": "Lippische Landeskirche",
+        "name": "Heidenoldendorf",
+        "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-lippischen-landeskirche/heidenoldendorf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           8.878023,
           51.90712
         ],
@@ -627,6 +642,21 @@
         "archive": "Lippische Landeskirche",
         "name": "Lemgo-St-Nicolai-luth",
         "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-lippischen-landeskirche/lemgo-st-nicolai-luth"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.904886,
+          52.028837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "archive": "Lippische Landeskirche",
+        "name": "Lemgo-St-Pauli",
+        "path": "/de/alle-archive/nordrhein-westfalen/archiv-der-lippischen-landeskirche/lemgo-st-pauli"
       },
       "type": "Feature"
     },
