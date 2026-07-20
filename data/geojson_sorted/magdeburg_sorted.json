@@ -12950,6 +12950,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.842278,
+          51.598567
+        ]
+      },
+      "properties": {
+        "name": "Deutleben",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/deutleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.038698,
           51.435043
         ]
@@ -13222,6 +13238,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.805457,
+          51.658855
+        ]
+      },
+      "properties": {
+        "name": "Golbitz",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/golbitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.167122,
           51.514725
         ]
@@ -13327,6 +13359,22 @@
         "district": "Kirchenkreis Halle-Saalkreis",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/halle-st-moritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.972674,
+          51.481251
+        ]
+      },
+      "properties": {
+        "name": "Halle (St.Ulrich)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/halle-st-ulrich"
       }
     },
     {
@@ -13807,6 +13855,22 @@
         "district": "Kirchenkreis Halle-Saalkreis",
         "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
         "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/nauendorf-st-wenzeslai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.078017,
+          51.461465
+        ]
+      },
+      "properties": {
+        "name": "Naundorf (bei Reideburg)",
+        "district": "Kirchenkreis Halle-Saalkreis",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-halle-saalkreis/naundorf-bei-reideburg"
       }
     },
     {
