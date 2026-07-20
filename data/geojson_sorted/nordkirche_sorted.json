@@ -17046,6 +17046,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.312466,
+          53.509244
+        ]
+      },
+      "properties": {
+        "name": "Blankensee",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/blankensee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.616568,
           53.826194
         ]
@@ -19311,6 +19327,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/stralsund-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.091176,
+          54.315372
+        ]
+      },
+      "properties": {
+        "name": "Stralsund St. Nikolai",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/stralsund-st-nikolai"
       }
     },
     {
