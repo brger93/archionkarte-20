@@ -17750,6 +17750,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.107609,
+          54.011644
+        ]
+      },
+      "properties": {
+        "name": "Gülzowshof",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/guelzowshof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195046,
+          53.979689
+        ]
+      },
+      "properties": {
+        "name": "Gülzowshof-Trantow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/guelzowshof-trantow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.41003,
           53.937869
         ]
@@ -18127,6 +18159,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/kartlow-voelschow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416261,
+          54.339765
+        ]
+      },
+      "properties": {
+        "name": "Kasnevitz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/kasnevitz"
       }
     },
     {
@@ -18742,6 +18790,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.468012,
+          54.350371
+        ]
+      },
+      "properties": {
+        "name": "Putbus",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/putbus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.204861,
+          54.355083
+        ]
+      },
+      "properties": {
+        "name": "Rambin",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/rambin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.528985,
           53.948257
         ]
@@ -18822,8 +18902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.885702,
-          54.200731
+          12.885936,
+          54.199834
         ]
       },
       "properties": {
@@ -18975,6 +19055,38 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/sagard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.295259,
+          54.356426
+        ]
+      },
+      "properties": {
+        "name": "Samtens",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/samtens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.259442,
+          54.404018
+        ]
+      },
+      "properties": {
+        "name": "Samtens-Landow",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/samtens-landow"
       }
     },
     {
@@ -19439,6 +19551,22 @@
         "district": "Kirchenkreis Pommern",
         "archive": "Ev.-Luth. Kirche in Norddeutschland",
         "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/velgast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.517830,
+          54.357424
+        ]
+      },
+      "properties": {
+        "name": "Vilmnitz",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/vilmnitz"
       }
     },
     {
