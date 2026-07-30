@@ -16870,6 +16870,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.125300,
+          54.329995
+        ]
+      },
+      "properties": {
+        "name": "Altefähr",
+        "district": "Kirchenkreis Pommern",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-pommern/altefaehr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.836209,
           53.704278
         ]
