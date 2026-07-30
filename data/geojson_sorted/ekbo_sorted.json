@@ -70,6 +70,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.001374,
+          52.950748
+        ]
+      },
+      "properties": {
+        "name": "Bölkendorf",
+        "district": "Kirchenkreis Angermünde",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-angermuende/boelkendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.057853,
           53.153053
         ]
