@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [5.11.0] - 2026-08-14
+### Added
+* *magdeburg_sorted.json* was extended by *Kirchenkreis Naumburg-Zeitz*
+
 ## [5.10.0] - 2026-07-17
 ### Added
 * *nordkirche_sorted.json* was extended by missing parishes of *Kirchenkreis Hamburg-Ost*
