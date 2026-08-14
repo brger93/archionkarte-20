@@ -19222,6 +19222,3430 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.5618313,
+          51.2439722
+        ]
+      },
+      "properties": {
+        "name": "Altenroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/altenroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.801026,
+          51.059075
+        ]
+      },
+      "properties": {
+        "name": "Aue",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/aue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.580490,
+          51.205243
+        ]
+      },
+      "properties": {
+        "name": "Bad Bibra (Mariae Magdalena)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/bad-bibra-mariae-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.580490,
+          51.205242
+        ]
+      },
+      "properties": {
+        "name": "Bad Bibra (Stiftskirche Mariae Magdalena)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/bad-bibra-stiftskirche-mariae-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.716670,
+          51.134631
+        ]
+      },
+      "properties": {
+        "name": "Bad Kösen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/bad-koesen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7347334,
+          51.2061992
+        ]
+      },
+      "properties": {
+        "name": "Balgstädt",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/balgstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7347334,
+          51.2061992
+        ]
+      },
+      "properties": {
+        "name": "Balgstädt (Zur heiligen Dreifaltigkeit)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/balgstaedt-zur-heiligen-dreifaltigkeit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7569745,
+          51.2620959
+        ]
+      },
+      "properties": {
+        "name": "Baumersroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/baumersroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626975,
+          51.133565
+        ]
+      },
+      "properties": {
+        "name": "Benndorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/benndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.486830,
+          51.218283
+        ]
+      },
+      "properties": {
+        "name": "Bernsdorf (St. Stephanus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/bernsdorf-st-stephanus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4721666,
+          51.1959821
+        ]
+      },
+      "properties": {
+        "name": "Billroda (St. Martin)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/billroda-st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5222211,
+          51.1796552
+        ]
+      },
+      "properties": {
+        "name": "Borgau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/borgau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.526863,
+          51.164440
+        ]
+      },
+      "properties": {
+        "name": "Braunsroda (St. Margarethen)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/braunsroda-st-margarethen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.076986,
+          51.004001
+        ]
+      },
+      "properties": {
+        "name": "Breitenbach",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/breitenbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.228148,
+          50.9563397
+        ]
+      },
+      "properties": {
+        "name": "Bröckau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/broeckau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.508389,
+          51.235880
+        ]
+      },
+      "properties": {
+        "name": "Bucha (St. Cäcilia)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/bucha-st-caecilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6507171,
+          51.1595801
+        ]
+      },
+      "properties": {
+        "name": "Burgheßler (St. Bonifacius)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/burghessler-st-bonifacius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5194086,
+          51.1345409
+        ]
+      },
+      "properties": {
+        "name": "Burgholzhausen (St. Martin)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/burgholzhausen-st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6320962,
+          51.2479877
+        ]
+      },
+      "properties": {
+        "name": "Burgscheidungen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/burgscheidungen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6481808,
+          51.1823302
+        ]
+      },
+      "properties": {
+        "name": "Burkersroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/burkersroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1770304,
+          51.0525064
+        ]
+      },
+      "properties": {
+        "name": "Burtschütz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/burtschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.150396,
+          51.165883
+        ]
+      },
+      "properties": {
+        "name": "Deumen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/deumen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6209067,
+          51.1757609
+        ]
+      },
+      "properties": {
+        "name": "Dietrichsroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/dietrichsroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.142560,
+          51.150502
+        ]
+      },
+      "properties": {
+        "name": "Dobergast",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/dobergast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8331395,
+          51.1999277
+        ]
+      },
+      "properties": {
+        "name": "Dobichau (St. Johannis-Baptistae)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/dobichau-st-johannis-baptistae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1246208,
+          51.1108548
+        ]
+      },
+      "properties": {
+        "name": "Döbris",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/doebris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1733272,
+          51.1758475
+        ]
+      },
+      "properties": {
+        "name": "Domsen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/domsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.680301,
+          51.234469
+        ]
+      },
+      "properties": {
+        "name": "Dorndorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/dorndorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.051135,
+          51.0729092
+        ]
+      },
+      "properties": {
+        "name": "Döschwitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/doeschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1833,
+          51.1
+        ]
+      },
+      "properties": {
+        "name": "Draschwitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/draschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0279985,
+          51.0420126
+        ]
+      },
+      "properties": {
+        "name": "Droyßig (St. Bartholomäus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/droyssig-st-bartholomaeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7777971,
+          51.255887
+        ]
+      },
+      "properties": {
+        "name": "Ebersroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/ebersroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.559359,
+          51.121188
+        ]
+      },
+      "properties": {
+        "name": "Eckartsberga-Steinburg",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/eckartsberga-steinburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5604073,
+          51.1231891
+        ]
+      },
+      "properties": {
+        "name": "Eckartsberga (St. Mauritius)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/eckartsberga-st-mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8543599,
+          51.1801713
+        ]
+      },
+      "properties": {
+        "name": "Eulau (St. Nicolai)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/eulau-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.766100,
+          51.131898
+        ]
+      },
+      "properties": {
+        "name": "Flemmingen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/flemmingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7696956,
+          51.2126192
+        ]
+      },
+      "properties": {
+        "name": "Freyburg (St. Marien)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/freyburg-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.070407,
+          51.089487
+        ]
+      },
+      "properties": {
+        "name": "Gaumnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/gaumnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6127933,
+          51.116666
+        ]
+      },
+      "properties": {
+        "name": "Gernstedt",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/gernstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.189323,
+          51.0116666
+        ]
+      },
+      "properties": {
+        "name": "Geußnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/geussnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0601526,
+          51.0729099
+        ]
+      },
+      "properties": {
+        "name": "Gladitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/gladitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.720217,
+          51.2602401
+        ]
+      },
+      "properties": {
+        "name": "Gleina",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/gleina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.720217,
+          51.2602401
+        ]
+      },
+      "properties": {
+        "name": "Gleina (St. Trinitatis)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/gleina-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8996786,
+          51.0554482
+        ]
+      },
+      "properties": {
+        "name": "Goldschau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/goldschau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6200856,
+          51.2087023
+        ]
+      },
+      "properties": {
+        "name": "Golzen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/golzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.217166,
+          50.959529
+        ]
+      },
+      "properties": {
+        "name": "Görnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/goernitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.900485,
+          51.111183
+        ]
+      },
+      "properties": {
+        "name": "Görschen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/goerschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8720591,
+          51.1939777
+        ]
+      },
+      "properties": {
+        "name": "Goseck (St. Andreae)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/goseck-st-andreae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598181,
+          51.150150
+        ]
+      },
+      "properties": {
+        "name": "Gößnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/goessnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1165,
+          51.1885904
+        ]
+      },
+      "properties": {
+        "name": "Göthewitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/goethewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8584011,
+          51.0831095
+        ]
+      },
+      "properties": {
+        "name": "Großgestewitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/grossgestewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1618904,
+          51.1652174
+        ]
+      },
+      "properties": {
+        "name": "Großgrimma",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/grossgrimma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7901275,
+          51.1891418
+        ]
+      },
+      "properties": {
+        "name": "Großjena",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/grossjena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7152462,
+          51.1879969
+        ]
+      },
+      "properties": {
+        "name": "Größnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/groessnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1687173,
+          50.9969092
+        ]
+      },
+      "properties": {
+        "name": "Großpörthen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/grosspoerthen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.544591,
+          51.268881
+        ]
+      },
+      "properties": {
+        "name": "Großwangen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/grosswangen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.094769,
+          51.148539
+        ]
+      },
+      "properties": {
+        "name": "Grunau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/grunau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.914303,
+          51.067047
+        ]
+      },
+      "properties": {
+        "name": "Haardorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/haardorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6577818,
+          51.1275104
+        ]
+      },
+      "properties": {
+        "name": "Hassenhausen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/hassenhausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0665678,
+          51.0184582
+        ]
+      },
+      "properties": {
+        "name": "Haynsburg",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/haynsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4765387,
+          51.1431335
+        ]
+      },
+      "properties": {
+        "name": "Herrengosserstedt (St. Trinitatis)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/herrengosserstedt-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1543603,
+          50.9663912
+        ]
+      },
+      "properties": {
+        "name": "Heuckewalde",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/heuckewalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.684315,
+          51.204619
+        ]
+      },
+      "properties": {
+        "name": "Hirschroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/hirschroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.219859,
+          50.947980
+        ]
+      },
+      "properties": {
+        "name": "Hohenkirchen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/hohenkirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0981844,
+          51.1573976
+        ]
+      },
+      "properties": {
+        "name": "Hohenmölsen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/hohenmoelsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0981844,
+          51.1573976
+        ]
+      },
+      "properties": {
+        "name": "Hohenmölsen (St. Peter)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/hohenmoelsen-st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0330122,
+          51.078481
+        ]
+      },
+      "properties": {
+        "name": "Hollsteitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/hollsteitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1117716,
+          51.1480741
+        ]
+      },
+      "properties": {
+        "name": "Jaucha (St. Martin)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/jaucha-st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4833,
+          51.2167
+        ]
+      },
+      "properties": {
+        "name": "Kahlwinkel",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kahlwinkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558407,
+          51.1915518
+        ]
+      },
+      "properties": {
+        "name": "Kalbitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kalbitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6529692,
+          51.2807821
+        ]
+      },
+      "properties": {
+        "name": "Karsdorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/karsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6529692,
+          51.2807821
+        ]
+      },
+      "properties": {
+        "name": "Karsdorf (St. Laurentius)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/karsdorf-st-laurentius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2349297,
+          50.992367
+        ]
+      },
+      "properties": {
+        "name": "Kayna",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kayna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0826753,
+          51.1407347
+        ]
+      },
+      "properties": {
+        "name": "Keutschen (St. Georg)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/keutschen-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6579288,
+          51.2451996
+        ]
+      },
+      "properties": {
+        "name": "Kirchscheidungen (St. Johannes)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kirchscheidungen-st-johannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0369771,
+          51.0627689
+        ]
+      },
+      "properties": {
+        "name": "Kirchsteitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kirchsteitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9677891,
+          51.1049707
+        ]
+      },
+      "properties": {
+        "name": "Kistritz (St. Trinitatis)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kistritz-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9288321,
+          51.0369791
+        ]
+      },
+      "properties": {
+        "name": "Kleinhelmsdorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kleinhelmsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6729337,
+          51.1051355
+        ]
+      },
+      "properties": {
+        "name": "Kleinheringen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kleinheringen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7770418,
+          51.1811013
+        ]
+      },
+      "properties": {
+        "name": "Kleinjena",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kleinjena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1737806,
+          50.9804312
+        ]
+      },
+      "properties": {
+        "name": "Kleinpörthen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kleinpoerthen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.548446,
+          51.273111
+        ]
+      },
+      "properties": {
+        "name": "Kleinwangen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kleinwangen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6122836,
+          51.1637924
+        ]
+      },
+      "properties": {
+        "name": "Klosterhäseler (St. Petri)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/klosterhaeseler-st-petri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624534,
+          51.202929
+        ]
+      },
+      "properties": {
+        "name": "Krawinkel",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/krawinkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0795222,
+          51.0579514
+        ]
+      },
+      "properties": {
+        "name": "Kretzschau (St. Wolfgang)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kretzschau-st-wolfgang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9917865,
+          51.1230397
+        ]
+      },
+      "properties": {
+        "name": "Krössuln",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/kroessuln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.752641,
+          51.142034
+        ]
+      },
+      "properties": {
+        "name": "Landesschule Pforta",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/landesschule-pforta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.954684,
+          51.176722
+        ]
+      },
+      "properties": {
+        "name": "Langendorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/langendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.680287,
+          51.223330
+        ]
+      },
+      "properties": {
+        "name": "Laucha (St. Marien)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/laucha-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899958,
+          51.1257125
+        ]
+      },
+      "properties": {
+        "name": "Lißdorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/lissdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922816,
+          51.082443
+        ]
+      },
+      "properties": {
+        "name": "Lissen (Osterfeld-Propstei)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/lissen-osterfeld-propstei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922817,
+          51.082444
+        ]
+      },
+      "properties": {
+        "name": "Lissen Osterfeld (Propstei)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/lissen-osterfeld-propstei-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.228388,
+          51.007925
+        ]
+      },
+      "properties": {
+        "name": "Lobas",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/lobas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8827278,
+          51.088217
+        ]
+      },
+      "properties": {
+        "name": "Löbitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/loebitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.221852,
+          51.030913
+        ]
+      },
+      "properties": {
+        "name": "Loitsch",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/loitsch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1450616,
+          50.9805719
+        ]
+      },
+      "properties": {
+        "name": "Loitzschütz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/loitzschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.411383,
+          51.220372
+        ]
+      },
+      "properties": {
+        "name": "Lossa",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/lossa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8721646,
+          51.2119463
+        ]
+      },
+      "properties": {
+        "name": "Markröhlitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/markroehlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1687156,
+          51.0768938
+        ]
+      },
+      "properties": {
+        "name": "Maßnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/massnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9883345,
+          51.0760857
+        ]
+      },
+      "properties": {
+        "name": "Meineweh",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/meineweh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4914523,
+          51.2646037
+        ]
+      },
+      "properties": {
+        "name": "Memleben",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/memleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.857826,
+          51.119577
+        ]
+      },
+      "properties": {
+        "name": "Mertendorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/mertendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8180875,
+          51.0850238
+        ]
+      },
+      "properties": {
+        "name": "Meyhen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/meyhen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4782811,
+          51.1268679
+        ]
+      },
+      "properties": {
+        "name": "Millingsdorf (St. Peter)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/millingsdorf-st-peter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1308539,
+          51.1916434
+        ]
+      },
+      "properties": {
+        "name": "Muschwitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/muschwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.119156,
+          51.132042
+        ]
+      },
+      "properties": {
+        "name": "Mutschau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/mutschau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7734369,
+          51.150808
+        ]
+      },
+      "properties": {
+        "name": "Naumburg-Almrich",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-almrich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Dom Peter-Paul)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-dom-peter-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Dom, Peter und Paul)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-dom-peter-und-paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Kadette)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-kadette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Mariengemeinde)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-mariengemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Mariengemeinde am Dom)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-mariengemeinde-am-dom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Militärgemeinde)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (Peter-Pauls-Dom)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-peter-pauls-dom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (St. Moritz)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-st-moritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (St. Othmar)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-st-othmar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8099186,
+          51.1525648
+        ]
+      },
+      "properties": {
+        "name": "Naumburg (St. Wenzel)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naumburg-st-wenzel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.086799,
+          51.113567
+        ]
+      },
+      "properties": {
+        "name": "Naundorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/naundorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5787877,
+          51.2873083
+        ]
+      },
+      "properties": {
+        "name": "Nebra (St. Georg)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/nebra-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.531202,
+          51.1272225
+        ]
+      },
+      "properties": {
+        "name": "Niederholzhausen (St. Moritz)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/niederholzhausen-st-moritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7054445,
+          51.1566458
+        ]
+      },
+      "properties": {
+        "name": "Niedermöllern (St. Georg)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/niedermoellern-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2815142,
+          51.0197243
+        ]
+      },
+      "properties": {
+        "name": "Nißma",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/nissma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7720289,
+          51.1998403
+        ]
+      },
+      "properties": {
+        "name": "Nißmitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/nissmitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6764736,
+          51.1627391
+        ]
+      },
+      "properties": {
+        "name": "Obermöllern (St. Nicolaus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/obermoellern-st-nicolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6764736,
+          51.1627391
+        ]
+      },
+      "properties": {
+        "name": "Obermöllern (St. Nikolaus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/obermoellern-st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.099328,
+          50.998425
+        ]
+      },
+      "properties": {
+        "name": "Ossig",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/ossig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9305596,
+          51.0806259
+        ]
+      },
+      "properties": {
+        "name": "Osterfeld (Luther)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/osterfeld-luther"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.197740,
+          51.096958
+        ]
+      },
+      "properties": {
+        "name": "Ostrau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/ostrau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8815026,
+          51.2373348
+        ]
+      },
+      "properties": {
+        "name": "Pettstädt",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/pettstaedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1391577,
+          51.0984724
+        ]
+      },
+      "properties": {
+        "name": "Pirkau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/pirkau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983878,
+          51.177493
+        ]
+      },
+      "properties": {
+        "name": "Pleismar",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/pleismar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.656020,
+          51.207711
+        ]
+      },
+      "properties": {
+        "name": "Plößnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/ploessnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8342961,
+          51.2078189
+        ]
+      },
+      "properties": {
+        "name": "Pödelist",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/poedelist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6953888,
+          51.1560477
+        ]
+      },
+      "properties": {
+        "name": "Pomnitz (St. Johannes Evangelist)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/pomnitz-st-johannes-evangelist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627875,
+          51.126738
+        ]
+      },
+      "properties": {
+        "name": "Poppel",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/poppel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8983588,
+          51.1598108
+        ]
+      },
+      "properties": {
+        "name": "Possenhain",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/possenhain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9896531,
+          51.0048071
+        ]
+      },
+      "properties": {
+        "name": "Pötewitz (St. Sebastian)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/poetewitz-st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.200481,
+          51.117106
+        ]
+      },
+      "properties": {
+        "name": "Predel",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/predel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.005295,
+          51.081956
+        ]
+      },
+      "properties": {
+        "name": "Priesen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/priesen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2164154,
+          51.1273522
+        ]
+      },
+      "properties": {
+        "name": "Profen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/profen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6775033,
+          51.1406735
+        ]
+      },
+      "properties": {
+        "name": "Punschrau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/punschrau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0115891,
+          51.0641226
+        ]
+      },
+      "properties": {
+        "name": "Quesnitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/quesnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6427011,
+          51.1136152
+        ]
+      },
+      "properties": {
+        "name": "Rehehausen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/rehehausen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2299062,
+          51.0614796
+        ]
+      },
+      "properties": {
+        "name": "Rehmsdorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/rehmsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1939879,
+          51.1104559
+        ]
+      },
+      "properties": {
+        "name": "Reuden",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/reuden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1307279,
+          51.0100265
+        ]
+      },
+      "properties": {
+        "name": "Rippicha",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/rippicha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.776861,
+          51.171570
+        ]
+      },
+      "properties": {
+        "name": "Roßbach",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/rossbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0592668,
+          51.1671808
+        ]
+      },
+      "properties": {
+        "name": "Rössuln",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/roessuln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4240868,
+          51.2011101
+        ]
+      },
+      "properties": {
+        "name": "Rothenberga",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/rothenberga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4240868,
+          51.2011101
+        ]
+      },
+      "properties": {
+        "name": "Rothenberga (St. Nikolaus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/rothenberga-st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6996107,
+          51.1116339
+        ]
+      },
+      "properties": {
+        "name": "Saaleck",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/saaleck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7128176,
+          51.1171845
+        ]
+      },
+      "properties": {
+        "name": "Saaleck-Lengefeld",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/saaleck-lengefeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0902771,
+          51.038098
+        ]
+      },
+      "properties": {
+        "name": "Salsitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/salsitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5204068,
+          51.2187306
+        ]
+      },
+      "properties": {
+        "name": "Saubach (St. Jacobi und St. Nicolai)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/saubach-st-jacobi-und-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0012365,
+          51.1002493
+        ]
+      },
+      "properties": {
+        "name": "Schelkau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schelkau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.118518,
+          50.975802
+        ]
+      },
+      "properties": {
+        "name": "Schellbach",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schellbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8450948,
+          51.1573605
+        ]
+      },
+      "properties": {
+        "name": "Schellsitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schellsitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5730628,
+          51.1734194
+        ]
+      },
+      "properties": {
+        "name": "Schimmel",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schimmel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0457108,
+          51.0236803
+        ]
+      },
+      "properties": {
+        "name": "Schkauditz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schkauditz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.821197,
+          51.0408527
+        ]
+      },
+      "properties": {
+        "name": "Schkölen (St. Marien)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schkoelen-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8028998,
+          51.2384045
+        ]
+      },
+      "properties": {
+        "name": "Schleberoda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schleberoda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.868195,
+          51.159170
+        ]
+      },
+      "properties": {
+        "name": "Schönburg",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schoenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7494455,
+          51.1418502
+        ]
+      },
+      "properties": {
+        "name": "Schulpforta",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/schulpforta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5228124,
+          51.111937
+        ]
+      },
+      "properties": {
+        "name": "Seena",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/seena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.642527,
+          51.142662
+        ]
+      },
+      "properties": {
+        "name": "Spielberg (St. Martin)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/spielberg-st-martin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2654599,
+          51.0240144
+        ]
+      },
+      "properties": {
+        "name": "Spora",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/spora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.579864,
+          51.197448
+        ]
+      },
+      "properties": {
+        "name": "Steinbach (St. Margarethen)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/steinbach-st-margarethen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.516922,
+          51.190269
+        ]
+      },
+      "properties": {
+        "name": "Steinburg",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/steinburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966103,
+          51.029578
+        ]
+      },
+      "properties": {
+        "name": "Stolzenhain",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/stolzenhain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9237845,
+          51.1142361
+        ]
+      },
+      "properties": {
+        "name": "Stößen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/stoessen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6355686,
+          51.1248052
+        ]
+      },
+      "properties": {
+        "name": "Taugwitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/taugwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.475383,
+          51.1972953
+        ]
+      },
+      "properties": {
+        "name": "Tauhardt (St. Cyracus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/tauhardt-st-cyracus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0223935,
+          51.1185488
+        ]
+      },
+      "properties": {
+        "name": "Teuchern (St. Georg)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/teuchern-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040109,
+          51.2279204
+        ]
+      },
+      "properties": {
+        "name": "Thalwinkel",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/thalwinkel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.104777,
+          51.088296
+        ]
+      },
+      "properties": {
+        "name": "Theißen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/theissen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.985523,
+          51.059196
+        ]
+      },
+      "properties": {
+        "name": "Thierbach",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/thierbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4947782,
+          51.1070134
+        ]
+      },
+      "properties": {
+        "name": "Thüsdorf (St. Vitus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/thuesdorf-st-vitus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.634149,
+          51.241794
+        ]
+      },
+      "properties": {
+        "name": "Tröbsdorf (Unsere lieben Frauen)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/troebsdorf-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4833,
+          51.1167
+        ]
+      },
+      "properties": {
+        "name": "Tromsdorf (St. Nicolaus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/tromsdorf-st-nicolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4833,
+          51.1167
+        ]
+      },
+      "properties": {
+        "name": "Tromsdorf (St. Nikolaus)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/tromsdorf-st-nikolaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0862295,
+          51.1654946
+        ]
+      },
+      "properties": {
+        "name": "Wählitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/waehlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.934567,
+          51.062062
+        ]
+      },
+      "properties": {
+        "name": "Waldau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/waldau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.545749,
+          51.194404
+        ]
+      },
+      "properties": {
+        "name": "Wallroda",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wallroda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0845599,
+          51.163039
+        ]
+      },
+      "properties": {
+        "name": "Webau-Wählitz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/webau-waehlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9505531,
+          51.0449637
+        ]
+      },
+      "properties": {
+        "name": "Weickelsdorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/weickelsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7046878,
+          51.2212261
+        ]
+      },
+      "properties": {
+        "name": "Weischütz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/weischuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.995897,
+          51.029598
+        ]
+      },
+      "properties": {
+        "name": "Weißenborn",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/weissenborn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.634591,
+          51.2667904
+        ]
+      },
+      "properties": {
+        "name": "Wennungen (St. Georg)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wennungen-st-georg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0595177,
+          51.1356841
+        ]
+      },
+      "properties": {
+        "name": "Werschen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/werschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.856542,
+          51.138208
+        ]
+      },
+      "properties": {
+        "name": "Wethau",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wethau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.838109,
+          51.094999
+        ]
+      },
+      "properties": {
+        "name": "Wettaburg",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wettaburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.643106,
+          51.279310
+        ]
+      },
+      "properties": {
+        "name": "Wetzendorf (St. Kilian)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wetzendorf-st-kilian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.071803,
+          51.122042
+        ]
+      },
+      "properties": {
+        "name": "Wildschütz",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wildschuetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.751356,
+          51.181022
+        ]
+      },
+      "properties": {
+        "name": "Wilsdorf",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wilsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562480,
+          51.250434
+        ]
+      },
+      "properties": {
+        "name": "Wippach (St. Sebastian)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wippach-st-sebastian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5527387,
+          51.164272
+        ]
+      },
+      "properties": {
+        "name": "Wischroda (St. Jacobi)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wischroda-st-jacobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.194513,
+          50.976547
+        ]
+      },
+      "properties": {
+        "name": "Wittgendorf (St. Jacobi)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wittgendorf-st-jacobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4607014,
+          51.2475573
+        ]
+      },
+      "properties": {
+        "name": "Wohlmirstedt (St. Maria Magdalena)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/wohlmirstedt-st-maria-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6341095,
+          51.1379099
+        ]
+      },
+      "properties": {
+        "name": "Zäckwar",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zaeckwar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1553434,
+          51.073368
+        ]
+      },
+      "properties": {
+        "name": "Zangenberg",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zangenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.443741,
+          51.240748
+        ]
+      },
+      "properties": {
+        "name": "Zeisdorf (St. Nicolai)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeisdorf-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (Königliche Korrektions-, Landarmen- und Kranken-Anstalt)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-koenigliche-korrektions-landarmen-und-kranken-anstalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (Militärgemeinde)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (Schloßkirche)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-schlosskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (St. Michael)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-st-michael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (St. Nicolai)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-st-nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (St. Nicolai und St. Trinitatis)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-st-nicolai-und-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (St. Stephan)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-st-stephan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (St. Trinitatis)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1349991,
+          51.0491637
+        ]
+      },
+      "properties": {
+        "name": "Zeitz (Superintendentur)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeitz-superintendentur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0810369,
+          51.1416634
+        ]
+      },
+      "properties": {
+        "name": "Zembschen-Keutschen",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zembschen-keutschen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8290914,
+          51.2353468
+        ]
+      },
+      "properties": {
+        "name": "Zeuchfeld",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zeuchfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7361398,
+          51.2153168
+        ]
+      },
+      "properties": {
+        "name": "Zscheiplitz (St. Bonifacius)",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zscheiplitz-st-bonifacius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8696741,
+          51.0418401
+        ]
+      },
+      "properties": {
+        "name": "Zschorgula",
+        "district": "Kirchenkreis Naumburg-Zeitz",
+        "archive": "Ev. Landeskirche in Mitteldeutschland - Magdeburg",
+        "path": "/de/alle-archive/sachsen-anhalt/landeskirchenarchiv-der-evangelischen-kirche-mitteldeutschland/magdeburg/kirchenkreis-naumburg-zeitz/zschorgula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.007832,
           52.695102
         ]
