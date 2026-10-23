@@ -6,15 +6,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.257298,
-                    49.235446
+                    7.259903,
+                    49.236994
                 ]
             },
             "properties": {
                 "name": "Blieskastel",
                 "archive": "Stadtarchiv Blieskastel",
                 "path": "/de/alle-archive/saarland/stadtarchiv-blieskastel/blieskastel",
-                "gov": "object_292822"
+                "gov": "object_299103"
             }
         },
         {
@@ -22,15 +22,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.256032,
-                    49.251758
+                    7.256389,
+                    49.250295
                 ]
             },
             "properties": {
                 "name": "Lautzkirchen",
                 "archive": "Stadtarchiv Blieskastel",
                 "path": "/de/alle-archive/saarland/stadtarchiv-blieskastel/lautzkirchen",
-                "gov": "object_292823"
+                "gov": "LAUHEN_W6653"
             }
         }
     ],
