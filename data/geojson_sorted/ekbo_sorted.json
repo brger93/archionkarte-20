@@ -13622,6 +13622,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.273699,
+          53.063783
+        ]
+      },
+      "properties": {
+        "name": "Breitenfeld",
+        "district": "Kirchenkreis Kyritz-Wusterhausen",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-kyritz-wusterhausen/breitenfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.504712,
           52.916602
         ]
@@ -13967,6 +13983,22 @@
         "district": "Kirchenkreis Kyritz-Wusterhausen",
         "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
         "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-kyritz-wusterhausen/kyritz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.279587,
+          53.094893
+        ]
+      },
+      "properties": {
+        "name": "Langnow",
+        "district": "Kirchenkreis Kyritz-Wusterhausen",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-kyritz-wusterhausen/langnow"
       }
     },
     {
