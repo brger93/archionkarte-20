@@ -9,11 +9,8 @@ The uMap [Archionkarte 2.0](https://umap.openstreetmap.de/de/map/archionkarte-20
 
 <!-- Getting Started -->
 ## Getting Started
-### First Contact
-Dial into public Zoom meeting of [WikiTree Stammtisch](https://www.wikitree.com/wiki/Space:Stammtisch) and you will be made a GitHub collaborator.
-
 ### Alignment
-Ongoing projects are posted on [Archionkarte 2.0](https://www.wikitree.com/wiki/Space:Archionkarte_2.0) under the chapter *Work in Progress*. A WikiTree account is required to modify the free space page.
+Ongoing projects are posted on [Archionkarte 2.0](https://www.wikitree.com/wiki/Space:Archionkarte_2.0) under the chapter *Work in Progress*.
 
 ### Setup
 Before starting on this project, you need to get [uv](https://docs.astral.sh/uv/). We recommend to install it as standalone via *pipx*.
