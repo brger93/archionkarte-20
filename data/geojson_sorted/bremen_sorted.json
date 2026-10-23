@@ -14,7 +14,8 @@
         "name": "Arbergen",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/arbergen"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/arbergen",
+        "gov": "object_157589"
       }
     },
     {
@@ -30,7 +31,8 @@
         "name": "Arsten",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/arsten"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/arsten",
+        "gov": "object_158428"
       }
     },
     {
@@ -46,7 +48,8 @@
         "name": "Aumund",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/aumund"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/aumund",
+        "gov": "object_157115"
       }
     },
     {
@@ -62,7 +65,8 @@
         "name": "Blumenthal (lutherische Gemeinde)",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/blumenthal-lutherische-gemeinde"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/blumenthal-lutherische-gemeinde",
+        "gov": "object_157111"
       }
     },
     {
@@ -78,7 +82,8 @@
         "name": "Blumenthal (reformierte Gemeinde)",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/blumenthal-reformierte-gemeinde"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/blumenthal-reformierte-gemeinde",
+        "gov": "object_177989"
       }
     },
     {
@@ -94,7 +99,8 @@
         "name": "Borgfeld",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/borgfeld"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/borgfeld",
+        "gov": "object_158426"
       }
     },
     {
@@ -110,7 +116,8 @@
         "name": "Bremen, Französische Gemeinde",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-franzoesische-gemeinde"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-franzoesische-gemeinde",
+        "gov": "object_301197"
       }
     },
     {
@@ -126,7 +133,8 @@
         "name": "Bremen, Friedenskirche",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-friedenskirche"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-friedenskirche",
+        "gov": "object_158448"
       }
     },
     {
@@ -158,7 +166,8 @@
         "name": "Bremen, Propstei St. Johann",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-propstei-st-johann"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-propstei-st-johann",
+        "gov": "BREANNJO43JB"
       }
     },
     {
@@ -174,7 +183,8 @@
         "name": "Bremen, St. Ansgarii",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-ansgarii"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-ansgarii",
+        "gov": "object_158440"
       }
     },
     {
@@ -206,7 +216,8 @@
         "name": "Bremen, St. Jakobi",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-jakobi"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-jakobi",
+        "gov": "object_158442"
       }
     },
     {
@@ -222,7 +233,8 @@
         "name": "Bremen, St. Martini",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-martini"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-martini",
+        "gov": "object_158464"
       }
     },
     {
@@ -238,7 +250,8 @@
         "name": "Bremen, St. Michaelis",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-michaelis"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-michaelis",
+        "gov": "object_158464"
       }
     },
     {
@@ -270,7 +283,8 @@
         "name": "Bremen, St. Petri-Dom",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-petri-dom"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-petri-dom",
+        "gov": "object_158450"
       }
     },
     {
@@ -286,7 +300,8 @@
         "name": "Bremen, St. Remberti",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-remberti"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-st-remberti",
+        "gov": "object_158452"
       }
     },
     {
@@ -318,7 +333,8 @@
         "name": "Bremen, Unser Lieben Frauen",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-unser-lieben-frauen"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bremen-unser-lieben-frauen",
+        "gov": "object_158460"
       }
     },
     {
@@ -334,7 +350,8 @@
         "name": "Büren",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bueren"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/bueren",
+        "gov": "object_1256763"
       }
     },
     {
@@ -366,7 +383,8 @@
         "name": "Grambke",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/grambke"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/grambke",
+        "gov": "object_158462"
       }
     },
     {
@@ -382,7 +400,8 @@
         "name": "Gröpelingen",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/groepelingen"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/groepelingen",
+        "gov": "BREAUSJO43JC"
       }
     },
     {
@@ -414,7 +433,8 @@
         "name": "Hastedt",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/hastedt"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/hastedt",
+        "gov": "BREETHJO43KB"
       }
     },
     {
@@ -430,7 +450,8 @@
         "name": "Horn",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/horn"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/horn",
+        "gov": "BREORGJO43KC"
       }
     },
     {
@@ -446,7 +467,8 @@
         "name": "Huchting",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/huchting"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/huchting",
+        "gov": "BREIUSJO43IB"
       }
     },
     {
@@ -462,7 +484,8 @@
         "name": "Lesum",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/lesum"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/lesum",
+        "gov": "object_157103"
       }
     },
     {
@@ -478,7 +501,8 @@
         "name": "Oberneuland",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/oberneuland"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/oberneuland",
+        "gov": "object_158415"
       }
     },
     {
@@ -494,7 +518,8 @@
         "name": "Rablinghausen",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/rablinghausen"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/rablinghausen",
+        "gov": "object_158436"
       }
     },
     {
@@ -510,7 +535,8 @@
         "name": "Vegesack",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/vegesack"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/vegesack",
+        "gov": "object_158420"
       }
     },
     {
@@ -526,7 +552,8 @@
         "name": "Walle",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/walle"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/walle",
+        "gov": "object_158432"
       }
     },
     {
@@ -542,7 +569,8 @@
         "name": "Wasserhorst",
         "district": "Staatsarchiv Bremen",
         "archive": "Staatsarchiv Bremen",
-        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/wasserhorst"
+        "path": "/de/alle-archive/bremen/staatsarchiv-bremen/wasserhorst",
+        "gov": "object_158418"
       }
     }
   ],
