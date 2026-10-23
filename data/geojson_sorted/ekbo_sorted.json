@@ -17894,6 +17894,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.530627,
+          53.175915
+        ]
+      },
+      "properties": {
+        "name": "Deibow",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/deibow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.767395,
           53.077913
         ]
@@ -17958,6 +17974,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.783945,
+          53.133982
+        ]
+      },
+      "properties": {
+        "name": "Glövzin",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/gloevzin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.8225,
           53.006304
         ]
@@ -17967,6 +17999,22 @@
         "district": "Kirchenkreis Perleberg-Wittenberge",
         "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
         "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/gross-breese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.879718,
+          53.120611
+        ]
+      },
+      "properties": {
+        "name": "Groß Buchholz",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/gross-buchholz"
       }
     },
     {
@@ -17999,6 +18047,22 @@
         "district": "Kirchenkreis Perleberg-Wittenberge",
         "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
         "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/gross-warnow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.041702,
+          53.090598
+        ]
+      },
+      "properties": {
+        "name": "Guhlsdorf",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/guhlsdorf"
       }
     },
     {
@@ -18070,6 +18134,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.002397,
+          53.097112
+        ]
+      },
+      "properties": {
+        "name": "Klein Gottschow",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/klein-gottschow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.945722,
           53.109939
         ]
@@ -18111,6 +18191,22 @@
         "district": "Kirchenkreis Perleberg-Wittenberge",
         "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
         "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/krampfer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.802794,
+          53.202887
+        ]
+      },
+      "properties": {
+        "name": "Kribbe",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/kribbe"
       }
     },
     {
@@ -18182,6 +18278,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.667181,
+          53.132419
+        ]
+      },
+      "properties": {
+        "name": "Mankmuß",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/mankmuss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588726,
+          53.153760
+        ]
+      },
+      "properties": {
+        "name": "Mellen",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/mellen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.686485,
           53.125697
         ]
@@ -18191,6 +18319,22 @@
         "district": "Kirchenkreis Perleberg-Wittenberge",
         "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
         "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/mesekow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541150,
+          53.190952
+        ]
+      },
+      "properties": {
+        "name": "Milow",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/milow"
       }
     },
     {
@@ -18342,6 +18486,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.581209,
+          53.149624
+        ]
+      },
+      "properties": {
+        "name": "Rambow (bei Boberow)",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/rambow-bei-boberow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.012816,
           53.038915
         ]
@@ -18454,6 +18614,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.816632,
+          53.123351
+        ]
+      },
+      "properties": {
+        "name": "Schönfeld",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/schoenfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.991908,
           53.150082
         ]
@@ -18495,6 +18671,38 @@
         "district": "Kirchenkreis Perleberg-Wittenberge",
         "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
         "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/spiegelhagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.709830,
+          53.140547
+        ]
+      },
+      "properties": {
+        "name": "Stavenow",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/stavenow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.803493,
+          53.173007
+        ]
+      },
+      "properties": {
+        "name": "Strehlen",
+        "district": "Kirchenkreis Perleberg-Wittenberge",
+        "archive": "Ev. Kirche Berlin-Brandenburg-schles. Oberlausitz",
+        "path": "/de/alle-archive/berlin-/-brandenburg/landeskirchliches-archiv-der-evangelischen-kirche-berlin-brandenburg-schlesische-oberlausitz/kirchenkreis-perleberg-wittenberge/strehlen"
       }
     },
     {
