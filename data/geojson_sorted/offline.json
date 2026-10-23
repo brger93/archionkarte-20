@@ -1,0 +1,639 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.035569,
+          51.240118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Altmügeln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.096995,
+          51.289318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Altoschatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.232497,
+          51.155228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Beicha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.954632,
+          51.19918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bockelwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.185215,
+          51.313896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Borna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.041148,
+          51.38808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bucha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.008022,
+          51.327972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Calbitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.218255,
+          51.313391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Canitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.132357,
+          51.386609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cavertitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.001066,
+          51.365003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dahlen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.106497,
+          51.121708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Döbeln St. Jacobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.124779,
+          51.122139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Döbeln St. Nicolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.18326,
+          51.28862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ganzig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.03213,
+          51.339877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Großböhla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.190812,
+          51.241523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.128997,
+          51.23065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hohenwussen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.181658,
+          51.224226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jahna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.14564,
+          51.366718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Laas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.082629,
+          51.36062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lampertswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.136287,
+          51.347183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Liebschütz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.059918,
+          51.263677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Limbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.139657,
+          51.286928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lonnewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.958225,
+          51.335871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Luppa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.9905,
+          51.332142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Malkwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.087942,
+          51.319911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Merkwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.188519,
+          51.136994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mochau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.047468,
+          51.23727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mügeln St. Johannis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.105924,
+          51.256827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Naundorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.151135,
+          51.078712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Niederstriegis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.952925,
+          51.416296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ochsensaal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.103269,
+          51.406521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Olganitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.105309,
+          51.29833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Oschatz Klosterkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.107863,
+          51.297773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Oschatz St. Aegidien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.156981,
+          51.202724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ostrau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.253099,
+          53.513479
+        ]
+      },
+      "properties": {
+        "name": "Reinbek Maria Magdalena",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/reinbek-maria-magdalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.236018,
+          53.512169
+        ]
+      },
+      "properties": {
+        "name": "Reinbek Nathan-Söderblom",
+        "district": "Kirchenkreis Hamburg-Ost",
+        "archive": "Ev.-Luth. Kirche in Norddeutschland",
+        "path": "/de/alle-archive/schleswig-holstein/landeskirchliches-archiv-der-evangelisch-lutherischen-kirche-in-norddeutschland/kirchenkreis-hamburg-ost/reinbek-nathan-soederblom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.184674,
+          51.065719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Roßwein Marienkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.985095,
+          51.39763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Schmannewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.144695,
+          51.30846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Schmorkau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.080365,
+          51.243478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Schweta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.166053,
+          51.142014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simselwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.10017,
+          51.372559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sörnewitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.12773,
+          51.328252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Terpitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.096026,
+          51.342889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wellerswalde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.192212,
+          51.338716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zaußwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.143498,
+          51.275266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zöschau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.161364,
+          51.166735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zschaitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.19661,
+          51.197578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zschochau"
+      }
+    }
+  ],
+  "properties": {
+    "archive": "Offline Test",
+    "created": "2026-10-23"
+  }
+}
