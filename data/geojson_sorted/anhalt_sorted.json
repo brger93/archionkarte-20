@@ -1670,6 +1670,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.139074,
+          51.966024
+        ]
+      },
+      "properties": {
+        "name": "Bone",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/bone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.203547,
+          51.978571
+        ]
+      },
+      "properties": {
+        "name": "Bornum",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/bornum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.146722,
+          51.876391
+        ]
+      },
+      "properties": {
+        "name": "Brambach",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/brambach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.406102,
           51.942938
         ]
@@ -1743,6 +1791,22 @@
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/deetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.030286,
+          51.926436
+        ]
+      },
+      "properties": {
+        "name": "Eichholz",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/eichholz"
       }
     },
     {
@@ -1862,6 +1926,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.028585,
+          51.961038
+        ]
+      },
+      "properties": {
+        "name": "Niederlepte",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/niederlepte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.010731,
+          51.964062
+        ]
+      },
+      "properties": {
+        "name": "Nutha",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/nutha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.028525,
+          51.892115
+        ]
+      },
+      "properties": {
+        "name": "Steckby",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/steckby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.074558,
+          51.877658
+        ]
+      },
+      "properties": {
+        "name": "Steutz",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/steutz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.172942,
           52.016795
         ]
@@ -1910,6 +2038,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.139820,
+          51.910275
+        ]
+      },
+      "properties": {
+        "name": "Wertlau",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/wertlau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.501928,
           51.927428
         ]
@@ -1919,6 +2063,134 @@
         "district": "Kirchenkreis Zerbst",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/woerpen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.078874,
+          51.971656
+        ]
+      },
+      "properties": {
+        "name": "Zerbst-Ankuhn, St. Marien",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-ankuhn-st-marien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.082223,
+          51.963571
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, Militärgemeinde",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-militaergemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.081622,
+          51.964118
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, Schlosskapelle",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-schlosskapelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.081910,
+          51.963848
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, Schlosskirche",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-schlosskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.084736,
+          51.963788
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, St. Bartholomäi",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-st-bartholomaei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.084926,
+          51.969395
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, St. Nikolai",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-st-nikolai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.086297,
+          51.969471
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, St. Nikolai und St. Trinitatis",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-st-nikolai-und-st-trinitatis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.087379,
+          51.969596
+        ]
+      },
+      "properties": {
+        "name": "Zerbst, St. Trinitatis",
+        "district": "Kirchenkreis Zerbst",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-zerbst/zerbst-st-trinitatis"
       }
     },
     {
