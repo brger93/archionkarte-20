@@ -28,18 +28,27 @@ Activate your environment via:
 There are no requirements set for pushes to main branch at the moment for project collaborators.
 
 ### GeoData Processing
-To create a GeoJSON for a desired church district, call `main` module with the necessary command-line arguments and execute as script:
+To create a GeoJSON for a desired church district, call `main` module and execute as script:
 ```bash
 python -m archionkarte.main --url URL --archive ARCHIVE --district DISTRICT --path PATH
 ```
-If applicable, copy GeoJSON (district) into existing GeoJSON (archive) manually.
-
-### Command-Line Usage
 The following command-line arguments are expected:
 * `--url`: URL to Archion web page on district level
 * `--archive`: Name of archive, e.g. "Ev. Landeskirche in Mitteldeutschland - Magdeburg"
 * `--district`: Name of district, e.g. "Kirchenkreis Elbe-Fläming"
 * `--path`: Output path for json file, e.g. "C:/Users/username/workspace/elbe-fläming.json"
+
+> [!TIP]
+>If applicable, copy GeoJSON (district) into existing GeoJSON (archive) manually.
+
+> [!IMPORTANT]
+>The geolocations must be checked for accuracy!
+
+### GOV Object ID Processing
+The geolocations are supplemented by object IDs (type 26) of GOV, a historical geographic database maintained by CompGen. The IDs are obtained using the GOV Webservice (searchByNameAndType).
+
+> [!IMPORTANT]
+>The object IDs must be checked for accuracy!
 
 <!-- RELEASE PROCESS -->
 ## Release Process
