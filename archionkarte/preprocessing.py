@@ -1,3 +1,4 @@
+import json
 import logging
 import time
 
@@ -65,11 +66,43 @@ def get_long_and_lat(archive_list: list) -> tuple[list, list]:
     return lat, long
 
 
+def get_gov_id(archive_list: list) -> list[str]:
+    """Get GOV ID for each parish and write to a list."""
+    # Initialize
+    gov_id = []
+    archive_names = []
+    gov_object_type = 26  # Parish
+    status = 200  # HTTP 200 OK
+
+    # Create list with only archive names (Beware: Parish name with suffix)
+    for i in range(len(archive_list)):
+        archive_names.append(archive_list[i].split()[0])
+
+    # Get GOV object ID
+    for parish in archive_names:
+        api_params = {"placename": parish, "types": gov_object_type}
+        api_url = "https://gov.genealogy.net/api/searchByNameAndType"
+
+        response = requests.get(api_url, params=api_params, timeout=10)
+
+        if response.status_code == status:
+            data = json.loads(response.text)
+
+            if not data:
+                gov_id.append("")
+            if data:
+                parish_gov_id = data[0]["id"]
+                gov_id.append(parish_gov_id)
+
+    return gov_id
+
+
 def get_df(
     archive_list: list,
     link_list: list,
     archive_name: str,
     district_name: str,
+    gov_id: list,
     lat: list,
     long: list,
 ) -> pd.DataFrame:
@@ -78,6 +111,7 @@ def get_df(
     df["district"] = district_name
     df["archive"] = archive_name
     df["path"] = pd.Series(link_list, index=df.index)
+    df["gov"] = pd.Series(gov_id, index=df.index)
     df["latitude"] = pd.Series(lat, index=df.index)
     df["longitude"] = pd.Series(long, index=df.index)
     df.columns = [
@@ -85,6 +119,7 @@ def get_df(
         "district",
         "archive",
         "path",
+        "gov",
         "latitude",
         "longitude",
     ]

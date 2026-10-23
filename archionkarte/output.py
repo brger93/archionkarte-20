@@ -21,7 +21,7 @@ def write_df_to_geojson(df: pd.DataFrame) -> dict:
             row["longitude"],
             row["latitude"],
         ]
-        for prop in ["name", "district", "archive", "path"]:
+        for prop in ["name", "district", "archive", "path", "gov"]:
             feature["properties"][prop] = row[prop]
         geojson["features"].append(feature)
     logger.info("GeoJSON was created.")

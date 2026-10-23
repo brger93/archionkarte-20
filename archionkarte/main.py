@@ -4,6 +4,7 @@ import logging
 from archionkarte.output import save_geojson, write_df_to_geojson
 from archionkarte.preprocessing import (
     get_df,
+    get_gov_id,
     get_long_and_lat,
     scrape_archion_content,
 )
@@ -53,12 +54,16 @@ def main() -> None:
     # Get Latitude and Longitude
     lat, long = get_long_and_lat(archive_list)
 
+    # Get GOV ID
+    gov = get_gov_id(archive_list)
+
     # Get DataFrame
     df = get_df(
         archive_list,
         link_list,
         archive_name,
         district_name,
+        gov,
         lat,
         long,
     )
