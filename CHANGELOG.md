@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [6.0.0] - 2026-10-23
+### Changed
+* connection to GOV webservice (searchByNameAndType) was introduced to check for existing parish object ID (object type 26)
+
 ## [5.12.0] - 2026-10-23
 ### Added
 * *anhalt_sorted.json* was extended by missing parishes of *Kirchenkreis Zerbst* and *Kirchenkreis Ballenstedt*
