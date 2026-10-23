@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.242918,
+          51.763541
+        ]
+      },
+      "properties": {
+        "name": "Badeborn",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/badeborn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.250514,
           51.727081
         ]
@@ -47,6 +63,22 @@
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/ballenstedt-schlosskirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.136017,
+          51.724384
+        ]
+      },
+      "properties": {
+        "name": "Gernrode, St. Cyriaci",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/gernrode-st-cyriaci"
       }
     },
     {
@@ -159,6 +191,22 @@
         "district": "Kirchenkreis Ballenstedt",
         "archive": "Ev. Landeskirche Anhalts",
         "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/radisleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.166959,
+          51.732071
+        ]
+      },
+      "properties": {
+        "name": "Rieder",
+        "district": "Kirchenkreis Ballenstedt",
+        "archive": "Ev. Landeskirche Anhalts",
+        "path": "/de/alle-archive/sachsen-anhalt/archiv-der-evangelischen-landeskirche-anhalts/kirchenkreis-ballenstedt/rieder"
       }
     },
     {
