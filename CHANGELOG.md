@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [5.12.0] - 2026-10-23
 ### Added
-* *anhalt_sorted.json* was extended by missing parishes of *Kirchenkreis Zerbst*
+* *anhalt_sorted.json* was extended by missing parishes of *Kirchenkreis Zerbst* and *Kirchenkreis Ballenstedt*
 
 ## [5.11.0] - 2026-08-14
 ### Added
