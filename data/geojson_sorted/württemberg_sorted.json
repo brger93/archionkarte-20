@@ -1,6 +1,414 @@
 {
   "features": [
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.688643,
+          45.453570
+        ]
+      },
+      "properties": {
+        "name": "Altkeer (Alt-Keer, Zmajevo), Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/altkeer-alt-keer-zmajevo-serbien",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2031325,
+          44.7806827
+        ]
+      },
+      "properties": {
+        "name": "Becmen (Betschmen, Becsmen), Serbien, reformierte Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/becmen-betschmen-becsmen-serbien-reformierte-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.383364,
+          44.816175
+        ]
+      },
+      "properties": {
+        "name": "Beschanja (Bezanija), Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/beschanja-bezanija-serbien",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.066043,
+          45.128157
+        ]
+      },
+      "properties": {
+        "name": "Beschka (Beska), Serbien, Evangelisch-Lutherische Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/beschka-beska-serbien-evangelisch-lutherische-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.053085,
+          45.134257
+        ]
+      },
+      "properties": {
+        "name": "Beschka (Beska), Serbien, Reformierte Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/beschka-beska-serbien-reformierte-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.270194,
+          48.2854539
+        ]
+      },
+      "properties": {
+        "name": "Bösing (Pezinok), Slowakei",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/boesing-pezinok-slowakei",
+        "gov": "object_184794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7807299,
+          48.7180364
+        ]
+      },
+      "properties": {
+        "name": "Donauwörth, Bayern",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/donauwoerth-bayern",
+        "gov": "object_151325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7510716,
+          49.000035
+        ]
+      },
+      "properties": {
+        "name": "Kirchdrauf (Spisske Podhradije), Slowakei",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/kirchdrauf-spisske-podhradije-slowakei",
+        "gov": "object_184860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.024541,
+          45.139107
+        ]
+      },
+      "properties": {
+        "name": "Nemce (Deutschdorf, Nijemci), Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/nemce-deutschdorf-nijemci-serbien",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.024884,
+          45.142255
+        ]
+      },
+      "properties": {
+        "name": "Nemci (Deutschdorf, Nijemci), Serbien, reformierte Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/nemci-deutschdorf-nijemci-serbien-reformierte-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.142560,
+          45.291968
+        ]
+      },
+      "properties": {
+        "name": "Neudorf (Vinkvacko Novo Selo), Kroatien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/neudorf-vinkvacko-novo-selo-kroatien",
+        "gov": "object_166835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2191291,
+          44.9444762
+        ]
+      },
+      "properties": {
+        "name": "Neu-Pasua (Nova Pazova), Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/neu-pasua-nova-pazova-serbien",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5270558,
+          47.2042681
+        ]
+      },
+      "properties": {
+        "name": "Pintak (Slatinita), Rumänien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/pintak-slatinita-rumaenien",
+        "gov": "object_176614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1534331,
+          48.2117887
+        ]
+      },
+      "properties": {
+        "name": "Ratzersdorf (Raca), Slowakei",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/ratzersdorf-raca-slowakei",
+        "gov": "object_184780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065074,
+          45.185662
+        ]
+      },
+      "properties": {
+        "name": "Sidske Banovce (Banovci, Novi Banovci, Sidski Banovci, Schider Banovci, Sidske Banovce, Banowce, Banowzi), Serbien, Reformierte Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/sidske-banovce-banovci-novi-banovci-sidski-banovci-schider-banovci-sidske-banovce-banowce-banowzi-serbien-reformierte-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6083864,
+          44.9685558
+        ]
+      },
+      "properties": {
+        "name": "Sremska Mitrovica (Mitrowitz, Syrmisch-Mitrowitz), Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/sremska-mitrovica-mitrowitz-syrmisch-mitrowitz-serbien",
+        "gov": "object_167600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.271734,
+          44.982585
+        ]
+      },
+      "properties": {
+        "name": "Stari Banovci, Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/stari-banovci-serbien",
+        "gov": "object_167456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.906864,
+          45.257068
+        ]
+      },
+      "properties": {
+        "name": "Stari Jankovci, Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/stari-jankovci-serbien",
+        "gov": "object_167456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.214811,
+          48.249157
+        ]
+      },
+      "properties": {
+        "name": "St. Georgen (Sväty Jur), Slowakei",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/st-georgen-svaety-jur-slowakei",
+        "gov": "object_149505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.284245,
+          44.793873
+        ]
+      },
+      "properties": {
+        "name": "Surtschin (Surcin, Szurcsin)), Serbien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/surtschin-surcin-szurcsin-serbien",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.109575,
+          45.526601
+        ]
+      },
+      "properties": {
+        "name": "Szeliste-Velimirovac (Szeleste, Velemirovac), Ungarn, reformierte Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/szeliste-velimirovac-szeleste-velemirovac-ungarn-reformierte-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.109585,
+          45.526690
+        ]
+      },
+      "properties": {
+        "name": "Szeliste-Velimirovac (Szelest, Velemirovac), Ungarn, lutherische Gemeinde",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/szeliste-velimirovac-szelest-velemirovac-ungarn-lutherische-gemeinde",
+        "gov": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8045248,
+          45.2883771
+        ]
+      },
+      "properties": {
+        "name": "Vinkovci (Winkowitz), Kroatien",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/vinkovci-winkowitz-kroatien",
+        "gov": "object_167596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.002376,
+          45.3444094
+        ]
+      },
+      "properties": {
+        "name": "Vukovar",
+        "district": "Auslandsgemeinde",
+        "archive": "Ev. Landeskirche in Württemberg",
+        "path": "/de/alle-archive/baden-wuerttemberg/evangelisches-archiv-baden-und-wuerttemberg-wuerttemberg/auslandsgemeinde/vukovar",
+        "gov": ""
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           10.093177,
